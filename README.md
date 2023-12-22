@@ -17,6 +17,8 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - The list is mostly made by gathering reccources from many different sources
 - There might be errors in names and links
 - Tools aren't marked with pricing visit each site to find information related to that
+- A mix of consumer and enterpirice friendly tools
+- List made by [eudk](https://github.com/eudk) 
 
 Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!
 
@@ -27,6 +29,7 @@ ________________________________________________________________
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="AI Image" width="70"/>
 </p>
 
+- [BING browser](https://www.bing.com/) - Uses GPT-4 and DALLE for free image generation (built in into the browser)
 - [Google BARD/ Gemini](https://bard.google.com/) - Google AI assistant (BARD/GEMINI).
 - [OpenAI Research & Applications](https://openai.com/) - Cutting-Edge AI Research and Innovative Applications CHATGPT 3.5, 4, DALL-E 3.
 - [Jasper AI](https://www.jasper.ai/) - Multi-purpose AI tool for various applications.
