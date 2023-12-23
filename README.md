@@ -18,7 +18,10 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - There might be errors in names and links
 - Tools aren't marked with pricing visit each site to find information related to that
 - A mix of consumer and enterpirice friendly tools
-- List made by [eudk](https://github.com/eudk) 
+- List made by [eudk](https://github.com/eudk)
+  
+[🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#-resources-for-learning-ai-and-machine-learning) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#-tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#-ai-powered-compilers-and-code-assistants)
+
 
 Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!
 
@@ -571,7 +574,34 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 
 ______________________________________________________________________________
 
+## 🖼️ Tools for better image prompting
+1. [Midlibrary](https://midlibrary.io/) - A comprehensive resource for Midjourney image prompts.
+2. [AI Art ES](https://aiartes.com/reference) - Platform for exploring AI-generated art and references.
+3. [Google Docs Guide 1](https://docs.google.com/document/d/17VPu3U2qXthOpt2zWczFvf-AH6z37hxUbvEe1rJTsEc/edit#) - Detailed guide on image prompting strategies.
+4. [Google Docs Guide 2](https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit) - Additional insights on AI image generation.
+5. [Pro Prompting Tips on Reddit](https://www.reddit.com/r/midjourney/comments/vc9qhx/pro_prompting_tips/) - Community-shared pro tips for Midjourney.
+6. [Google Docs Guide 3](https://docs.google.com/document/d/e/2PACX-1vSIWlr5F6J4yv4jxazaXcZaI-F3MxCsnSq4jwoaO3vaEYC911v2N7JpDgjuhAUVYhq4VmA1SCjF3rdK/pub) - Advanced techniques for AI image generation.
+7. [MidJourney Styles and Keywords on GitHub](https://github.com/willwulfken/MidJourney-Styles-and-Keywords) - A GitHub repository with styles and keywords for Midjourney.
+8. [AI Teapot](https://rexwang8.github.io/resource/ai/teapot) - Resource for AI-related tools and references.
+9. [Google Spreadsheet for Midjourney](https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit#gid=0) - Spreadsheet with extensive Midjourney resources.
+10. [Paintings by Style on WikiArt](https://www.wikiart.org/en/paintings-by-style) - Visual art styles and paintings reference.
+11. [DALL-E Prompt Book](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y) - A collection of prompts for DALL-E image generation.
+12. [Midjourney Tips on Twitter](https://twitter.com/davidad/status/1551143240065228800) - Twitter thread with useful tips for Midjourney.
+13. [Noonshot for Midjourney](https://app.noonshot.com/midjourney) - Noonshot app with features for Midjourney.
+14. [Google Spreadsheet 2 for Midjourney](https://docs.google.com/spreadsheets/d/e/2PACX-1vQY7A8XI922SZhO0C91QExsjJGpR5la7jA1GoqZlUyLCMkkChTmIH-LzwBtFqB6stpRWZmDgwcahBlm/pubhtml#) - Another comprehensive spreadsheet for Midjourney resources.
+15. [Image-to-Text with Clip Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=YQk0eemUrSC7) - A tool for converting images to descriptive text.
+16. [BLIP on Hugging Face](https://huggingface.co/spaces/Salesforce/BLIP) - Image-to-text conversion tool on Hugging Face.
+17. [OFA Image Caption on Hugging Face](https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption) - Image captioning tool based on Hugging Face's OFA system.
+18. [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Image search and retrieval tool.
+19. [Midjourney Tips on Reddit](https://www.reddit.com/r/midjourney/comments/x5f3f4) - Reddit post with additional tips for Midjourney users.
+20. [Stable Diffusion Prompts on MPost](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/) - A list of 100 beautiful prompts for Stable Diffusion.
+21. [Top 50 Text-to-Image Prompts for AI Art Generators](https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/) - Curated list of prompts for various AI art generators.
+22. [Stable Diffusion Guide on Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/) - A beginner's guide to getting started with Stable Diffusion.
+23. [SDUpdates on Rentry](https://rentry.org/sdupdates) - Updates and information about Stable Diffusion.
+24. [Generrated](https://generrated.com/) - A platform for exploring and creating AI-generated art.
 
+
+______________________________________________________________________________
 
 # Sites with API Integration
 
