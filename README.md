@@ -650,5 +650,20 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 
 ## 🛠️ REPOS
+______________________________________________________________________________
 
+## 🛠️ Consumer AI Hardware
+- **NVIDIA GPUs** - Consumer-grade GPUs such as the GeForce series, suitable for AI research, gaming, and deep learning projects, widely available for personal purchase.
+- **Google Coral USB Accelerator** - Designed for edge AI applications, this device brings Google's TPU technology to the USB form factor, making it compatible with Raspberry Pi and other single-board computers for fast, local inference.
+- **Intel Neural Compute Stick 2** - A plug-and-play USB device that accelerates deep learning inference on edge devices, compatible with a wide range of development kits and platforms.
+- **Raspberry Pi (with AI extensions like Google Coral)** - The Raspberry Pi itself, when combined with AI extensions such as the Google Coral USB Accelerator, becomes a powerful tool for AI projects at the edge.
+- **Jetson Nano Developer Kit** - NVIDIA's compact but powerful board designed for educators, hobbyists, and embedded developers to bring AI to the edge.
+- **Movidius Myriad X VPU** - The vision processing unit (VPU) by Intel, aimed at providing AI capabilities to edge devices, including drones, smart cameras, and more.
+- **AIY Projects by Google** - Do-it-yourself AI kits provided by Google, including the Voice Kit and Vision Kit, designed to introduce developers and hobbyists to AI concepts with Raspberry Pi.
+- **OpenMV Cam H7** - A small, low-power microcontroller board optimized for machine vision applications, making it suitable for a wide range of automation projects that require visual data processing.
+- **Luxonis DepthAI** - A platform combining depth sensing with AI capabilities, designed for real-time edge AI applications and available in various form factors including USB-connected devices.
+- **Humane AI Device** - An innovative wearable device integrating AI for real-time interaction and assistance, targeting consumer applications with a focus on human-computer interaction.
+- **Rabbit AI Accelerator** - Though specific details may vary, if available, this could refer to a compact, efficient AI accelerator designed for enhancing computational capabilities on consumer devices for AI tasks.
+- **Odroid-N2 with AI Core** - A powerful single-board computer that, when equipped with an AI Core module, can handle AI tasks and deep learning applications at the edge.
+- **Khadas VIM3** - A single-board computer that comes with an NPU (Neural Processing Unit) for AI and deep learning applications, suitable for developers and hobbyists interested in edge AI projects.
 
