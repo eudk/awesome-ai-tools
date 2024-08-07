@@ -20,7 +20,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - A mix of consumer and enterpirice friendly tools
 - List made by [eudk](https://github.com/eudk)
   
-[🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#-resources-for-learning-ai-and-machine-learning) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#-tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#-ai-powered-compilers-and-code-assistants)
+[🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#-resources-for-learning-ai-and-machine-learning) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#-tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#-ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#-llm-ops)
 
 
 Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!
@@ -645,6 +645,14 @@ ______________________________________________________________________________
 - [Facebook's Aroma](https://research.fb.com/publications/aroma-code-to-code-search-and-recommendation/) - AI-based code-to-code search and recommendation tool.
 - [Codex by OpenAI](https://openai.com/blog/openai-codex/) - AI system that translates natural language to code, powered by GPT-3.
 - [Deep TabNine Local](https://www.tabnine.com/local) - Deep learning model running locally for code completion.
+
+______________________________________________________________________________
+
+## 🛠️ LLM Ops
+
+- [Helicone AI](https://www.helicone.ai/) - The open-source LLM observability for developers.
+- [LlamaIndex](https://github.com/run-llama/llama_index) - 	LlamaIndex is a data framework for your LLM applications
+- [Mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 
 
 ______________________________________________________________________________
