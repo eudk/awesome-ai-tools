@@ -2,7 +2,11 @@
 <p align="center">
   <img src="https://wp.technologyreview.com/wp-content/uploads/2019/08/datalabor3slow-10.gif" alt="AI Image" width="200"/>
 </p>
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
+</p>
 
 
 Welcome to this extensive collection of tools and resources covering a broad range of applications in the world of artificial intelligence (AI) and machine learning (ML). This list encompasses a variety of categories, including educational resources specific to AI and ML, advanced tools for photo and video generation, chatbots, language models, and essential tools for GPU renting, and more.
@@ -19,6 +23,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - Tools aren't marked with pricing visit each site to find information related to that
 - A mix of consumer and enterpirice friendly tools
 - List made by [eudk](https://github.com/eudk)
+- Contributers : [LinaLam](https://github.com/LinaLam)
   
 [🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#-resources-for-learning-ai-and-machine-learning) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#-tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#-ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#-llm-ops)
 
@@ -27,10 +32,68 @@ Your contributions and suggestions are welcome to keep this list comprehensive a
 
 <a href="https://www.buymeacoffee.com/eudk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 ________________________________________________________________
-## 🤖 Well known AI tools
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="AI Image" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
 </p>
+
+________________________________________________________________
+
+## 🚀 Godmode: Most Powerful and Frequently Used AI Tools
+
+This section highlights the most cutting-edge and powerful AI tools that are frequently used by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
+
+- **[ChatGPT](https://chat.openai.com/)** - Powered by OpenAI's GPT-4, ChatGPT is a versatile AI chatbot capable of generating human-like text, answering questions, assisting with coding, and more.
+- **[Claude AI](https://claude.ai/)** - Developed by Anthropic, Claude AI offers advanced natural language understanding and can handle complex conversational queries.
+- **[Dream machine](https://lumalabs.ai/dream-machine)** - Video from image generation (Open to everyone)
+- **[MidJourney](https://midjourney.com)** - Advanced tool for AI-driven artistic image creation.
+________________________________________________________________
+
+## 🆕 New and Emerging AI Tools
+
+This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
+- **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** - A repository that offers tools to create deepfake videos using live camera input, providing real-time face-swapping capabilities.
+- **[Meta LLaMA 3.1 Models](https://github.com/meta-llama/llama-models)** - Official repository to use and implement LLaMA 3.1 models, Meta's state-of-the-art large language models.
+- **[Agent Zero](https://github.com/frdel/agent-zero)** - A repository for creating and managing autonomous AI agents with customizable goals and tasks.
+- **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)** - A user-friendly web interface for running and interacting with text generation models, supporting a variety of models and configurations.
+- **[LM Studio](https://lmstudio.ai/)** - An AI platform providing a range of tools for language model fine-tuning, deployment, and usage.
+- **[Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)** - A repository for generating animations and high-quality visuals using stable diffusion models.
+- **[Stability AI](https://stability.ai/)** - The official website and hub for Stability AI, which offers a variety of AI-driven tools and models, particularly in image generation.
+- **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - A popular web-based interface for running Stable Diffusion models, offering extensive features and customization options.
+- **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
+
+- **[Runway ML](https://runwayml.com/)** - A creative suite for generating, editing, and manipulating media using AI, popular for video and content creation.
+- **[Deep Dream Generator](https://deepdreamgenerator.com/)** - An online tool for creating surreal images using deep neural networks, allowing for unique and artistic effects.
+- **[Synthesia](https://www.synthesia.io/)** - AI video creation platform that allows you to create professional videos with AI avatars, perfect for business presentations.
+- **[Tome AI](https://beta.tome.app/)** - AI-powered storytelling tool that helps in creating dynamic narratives with text, images, and video integrations.
+- **[Pictory](https://pictory.ai/)** - AI tool that converts long-form content, like blog posts, into engaging short-form videos.
+- **[Descript](https://www.descript.com/)** - An AI-driven tool for audio and video editing, known for its powerful transcription and editing capabilities.
+- **[Rephrase.ai](https://www.rephrase.ai/)** - AI-powered platform for creating hyper-personalized videos using deepfake technology, primarily used in marketing.
+- **[Lumen5](https://lumen5.com/)** - A video creation tool that uses AI to transform blog posts and articles into engaging videos automatically.
+- **[Murph AI](https://www.murph.ai/)** - An AI-powered voiceover tool that provides realistic voices for videos, podcasts, and presentations.
+- **[Beautiful.ai](https://www.beautiful.ai/)** - An AI-powered presentation tool that automates the design process, helping you create beautiful slides effortlessly.
+- **[CopySmith](https://www.copysmith.ai/)** - An AI tool focused on generating high-quality marketing copy, ad campaigns, and product descriptions.
+- **[Notion AI](https://www.notion.so/product/ai)** - AI-powered writing assistant integrated into Notion, enhancing productivity by helping with content creation and organization.
+- **[Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)** - AI tool by MyHeritage that animates old photos, bringing historical family images to life.
+- **[Scribe AI](https://scribehow.com/)** - An AI tool that automatically generates process documentation, making it easier to create SOPs and training materials.
+- **[D-ID](https://www.d-id.com/)** - A creative AI tool specializing in creating animated videos and images from still photos using advanced deep learning techniques.
+- **[Regie.ai](https://www.regie.ai/)** - AI writing tool specifically designed for sales teams to automate and enhance email campaigns and sales communications.
+- **[Pixray](https://pixray.github.io/)** - A text-to-image AI generator that offers customization and unique art styles, perfect for artists and creators.
+- **[Scenario GG](https://www.scenario.gg/)** - AI platform tailored for game developers to create custom assets and environments using generative models.
+- **[Durable](https://durable.co/)** - AI-powered website builder that can create a functional website in under a minute, focusing on simplicity and speed.
+- **[Typeface](https://typeface.ai/)** - An AI-driven branding and design tool that helps create unique fonts and typographic designs.
+- **[BrightBot](https://brightbot.com/)** - AI chatbot builder for customer support and engagement, offering deep customization and integration options.
+- **[Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/)** - While not new, it's a powerful Python library for web scraping that has gained renewed interest due to AI-driven data processing needs.
+- **[Riverside.fm](https://riverside.fm/)** - AI-powered platform for recording studio-quality podcasts and videos remotely, with features like real-time transcriptions and easy editing.
+- **[Suno](https://suno.com/)** - A cutting-edge AI tool focused on transforming music creation with advanced deep learning models for audio generation and enhancement.
+- **[AI or Not](https://www.aiornot.com/)** - An AI-driven tool that helps users determine whether a given piece of content was created by a human or an AI, enhancing transparency in content creation.
+- **[Udio](https://www.udio.com/)** - An AI-powered platform designed to simplify and innovate audio editing and production, making high-quality audio accessible to everyone.
+
+________________________________________________________________
+
+## 🤖 Well known AI tools
+
 
 - [BING browser](https://www.bing.com/) - Uses GPT-4 and DALLE for free image generation (built in into the browser)
 - [Google BARD/ Gemini](https://bard.google.com/) - Google AI assistant (BARD/GEMINI).
@@ -332,7 +395,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
-- [CivitAI](https://civitai.com/models) - Platform offering various AI models including image generators.
+- [CivitAI](https://civitai.com/models) - Platform offering various AI models including image generators. Works very well with midjourney
 - [DeepArt](https://deepart.io) - Turns your photos into artworks using AI.
 - [Deep Dream Generator](https://deepdreamgenerator.com) - AI-based deep learning tool for artistic image transformation.
 - [Artbreeder](https://artbreeder.com) - Collaborative AI tool for creating and editing images.
@@ -661,6 +724,7 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 
 ## 🛠️ Consumer AI Hardware
+**Make you're own research as some hardware on this list has recieved very mixed reviews**
 - **NVIDIA GPUs** - Consumer-grade GPUs such as the GeForce series, suitable for AI research, gaming, and deep learning projects, widely available for personal purchase.
 - **Google Coral USB Accelerator** - Designed for edge AI applications, this device brings Google's TPU technology to the USB form factor, making it compatible with Raspberry Pi and other single-board computers for fast, local inference.
 - **Intel Neural Compute Stick 2** - A plug-and-play USB device that accelerates deep learning inference on edge devices, compatible with a wide range of development kits and platforms.
