@@ -23,7 +23,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - Tools aren't marked with pricing visit each site to find information related to that
 - A mix of consumer and enterpirice friendly tools
 - List made by [eudk](https://github.com/eudk)
-- Contributers : [LinaLam](https://github.com/LinaLam)
+- Contributers : [LinaLam](https://github.com/LinaLam) , [altairmattstead](https://github.com/altairmattstead) , [abhir9](https://github.com/abhir9)
   
 [🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#-resources-for-learning-ai-and-machine-learning) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#-tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#-ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#-llm-ops)
 
