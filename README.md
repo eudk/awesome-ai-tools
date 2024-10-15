@@ -160,7 +160,7 @@ ________________________________________________________________
 - [krater.ai](https://krater.ai) - Your SuperApp for all things Artificial Intelligence.
 - [fathom.video](https://fathom.video) - Records, transcribes, highlights, and summarizes your meetings.
 - [levity.ai](https://levity.ai) - Automates data entry, rate lookup, and even drafts email responses—all without leaving your inbox.
-
+- [Logicballs](https://logicballs.com) - An AI-powered writing tool to create any type of content and supercharge your productivity.
 
 ________________________________________________________________
 
