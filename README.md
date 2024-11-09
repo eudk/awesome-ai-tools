@@ -15,6 +15,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 
 **Regular Updates and Disclaimer:** 
 - This list is regularly updated to include the latest and most relevant tools in the field.
+- Elements on the list are AI generated
 - Please note that while we strive to keep the list current, there might be occasional issues with some of the links.
 - We are not affiliated with any of the listed tools or platforms, nor have we tested all of them.
 - Users are advised to conduct their own research and use these tools at their own discretion.
@@ -23,7 +24,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - Tools aren't marked with pricing visit each site to find information related to that
 - A mix of consumer and enterpirice friendly tools
 - List made by [eudk](https://github.com/eudk)
-- Contributers : [LinaLam](https://github.com/LinaLam) , [altairmattstead](https://github.com/altairmattstead) , [abhir9](https://github.com/abhir9)
+- Contributers : [LinaLam](https://github.com/LinaLam) , [altairmattstead](https://github.com/altairmattstead) , [abhir9](https://github.com/abhir9) , [johnxie](https://github.com/johnxie) , [bleshik](https://github.com/bleshik)
   
 [🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#-resources-for-learning-ai-and-machine-learning) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#-tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#-ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#-llm-ops)
 
@@ -91,6 +92,48 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Udio](https://www.udio.com/)** - An AI-powered platform designed to simplify and innovate audio editing and production, making high-quality audio accessible to everyone.
 - **[Taskade](https://www.taskade.com/)** - Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation within a unified workspace, enhancing team productivity with structured lists, notes, and mind maps.
 - **[AI Boost](https://boost.pictures/)** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
+
+________________________________________________________________
+<p align="center">
+ <img src="https://oss-global-cdn.unitree.com/static/afcdc93aa69f4fa499c76725a18df2a6_780x614.gif" alt="Unitree Go1 Robot" width="300">
+</p>  
+   
+   ## 🤖 AI-Driven Robots and Robotic Dogs 
+
+This section covers the latest AI-driven robots, ranging from quadruped robotic dogs to humanoid bots, designed for various applications in research, security, and industry. Most of these models are available for purchase, allowing users to deploy cutting-edge robotics tech right out of the box. Prices might be wrong
+
+- **[Unitree Robotics Go1](https://www.unitree.com/products/go1)** - A quadruped robot "dog" designed for agility, real-time obstacle avoidance, and smooth motion. It is well-suited for hobbyists, educational institutions, and light security tasks.
+  - **Price**: Starts at $2,700 for the Go1 Air model; $3,500 for Go1 Pro.
+  - **Key Features**: 3D obstacle perception, high-speed agility, payload capacity up to 5 kg, and customizable open-source software.
+
+- **[Unitree Robotics AlienGo](https://www.unitree.com/products/aliengo)** - A more advanced robotic dog capable of carrying heavier loads and performing complex tasks, popular for research and industrial use.
+  - **Price**: Approx. $10,000 (varies by configuration).
+  - **Key Features**: HD cameras, dynamic motion abilities, payload up to 10 kg, water resistance, and API for custom programming.
+
+- **[Boston Dynamics Spot](https://www.bostondynamics.com/spot)** - The well-known quadruped robot built for terrain adaptability, heavy-duty tasks, and integration with high-level applications. Spot is often used in security, inspections, and industrial automation.
+  - **Price**: Approx. $74,500.
+  - **Key Features**: 360-degree camera vision, advanced mobility over rough terrain, programmable API, payload options for sensors and tools, and 90-minute runtime per charge.
+
+- **[Unitree Robotics B1](https://www.unitree.com/products/b1)** - A new quadruped robot with industrial-grade capabilities, rugged design, and powerful AI-driven functionality.
+  - **Price**: $12,000.
+  - **Key Features**: Greater load capacity, enhanced durability for industrial environments, real-time AI processing, and low-power consumption.
+
+- **[Agility Robotics Digit](https://www.agilityrobotics.com/digit)** - A humanoid bipedal robot optimized for logistical tasks, such as warehouse support and last-mile delivery.
+  - **Price**: Estimated $250,000 (subject to configurations and purchase agreements).
+  - **Key Features**: Bipedal mobility, object handling, warehouse operations, and human-like motion for navigating crowded environments.
+
+- **[Tesla Bot](https://www.tesla.com/)** - Currently in development, this humanoid robot by Tesla is designed for everyday tasks and human interaction.
+  - **Availability**: Not yet available for purchase.
+  - **Key Features**: Human-like form factor, intended for household and industrial support roles, and integration with Tesla’s AI ecosystem. More details to be announced closer to release.
+
+- **[Ghost Robotics Vision 60](https://www.ghostrobotics.io/vision60)** - A rugged quadruped robot tailored for outdoor and military applications, capable of enduring harsh conditions and demanding environments.
+  - **Price**: Pricing on request, generally over $100,000 depending on specifications.
+  - **Key Features**: Durability for harsh terrain, operational resilience, modular payload compatibility, and robust sensor suite for autonomous tasks.
+
+- **[ANYbotics ANYmal](https://www.anybotics.com/anymal)** - A quadruped robot from ANYbotics designed for inspection tasks in industrial environments, including oil, gas, and mining facilities.
+  - **Price**: Starting at approx. $150,000.
+  - **Key Features**: Water and dust resistance, autonomous inspection capabilities, and integration with various sensors and inspection tools.
+
 
 ________________________________________________________________
 
