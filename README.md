@@ -3,10 +3,17 @@
   <img src="https://wp.technologyreview.com/wp-content/uploads/2019/08/datalabor3slow-10.gif" alt="AI Image" width="200"/>
 </p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
+  </a>
+  <a href="https://www.midjourney.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
+  </a>
 </p>
+
 
 
 Welcome to this extensive collection of tools and resources covering a broad range of applications in the world of artificial intelligence (AI) and machine learning (ML). This list encompasses a variety of categories, including educational resources specific to AI and ML, advanced tools for photo and video generation, chatbots, language models, and essential tools for GPU renting, and more.
@@ -26,18 +33,26 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - List made by [eudk](https://github.com/eudk)
 - Contributers : [LinaLam](https://github.com/LinaLam) , [altairmattstead](https://github.com/altairmattstead) , [abhir9](https://github.com/abhir9) , [johnxie](https://github.com/johnxie) , [bleshik](https://github.com/bleshik)
   
-[🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#-resources-for-learning-ai-and-machine-learning) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#-tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#-ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#-llm-ops)
+[🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)
+ |  [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#learning-ai-and-ml) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#llm-ops) | [🛠️ Consumer AI Hardware](#consumer-ai-hardware) | [💻 Software for Large Language Models](#-software-for-large-language-models) 
 
 
-Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!
+### **Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!**
 
 <a href="https://www.buymeacoffee.com/eudk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 ________________________________________________________________
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
+  </a>
+  <a href="https://www.midjourney.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
+  </a>
 </p>
+
 
 ________________________________________________________________
 
@@ -45,10 +60,12 @@ ________________________________________________________________
 
 This section highlights the most cutting-edge and powerful AI tools that are frequently used by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
 
-- **[ChatGPT](https://chat.openai.com/)** - Powered by OpenAI's GPT-4, ChatGPT is a versatile AI chatbot capable of generating human-like text, answering questions, assisting with coding, and more.
+- **[ChatGPT](https://chat.openai.com/)** - Powered by OpenAI's GPT-4, ChatGPT is a versatile AI chatbot capable of generating human-like text, answering questions, assisting with coding, and more. 4o, 4o mini, o1
 - **[Claude AI](https://claude.ai/)** - Developed by Anthropic, Claude AI offers advanced natural language understanding and can handle complex conversational queries.
 - **[Dream machine](https://lumalabs.ai/dream-machine)** - Video from image generation (Open to everyone)
 - **[MidJourney](https://midjourney.com)** - Advanced tool for AI-driven artistic image creation.
+- **[Perplexity AI](https://www.perplexity.ai/)** - An AI-driven question-answering and research tool that provides accurate, interactive results. It’s known for delivering reliable information retrieval and is particularly useful for research, education, and knowledge exploration.
+
 ________________________________________________________________
 
 ## 🆕 New and Emerging AI Tools
@@ -98,7 +115,7 @@ ________________________________________________________________
  <img src="https://oss-global-cdn.unitree.com/static/afcdc93aa69f4fa499c76725a18df2a6_780x614.gif" alt="Unitree Go1 Robot" width="300">
 </p>  
    
-   ## 🤖 AI-Driven Robots and Robotic Dogs 
+   ## 🤖 AI Driven Robots and Robotic Dogs
 
 This section covers the latest AI-driven robots, ranging from quadruped robotic dogs to humanoid bots, designed for various applications in research, security, and industry. Most of these models are available for purchase, allowing users to deploy cutting-edge robotics tech right out of the box. Prices might be wrong
 
@@ -283,7 +300,7 @@ ________________________________________________________________
 
 ________________________________________________________________
 
-# 🖋️ Resources for Learning AI and Machine Learning
+# Learning AI and ML
 
 ## Online Courses & Platforms
 
@@ -687,7 +704,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 
 ______________________________________________________________________________
 
-## 🖼️ Tools for better image prompting
+## Tools for better image prompting
 1. [Midlibrary](https://midlibrary.io/) - A comprehensive resource for Midjourney image prompts.
 2. [AI Art ES](https://aiartes.com/reference) - Platform for exploring AI-generated art and references.
 3. [Google Docs Guide 1](https://docs.google.com/document/d/17VPu3U2qXthOpt2zWczFvf-AH6z37hxUbvEe1rJTsEc/edit#) - Detailed guide on image prompting strategies.
@@ -745,7 +762,7 @@ A selection of platforms offering API integration for various AI applications an
 
 ______________________________________________________________________________
 
-## 🛠️ AI-Powered Compilers and Code Assistants
+## AI-Powered Compilers and Code Assistants
 - [GitHub Copilot](https://copilot.github.com/) - AI pair programmer which suggests code snippets and entire functions in real-time.
 - [JetBrains Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) - AI-assisted code completion for Kotlin multiplatform development.
 - [Tabnine](https://www.tabnine.com/) - AI code completion assistant for software developers, supporting multiple languages and IDEs.
@@ -761,7 +778,7 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
-## 🛠️ LLM Ops
+## LLM Ops
 
 - [Helicone AI](https://www.helicone.ai/) - The open-source LLM observability for developers.
 - [LlamaIndex](https://github.com/run-llama/llama_index) - 	LlamaIndex is a data framework for your LLM applications
@@ -773,7 +790,7 @@ ______________________________________________________________________________
 ## 🛠️ REPOS
 ______________________________________________________________________________
 
-## 🛠️ Consumer AI Hardware
+## Consumer AI Hardware
 **Make you're own research as some hardware on this list has recieved very mixed reviews**
 - **NVIDIA GPUs** - Consumer-grade GPUs such as the GeForce series, suitable for AI research, gaming, and deep learning projects, widely available for personal purchase.
 - **Google Coral USB Accelerator** - Designed for edge AI applications, this device brings Google's TPU technology to the USB form factor, making it compatible with Raspberry Pi and other single-board computers for fast, local inference.
@@ -788,4 +805,68 @@ ______________________________________________________________________________
 - **Rabbit AI Accelerator** - Though specific details may vary, if available, this could refer to a compact, efficient AI accelerator designed for enhancing computational capabilities on consumer devices for AI tasks.
 - **Odroid-N2 with AI Core** - A powerful single-board computer that, when equipped with an AI Core module, can handle AI tasks and deep learning applications at the edge.
 - **Khadas VIM3** - A single-board computer that comes with an NPU (Neural Processing Unit) for AI and deep learning applications, suitable for developers and hobbyists interested in edge AI projects.
+- **Friend Mini AI Assistant by Friend.com** - A compact AI companion designed to sit on your desk or be used on the go. This device focuses on delivering real-time conversational AI, providing reminders, managing schedules, and acting as a "virtual friend."
+  - **Key Features**: Compact design, voice-activated interactions, friendly conversational AI, and integration with smart home devices. Pricing and availability vary.
+
+- **Jetson Orin Nano Developer Kit** - NVIDIA’s latest addition to the Jetson lineup, designed for AI and robotics projects that need more power than the Jetson Nano but remain in a small, compact form factor.
+  - **Key Features**: Supports AI model deployment, 8-core ARM CPU, 1024-core GPU, 32 TOPS AI performance, and compatible with popular machine learning frameworks. Priced around $199.
+
+- **Arduino Nicla Vision** - A small, vision-enabled AI board from Arduino, equipped with a powerful image sensor and edge AI capabilities. Designed for computer vision projects that require image detection and processing at the edge.
+  - **Key Features**: 2MP camera, motion sensor, environmental sensors, machine vision with Edge Impulse, and low power consumption. Priced around $115.
+
+- **Edge Impulse EON Tuner** - A software and hardware toolkit designed to help optimize machine learning models for low-power microcontrollers and edge devices. It integrates with compatible hardware to fine-tune models for specific IoT applications.
+  - **Key Features**: Model optimization for low-power use, compatibility with popular microcontrollers, and Edge Impulse integration for easy model deployment. Pricing varies by subscription.
+
+- **Xnor.ai AI2GO Module** - A highly efficient AI accelerator that can plug into Raspberry Pi and other SBCs, designed for low-power AI tasks like face recognition, object detection, and anomaly detection in IoT applications.
+  - **Key Features**: On-device inference for lightweight AI models, ultra-low power consumption, compatible with Raspberry Pi and similar devices. Pricing around $50.
+
+- **ESP32-S3 AI Module** - A new variant of the popular ESP32 series by Espressif, featuring improved AI and ML capabilities. Ideal for edge AI projects that need reliable, small-scale computing, such as image and voice recognition.
+  - **Key Features**: Dual-core processor, integrated AI instructions for machine learning, supports TinyML, and optimized for energy efficiency. Priced around $8–$10.
+
+- **Luxonis OAK-1 Pro** - An updated version of the OAK-1 with improved depth perception and AI processing, designed for projects that require high-performance machine vision and spatial analysis.
+  - **Key Features**: Onboard AI inference, 3D depth perception, color camera, Intel Myriad X VPU, and open-source SDK. Priced around $199.
+
+- **Himax WE-I Plus** - A tiny AI development board that includes a low-power AI processor for applications like face detection, wake word recognition, and gesture control.
+  - **Key Features**: Ultra-low power, image and audio processing, AI inference on-device, and suitable for always-on applications. Priced around $20.
+
+- **Kendryte K210 RISC-V AI Module** - A low-cost, RISC-V-based AI accelerator suitable for lightweight AI applications on the edge, like facial recognition, audio analysis, and gesture detection.
+  - **Key Features**: Dual-core RISC-V CPU, 0.5 TOPS of AI performance, neural network support, and ideal for IoT and wearable AI applications. Priced around $15–$25.
+
+- **Seeed Studio XIAO ESP32-S3 Sense** - A tiny microcontroller that integrates both image and audio processing capabilities in a form factor perfect for IoT applications.
+  - **Key Features**: Compact design, built-in microphone and camera, supports TinyML, and suitable for on-device machine learning applications. Priced around $13.
+______________________________________________________________________________
+
+## 💻 Software for Large Language Models
+
+This section covers some of the most advanced software platforms for working with large language models (LLMs), from popular web-based AI tools like ChatGPT and Claude to software that allows you to run LLMs locally on your machine. These tools are widely used for applications in content generation, programming assistance, and enterprise AI solutions.
+
+- **[ChatGPT](https://chat.openai.com/)** - Developed by OpenAI, ChatGPT is a powerful, cloud-based language model (GPT-4) known for its versatility in text generation, coding support, and conversational AI. It is available through OpenAI's web interface and API, making it accessible for both casual and professional users.
+
+- **[Claude](https://claude.ai/)** - Created by Anthropic, Claude is an advanced conversational AI that competes with ChatGPT in natural language understanding and can handle complex queries. Known for its ethical AI framework, Claude offers nuanced, safe, and reliable responses across a wide range of applications.
+
+- **[LM Studio](https://lmstudio.ai/)** - LM Studio provides a versatile environment for fine-tuning, deploying, and using language models. Ideal for developers and researchers, it supports running large language models on local hardware, making it a strong choice for custom model training and deployment without relying on cloud-based solutions.
+
+- **[LLaMA 2](https://ai.facebook.com/llama/)** - Meta’s open-source language model that can be run locally on powerful hardware setups. LLaMA 2 is designed for researchers and developers who need a customizable, open-source solution for tasks like natural language processing, content generation, and research.
+
+- **[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)** - Developed by Stanford, Alpaca is an instruction-following model based on LLaMA, fine-tuned for improved performance on specific tasks. Alpaca can be deployed locally, allowing researchers to work with large language models offline for greater privacy and control.
+
+- **[Mistral](https://mistral.ai/)** - An open-weight model that competes with LLaMA, offering a balance between performance and efficiency. Mistral can run on local servers or personal hardware for high-performance, private deployment of language models.
+
+- **[GPT4All](https://gpt4all.io/)** - GPT4All offers a range of locally deployable language models that are specifically optimized to run on consumer-grade hardware. Ideal for users who want to run a high-quality LLM without relying on cloud services, GPT4All supports tasks like chatbots, content generation, and code assistance.
+
+- **[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)** - A powerful open-source model fine-tuned from LLaMA, designed to be conversational and responsive, similar to ChatGPT. Vicuna is available for local deployment, allowing developers to create customized AI applications with private and secure local execution.
+
+- **[WizardLM](https://github.com/nlpxucan/WizardLM)** - WizardLM is a family of fine-tuned models based on open-source language models, optimized for instruction-following tasks. Known for its high-quality performance in natural language understanding and generation, WizardLM can be run on local servers.
+
+- **[OpenAssistant](https://open-assistant.io/)** - A community-driven project that provides open-source LLMs for various conversational tasks, similar to ChatGPT. OpenAssistant models can be deployed locally, giving developers full control over AI deployment and customization.
+
+- **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)** - An open-source web-based interface for running and managing language models locally, with support for a range of models, including LLaMA, GPT-J, and others. This tool is popular for experimentation and customization of LLMs without relying on cloud infrastructure.
+
+- **[Dolly 2.0](https://www.databricks.com/blog/2023/04/12/dolly-v2-first-open-instruction-tuned-llm.html)** - Developed by Databricks, Dolly 2.0 is an open-source, instruction-tuned LLM that can be run locally, offering a cost-effective alternative for businesses looking for tailored solutions without recurring cloud costs.
+
+- **[Flan-T5](https://github.com/google-research/t5x)** - A variant of Google’s T5 model, fine-tuned with instruction-based learning (Flan). Flan-T5 is popular in the open-source community for various natural language processing tasks, and it can be deployed on local hardware for private usage.
+
+- **[Cerebras-GPT](https://www.cerebras.net/)** - Cerebras Systems provides open-source GPT models optimized for their AI-specific hardware. While designed for large-scale deployment, Cerebras-GPT models can also be run on specific compatible local setups, making it suitable for research or enterprise applications.
+
+- **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
 
