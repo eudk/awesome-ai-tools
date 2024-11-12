@@ -491,6 +491,7 @@ ______________________________________________________________________________
 
 # Custom GPT Sites
 
+- [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 - [AssistantHunt](https://assistanthunt.com) - Platform for finding AI-powered assistants.
 
 ______________________________________________________________________________
