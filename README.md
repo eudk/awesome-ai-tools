@@ -14,7 +14,10 @@
   </a>
 </p>
 
-
+![GitHub Stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
+![GitHub Contributors](https://img.shields.io/github/contributors/eudk/awesome-ai-tools)
+![Last Commit](https://img.shields.io/github/last-commit/eudk/awesome-ai-tools)
 
 Welcome to this extensive collection of tools and resources covering a broad range of applications in the world of artificial intelligence (AI) and machine learning (ML). This list encompasses a variety of categories, including educational resources specific to AI and ML, advanced tools for photo and video generation, chatbots, language models, and essential tools for GPU renting, and more.
 
@@ -30,13 +33,22 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - There might be errors in names and links
 - Tools aren't marked with pricing visit each site to find information related to that
 - A mix of consumer and enterpirice friendly tools
-- List made by [eudk](https://github.com/eudk)
-- Contributers : [LinaLam](https://github.com/LinaLam) , [altairmattstead](https://github.com/altairmattstead) , [abhir9](https://github.com/abhir9) , [johnxie](https://github.com/johnxie) , [bleshik](https://github.com/bleshik)
-  
+<a name="top"></a>
+
+
+### 🙌 Contributors
+
+<a href="https://github.com/eudk/awesome-ai-tools/contributors">
+  <img src="https://contrib.rocks/image?repo=eudk/awesome-ai-tools" width="250"/>
+</a>
+<br><br>
+
+
+### 🔗 Navigation
+
 [🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)
  |  [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#learning-ai-and-ml) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#llm-ops) | [🛠️ Consumer AI Hardware](#consumer-ai-hardware) | [💻 Software for Large Language Models](#-software-for-large-language-models) 
 
-<a name="top"></a>
 
 ### **Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!**
 
