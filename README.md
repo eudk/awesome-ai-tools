@@ -1,4 +1,5 @@
 # Comprehensive List of AI Tools
+
 <p align="center">
   <img src="https://wp.technologyreview.com/wp-content/uploads/2019/08/datalabor3slow-10.gif" alt="AI Image" width="200"/>
 </p>
@@ -23,18 +24,18 @@ Welcome to this extensive collection of tools and resources covering a broad ran
 
 The compilation aims to serve as a handy reference for enthusiasts, professionals, and learners in the AI and ML community. Whether you're looking for resources to deepen your understanding, tools to enhance your projects, or just exploring the capabilities of AI, you're likely to find something of interest here.
 
-**Regular Updates and Disclaimer:** 
+**Regular Updates and Disclaimer:**
+
 - This list is regularly updated to include the latest and most relevant tools in the field.
 - Elements on the list are AI generated
 - Please note that while we strive to keep the list current, there might be occasional issues with some of the links.
 - We are not affiliated with any of the listed tools or platforms, nor have we tested all of them.
 - Users are advised to conduct their own research and use these tools at their own discretion.
-- The list is mostly made by gathering reccources from many different sources
+- The list is mostly made by gathering resources from many different sources
 - There might be errors in names and links
 - Tools aren't marked with pricing visit each site to find information related to that
-- A mix of consumer and enterpirice friendly tools
+- A mix of consumer and enterprise friendly tools
 <a name="top"></a>
-
 
 ### 🙌 Contributors
 
@@ -43,12 +44,10 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 </a>
 <br><br>
 
-
 ### 🔗 Navigation
 
 [🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)
- |  [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#learning-ai-and-ml) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#llm-ops) | [🛠️ Consumer AI Hardware](#consumer-ai-hardware) | [💻 Software for Large Language Models](#-software-for-large-language-models) 
-
+ |  [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#learning-ai-and-ml) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#llm-ops) | [🛠️ Consumer AI Hardware](#consumer-ai-hardware) | [💻 Software for Large Language Models](#-software-for-large-language-models)
 
 ### **Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!**
 
@@ -66,10 +65,10 @@ ________________________________________________________________
   </a>
 </p>
 
-
 ________________________________________________________________
 
 ## 🚀 Godmode: Most Powerful and Frequently Used AI Tools
+
 [🔝 Back to Top](#top)
 
 This section highlights the most cutting-edge and powerful AI tools that are frequently used by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
@@ -83,9 +82,11 @@ This section highlights the most cutting-edge and powerful AI tools that are fre
 ________________________________________________________________
 
 ## 🆕 New and Emerging AI Tools
+
 [🔝 Back to Top](#top)
 
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
+
 - **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** - A repository that offers tools to create deepfake videos using live camera input, providing real-time face-swapping capabilities.
 - **[Meta LLaMA 3.1 Models](https://github.com/meta-llama/llama-models)** - Official repository to use and implement LLaMA 3.1 models, Meta's state-of-the-art large language models.
 - **[Agent Zero](https://github.com/frdel/agent-zero)** - A repository for creating and managing autonomous AI agents with customizable goals and tasks.
@@ -129,8 +130,9 @@ ________________________________________________________________
 <p align="center">
  <img src="https://oss-global-cdn.unitree.com/static/afcdc93aa69f4fa499c76725a18df2a6_780x614.gif" alt="Unitree Go1 Robot" width="300">
 </p>  
-   
-   ## 🤖 AI Driven Robots and Robotic Dogs
+
+## 🤖 AI Driven Robots and Robotic Dogs
+
 [🔝 Back to Top](#top)
 
 This section covers the latest AI-driven robots, ranging from quadruped robotic dogs to humanoid bots, designed for various applications in research, security, and industry. Most of these models are available for purchase, allowing users to deploy cutting-edge robotics tech right out of the box. Prices might be wrong
@@ -167,12 +169,11 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
   - **Price**: Starting at approx. $150,000.
   - **Key Features**: Water and dust resistance, autonomous inspection capabilities, and integration with various sensors and inspection tools.
 
-
 ________________________________________________________________
 
 ## 🤖 Well known AI tools
-[🔝 Back to Top](#top)
 
+[🔝 Back to Top](#top)
 
 - [BING browser](https://www.bing.com/) - Uses GPT-4 and DALLE for free image generation (built in into the browser)
 - [Google BARD/ Gemini](https://bard.google.com/) - Google AI assistant (BARD/GEMINI).
@@ -195,6 +196,7 @@ ________________________________________________________________
 ________________________________________________________________
 
 ## 🤖 AI-Related Tools
+
 [🔝 Back to Top](#top)
 
 - [Claude AI Chatbot Platform](https://claude.ai) - Provides advanced online chatbot solutions with AI-driven interactivity.
@@ -246,6 +248,7 @@ ________________________________________________________________
 ________________________________________________________________
 
 ## 🆕 Additional AI and Productivity Tools
+
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
@@ -267,6 +270,7 @@ ________________________________________________________________
 - [Todoist](https://todoist.com/) - Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
 - [Canva](https://www.canva.com/) - Easy Graphic Design
+
 ________________________________________________________________
 
 # 💾 GPU Rental Services for Large Language Models
@@ -274,7 +278,7 @@ ________________________________________________________________
 The following are online platforms where you can rent GPU resources, ideal for running computationally intensive Large Language Models (LLMs). These services provide the necessary computational power to handle large-scale AI processing tasks.
 
 1. **[AWS EC2](https://aws.amazon.com/ec2/)** - Amazon Web Services offers scalable cloud computing with GPU instances.
-   
+
 2. **[Google Cloud Compute Engine](https://cloud.google.com/compute)** - Google's infrastructure with high-performance GPUs suitable for machine learning.
 
 3. **[Microsoft Azure GPUs](https://azure.microsoft.com/en-us/services/virtual-machines/gpu/)** - Azure's GPU virtual machines for AI and deep learning.
@@ -294,7 +298,9 @@ The following are online platforms where you can rent GPU resources, ideal for r
 10. **[CoreWeave](https://www.coreweave.com/)** - Specialized cloud provider with a focus on GPU-accelerated workloads.
 
 ________________________________________________________________
+
 # 🌐 List of Google Chrome Extensions
+
 [🔝 Back to Top](#top)
 
 ## AI-Focused Extensions
@@ -323,6 +329,7 @@ ________________________________________________________________
 ________________________________________________________________
 
 # Learning AI and ML
+
 [🔝 Back to Top](#top)
 
 ## Online Courses & Platforms
@@ -337,9 +344,11 @@ ________________________________________________________________
 8. **[Stanford Online - Machine Learning](https://online.stanford.edu/courses/soe-ycsmachinelearning)**
 9. **[MIT OpenCourseWare - Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)**
 10. **[Khan Academy - Computer Science and Artificial Intelligence](https://www.khanacademy.org/computing/computer-science)**
+
 ________________________________________________________________
 
 ## Free Educational Websites
+
 [🔝 Back to Top](#top)
 
 11. **[Machine Learning Mastery](https://machinelearningmastery.com/)**
@@ -352,9 +361,11 @@ ________________________________________________________________
 18. **[Data Science Central](https://www.datasciencecentral.com/)**
 19. **[The AI Blog by Microsoft](https://blogs.microsoft.com/ai/)**
 20. **[DeepMind Blog](https://deepmind.com/blog)**
+
 ________________________________________________________________
 
 ## YouTube Channels
+
 [🔝 Back to Top](#top)
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
@@ -397,9 +408,11 @@ ________________________________________________________________
 - [Machine Learning TV](https://www.youtube.com/c/MachineLearningTV) - Machine learning tutorials and explanations.
 - [Robert Brunhage](https://www.youtube.com/c/RobertBrunhage) - Flutter, Dart, and AI programming tutorials.
 - [The AI Epiphany](https://www.youtube.com/c/TheAIEpiphany) - Exploring AI technologies and concepts.
+
 ________________________________________________________________
 
 ## Books and Academic Journals
+
 [🔝 Back to Top](#top)
 
 - [Deep Learning Book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
@@ -465,6 +478,7 @@ ________________________________________________________________
 _____________________________________________________________________________
 
 ## Interactive Learning & Tools
+
 [🔝 Back to Top](#top)
 
 36. **[Kaggle Competitions](https://www.kaggle.com/competitions)**
@@ -472,8 +486,11 @@ _____________________________________________________________________________
 38. **[TensorFlow Playground](https://playground.tensorflow.org/)**
 39. **[Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)**
 40. **[AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)**
+
 ______________________________________________________________________________
+
 # Image Generation Tools
+
 [🔝 Back to Top](#top)
 
 <p align="center">
@@ -518,6 +535,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 ______________________________________________________________________________
 
 # Custom GPT Sites
+
 [🔝 Back to Top](#top)
 
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
@@ -526,6 +544,7 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 
 # AI Communities
+
 [🔝 Back to Top](#top)
 
 - [Build Club](https://www.buildclub.ai) - Global AI community and education platform
@@ -533,6 +552,7 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 
 # Video Generation Tools
+
 [🔝 Back to Top](#top)
 
 This list includes a range of tools for AI-powered video generation, offering capabilities from video editing to creating entirely new video content with AI.
@@ -568,11 +588,10 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Videobolt](https://www.videobolt.net) - AI-assisted video maker.
 - [Promo.com](https://promo.com) - AI-driven video creation tool.
 
-
 ______________________________________________________________________________
 
-
 # Sound Generation Tools
+
 [🔝 Back to Top](#top)
 
 Explore AI in the realm of sound with these innovative tools designed for sound generation, editing, and manipulation.
@@ -608,11 +627,10 @@ Explore AI in the realm of sound with these innovative tools designed for sound 
 - [AI Music Generator](https://www.aimusicgenerator.com) - Generate music tracks with AI.
 - [SOUNDRAW](https://soundraw.io) - AI music composition for creators.
 
-
 ______________________________________________________________________________
 
-
 # ♫ Music Generation Tools
+
 [🔝 Back to Top](#top)
 
 Discover the power of AI in music with these tools designed for generating, composing, and transforming music.
@@ -648,12 +666,10 @@ Discover the power of AI in music with these tools designed for generating, comp
 - [SOUNDRAW](https://soundraw.io) - AI music composition for videos.
 - [Lumen5](https://lumen5.com) - AI-driven music video maker.
 
-
 ______________________________________________________________________________
 
-
-
 # Voice-Related AI Tools
+
 [🔝 Back to Top](#top)
 
 A selection of AI tools specialized in voice recognition, synthesis, and processing.
@@ -680,10 +696,11 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 20. [Voice Dream](https://www.voicedream.com) - Text-to-speech app for mobile devices.
 
 21. [ElevenLabs](https://elevenlabs.io) - State-of-the-art voice synthesis for realistic and customizable speech.
+
 ______________________________________________________________________________
 
-
 # Media Enhancement AI Tools
+
 [🔝 Back to Top](#top)
 
 AI tools for enhancing media quality, such as upscaling images or videos, and specialized Adobe tools.
@@ -709,11 +726,10 @@ AI tools for enhancing media quality, such as upscaling images or videos, and sp
 19. [AVCLabs Video Enhancer AI](https://www.avclabs.com/video-enhancer-ai) - Improve video quality using AI.
 20. [Cre8tiveAI](https://cre8tiveai.com) - AI for image quality enhancement.
 
-
-
 ______________________________________________________________________________
 
 # AI Tools for Photo Editing
+
 [🔝 Back to Top](#top)
 
 A collection of AI-powered tools specifically designed for photo editing and enhancement.
@@ -742,6 +758,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 ______________________________________________________________________________
 
 ## Tools for better image prompting
+
 [🔝 Back to Top](#top)
 
 1. [Midlibrary](https://midlibrary.io/) - A comprehensive resource for Midjourney image prompts.
@@ -770,10 +787,10 @@ ______________________________________________________________________________
 24. [Generrated](https://generrated.com/) - A platform for exploring and creating AI-generated art.
 25. [Artist refference Spreadsheet](https://docs.google.com/spreadsheets/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/edit#gid=0) - A comprehensive Google Spreadsheet with refferences of artist styles
 
-
 ______________________________________________________________________________
 
 # Sites with API Integration
+
 [🔝 Back to Top](#top)
 
 A selection of platforms offering API integration for various AI applications and functionalities.
@@ -798,11 +815,12 @@ A selection of platforms offering API integration for various AI applications an
 18. [Nexmo API](https://www.vonage.com/communications-apis/) - APIs for messaging, voice, and phone verification.
 19. [Lobe](https://lobe.ai) - Build, train, and ship custom machine learning models using an easy visual interface.
 20. [ChatterOn](https://chatteron.io) - AI chatbot building platform with API.
-21. Many others support API integration too 
+21. Many others support API integration too
 
 ______________________________________________________________________________
 
 ## AI-Powered Compilers and Code Assistants
+
 [🔝 Back to Top](#top)
 
 - [GitHub Copilot](https://copilot.github.com/) - AI pair programmer which suggests code snippets and entire functions in real-time.
@@ -821,22 +839,25 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 
 ## LLM Ops
+
 [🔝 Back to Top](#top)
 
 - [Helicone AI](https://www.helicone.ai/) - The open-source LLM observability for developers.
-- [LlamaIndex](https://github.com/run-llama/llama_index) - 	LlamaIndex is a data framework for your LLM applications
+- [LlamaIndex](https://github.com/run-llama/llama_index) -  LlamaIndex is a data framework for your LLM applications
 - [Mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
-
 
 ______________________________________________________________________________
 
 ## 🛠️ REPOS
+
 ______________________________________________________________________________
 
 ## Consumer AI Hardware
+
 [🔝 Back to Top](#top)
 
 **Make you're own research as some hardware on this list has recieved very mixed reviews**
+
 - **NVIDIA GPUs** - Consumer-grade GPUs such as the GeForce series, suitable for AI research, gaming, and deep learning projects, widely available for personal purchase.
 - **Google Coral USB Accelerator** - Designed for edge AI applications, this device brings Google's TPU technology to the USB form factor, making it compatible with Raspberry Pi and other single-board computers for fast, local inference.
 - **Intel Neural Compute Stick 2** - A plug-and-play USB device that accelerates deep learning inference on edge devices, compatible with a wide range of development kits and platforms.
@@ -879,9 +900,11 @@ ______________________________________________________________________________
 
 - **Seeed Studio XIAO ESP32-S3 Sense** - A tiny microcontroller that integrates both image and audio processing capabilities in a form factor perfect for IoT applications.
   - **Key Features**: Compact design, built-in microphone and camera, supports TinyML, and suitable for on-device machine learning applications. Priced around $13.
+
 ______________________________________________________________________________
 
 ## 💻 Software for Large Language Models
+
 [🔝 Back to Top](#top)
 
 This section covers some of the most advanced software platforms for working with large language models (LLMs), from popular web-based AI tools like ChatGPT and Claude to software that allows you to run LLMs locally on your machine. These tools are widely used for applications in content generation, programming assistance, and enterprise AI solutions.
@@ -915,4 +938,3 @@ This section covers some of the most advanced software platforms for working wit
 - **[Cerebras-GPT](https://www.cerebras.net/)** - Cerebras Systems provides open-source GPT models optimized for their AI-specific hardware. While designed for large-scale deployment, Cerebras-GPT models can also be run on specific compatible local setups, making it suitable for research or enterprise applications.
 
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
-
