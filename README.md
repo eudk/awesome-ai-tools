@@ -842,6 +842,7 @@ ______________________________________________________________________________
 
 [🔝 Back to Top](#top)
 
+- [Keywords AI](https://www.keywordsai.co/) - The enterprise-grade software to build, monitor, and improve your AI application. Keywords AI is a full-stack LLM engineering platform for developers and PMs.
 - [Helicone AI](https://www.helicone.ai/) - The open-source LLM observability for developers.
 - [LlamaIndex](https://github.com/run-llama/llama_index) -  LlamaIndex is a data framework for your LLM applications
 - [Mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
