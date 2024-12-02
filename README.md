@@ -846,6 +846,7 @@ ______________________________________________________________________________
 - [Helicone AI](https://www.helicone.ai/) - The open-source LLM observability for developers.
 - [LlamaIndex](https://github.com/run-llama/llama_index) -  LlamaIndex is a data framework for your LLM applications
 - [Mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [Inferable](https://github.com/inferablehq/inferable) - Open-source managed agent runtime for distributed AI agents
 
 ______________________________________________________________________________
 
