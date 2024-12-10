@@ -47,7 +47,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 ### 🔗 Navigation
 
 [🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)
- |  [🤖 AI-Related Tools](#-ai-related-tools) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#learning-ai-and-ml) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#llm-ops) | [🛠️ Consumer AI Hardware](#consumer-ai-hardware) | [💻 Software for Large Language Models](#-software-for-large-language-models)
+ |  [🤖 AI-Related Tools](#-ai-related-tools) | [OpenAI](#openai) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#learning-ai-and-ml) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#llm-ops) | [🛠️ Consumer AI Hardware](#consumer-ai-hardware) | [💻 Software for Large Language Models](#-software-for-large-language-models)
 
 ### **Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!**
 
@@ -73,7 +73,7 @@ ________________________________________________________________
 
 This section highlights the most cutting-edge and powerful AI tools that are frequently used by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
 
-- **[ChatGPT](https://chat.openai.com/)** - Powered by OpenAI's GPT-4, ChatGPT is a versatile AI chatbot capable of generating human-like text, answering questions, assisting with coding, and more. 4o, 4o mini, o1
+- **[ChatGPT](https://chat.openai.com/)** - Powered by OpenAI's GPT-4, ChatGPT is a versatile AI chatbot capable of generating human-like text, answering questions, assisting with coding, and more. 4o, 4o mini, o1, o1 pro
 - **[Claude AI](https://claude.ai/)** - Developed by Anthropic, Claude AI offers advanced natural language understanding and can handle complex conversational queries.
 - **[Dream machine](https://lumalabs.ai/dream-machine)** - Video from image generation (Open to everyone)
 - **[MidJourney](https://midjourney.com)** - Advanced tool for AI-driven artistic image creation.
@@ -127,6 +127,34 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AI Boost](https://boost.pictures/)** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 
 ________________________________________________________________
+
+## OpenAI
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="open AI Icon" width="70"/>
+</p>  
+
+[🔝 Back to Top](#top)
+
+OpenAI offers cutting-edge models and subscription plans tailored for professionals, businesses, and AI enthusiasts. Here’s a quick overview:
+
+- **[12 Days of OpenAI](https://x.com/OpenAI/status/1864328928267259941)**: a current event where OpenAI announces new tools, features, and updates. Highlights include Sora, o1, and more.
+
+- **[ChatGPT](https://chat.openai.com/)**: The flagship conversational AI tool powered by GPT-4, ideal for text generation, problem-solving, and interactive use cases. Also has access to SearchGPT
+
+- **Sora**: OpenAI's text-to-video model for generating videos from prompts.
+  - **ChatGPT Plus**: $20/month – 50 priority videos (720p). 5s
+  - **ChatGPT Pro**: $200/month – Unlimited videos (Relaxed) (1080p). 20s 
+
+- **GPT-4o**: A multimodal model handling text, images, and audio with twice the speed and half the cost of GPT-4 Turbo.
+
+- **o1**: Designed for advanced reasoning tasks, excelling in mathematics, competitive programming, and scientific queries.
+  - **o1 Pro**: Enhanced for enterprise and academic use with extended response time for complex queries.
+
+- **ChatGPT Plus**: $20/month – Access to GPT-4 with priority features and improved limits.
+
+- **ChatGPT Pro**: $200/month – Unlimited access to some models, access to o1 Pro and premium features like unlimited Advanced Voice Mode (seems to cap at 1 hour per conversation).
+________________________________________________________________
+
 <p align="center">
  <img src="https://oss-global-cdn.unitree.com/static/afcdc93aa69f4fa499c76725a18df2a6_780x614.gif" alt="Unitree Go1 Robot" width="300">
 </p>  
@@ -183,7 +211,7 @@ ________________________________________________________________
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [TensorFlow](https://www.tensorflow.org/) - Open-source machine learning framework by Google.
-- [GPT-4 by OpenAI](https://chat.openai.com/) - Advanced natural language processing AI model.
+- [GPT-4o by OpenAI](https://chat.openai.com/) - Advanced natural language processing AI model.
 - [IBM Watson](https://www.ibm.com/watson) - Suite of enterprise-ready AI services, applications, and tooling.
 - [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/) - Microsoft's comprehensive suite of AI tools and frameworks.
 - [DeepMind](https://deepmind.com/) - Pioneering AI research lab, known for advancements in deep learning and AI for games.
@@ -191,7 +219,7 @@ ________________________________________________________________
 - [Hugging Face](https://huggingface.co/) - The AI community building the future with open-source AI technologies.
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again, focused on making deep learning more accessible.
 - [Neuralink](https://neuralink.com/) - Developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
-- [GROK (XAI)](https://x.ai/) - AI model from X
+- [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 2 / Image generation with Aurora and FLUX.1 model 
 
 ________________________________________________________________
 
