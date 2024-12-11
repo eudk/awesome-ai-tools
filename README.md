@@ -585,6 +585,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Pixray](https://pixray.com) - Text-to-image generation using AI.
 - [NeuralBlender](https://neuralblender.com) - Uses AI to blend images and concepts creatively.
 - [GANSpace](https://github.com/harskish/ganspace) - Discovering interpretable GAN controls.
+- [AI Logo Generator](https://www.ailogogenerator.org) - Free online AI logo creator that generates professional company, business, and brand logos.
 
 ______________________________________________________________________________
 
