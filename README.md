@@ -35,6 +35,9 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - There might be errors in names and links
 - Tools aren't marked with pricing visit each site to find information related to that
 - A mix of consumer and enterprise friendly tools
+- You can also search the list using **Ctrl + F** (Windows) or **⌘ + F** (Mac) for quick navigation.
+- Feel free to submit a **pull request** to add your tools or suggest improvements to the list!
+
 <a name="top"></a>
 
 ### 🙌 Contributors
@@ -45,9 +48,32 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 <br><br>
 
 ### 🔗 Navigation
+## 🔗 Navigation Table
 
-[🤖 Well known AI tools](#-well-known-ai-tools) | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)
- |  [🤖 AI-Related Tools](#-ai-related-tools) | [OpenAI](#openai) | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | [🖋️ Learning AI/ML](#learning-ai-and-ml) | [Image Generation Tools](#image-generation-tools) | [Custom GPT Sites](#custom-gpt-sites) | [Video Generation Tools](#video-generation-tools) | [Sound Generation Tools](#sound-generation-tools) | [♫ Music Generation Tools](#-music-generation-tools) | [Voice-Related AI Tools](#voice-related-ai-tools) | [Media Enhancement Tools](#media-enhancement-ai-tools) | [AI for Photo Editing](#ai-tools-for-photo-editing) | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | [API Integration Sites](#sites-with-api-integration) | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | [🛠️ LLM Ops](#llm-ops) | [🛠️ Consumer AI Hardware](#consumer-ai-hardware) | [💻 Software for Large Language Models](#-software-for-large-language-models)
+| Category                                | Description                                                    |
+|-----------------------------------------|----------------------------------------------------------------|
+| [🤖 Well known AI tools](#-well-known-ai-tools)         | Popular and widely used AI tools across industries.            |
+| [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs) | Cutting-edge robotics powered by AI.                          |
+| [🤖 AI-Related Tools](#-ai-related-tools)              | Miscellaneous tools leveraging AI technology.                 |
+| [OpenAI](#openai)                       | Models, tools, and subscriptions from OpenAI.                 |
+| [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | New AI tools and services for productivity and innovation.    |
+| [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models) | Services for renting GPUs to train and deploy AI models.      |
+| [🌐 Chrome Extensions](#-list-of-google-chrome-extensions) | Useful AI-powered Chrome extensions.                         |
+| [🖋️ Learning AI/ML](#learning-ai-and-ml)              | Resources for learning AI and machine learning.               |
+| [Image Generation Tools](#image-generation-tools)     | Tools for generating high-quality AI-driven images.           |
+| [Custom GPT Sites](#custom-gpt-sites)                 | Custom GPT-powered websites and platforms.                    |
+| [Video Generation Tools](#video-generation-tools)     | AI tools for generating and editing videos.                   |
+| [Sound Generation Tools](#sound-generation-tools)     | AI tools for creating and modifying sound.                    |
+| [♫ Music Generation Tools](#-music-generation-tools)   | Tools for composing music using AI.                           |
+| [Voice-Related AI Tools](#voice-related-ai-tools)     | Applications for voice synthesis and enhancement.             |
+| [Media Enhancement Tools](#media-enhancement-ai-tools)| AI tools for enhancing media quality.                         |
+| [AI for Photo Editing](#ai-tools-for-photo-editing)   | AI tools designed for professional photo editing.             |
+| [🖼️ Image Prompting Tools](#tools-for-better-image-prompting) | Tools to create better prompts for image generation models.  |
+| [API Integration Sites](#sites-with-api-integration)  | Websites offering API integrations for AI models.             |
+| [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants) | Tools for coding and compiling with AI assistance.            |
+| [🛠️ LLM Ops](#llm-ops)                               | Operations and infrastructure for large language models.      |
+| [🛠️ Consumer AI Hardware](#consumer-ai-hardware)      | Hardware designed for running AI applications at home.        |
+| [💻 Software for Large Language Models](#-software-for-large-language-models) | Software for training and using large AI language models.     |
 
 ### **Your contributions and suggestions are welcome to keep this list comprehensive and up-to-date!**
 
@@ -67,7 +93,7 @@ ________________________________________________________________
 
 ________________________________________________________________
 
-## 🚀 Godmode: Most Powerful and Frequently Used AI Tools
+## 🚀 Currently popular and Frequently Used AI Tools
 
 [🔝 Back to Top](#top)
 
@@ -584,7 +610,7 @@ ______________________________________________________________________________
 [🔝 Back to Top](#top)
 
 This list includes a range of tools for AI-powered video generation, offering capabilities from video editing to creating entirely new video content with AI.
-
+- [Sora](https://www.sora.com) - AI video generation platform from OpenAI. 
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
