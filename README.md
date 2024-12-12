@@ -53,6 +53,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 | Category                                | Description                                                    |
 |-----------------------------------------|----------------------------------------------------------------|
 | [🤖 Well known AI tools](#-well-known-ai-tools)         | Popular and widely used AI tools across industries.            |
+| [📰 Current News and Updates](#-current-news-and-updates) | Stay informed about the latest AI developments and events.    |
 | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs) | Cutting-edge robotics powered by AI.                          |
 | [🤖 AI-Related Tools](#-ai-related-tools)              | Miscellaneous tools leveraging AI technology.                 |
 | [OpenAI](#openai)                       | Models, tools, and subscriptions from OpenAI.                 |
@@ -91,6 +92,14 @@ ________________________________________________________________
   </a>
 </p>
 
+________________________________________________________________
+## 📰 Current News and Updates
+
+- **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
+
+- **[12 Days of OpenAI](https://openai.com/12-days/)**: OpenAI's festive event featuring daily announcements including SORA, Advanced voice mode video, Santa Clause, Apple intelligence, Canvas
+
+Keep an eye on this section for more updates as they happen!
 ________________________________________________________________
 
 ## 🚀 Currently popular and Frequently Used AI Tools
