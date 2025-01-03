@@ -760,8 +760,8 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 18. [Natural Readers](https://www.naturalreaders.com) - Online text-to-speech reader.
 19. [Balabolka](http://www.cross-plus-a.com/balabolka.htm) - Free text-to-speech software.
 20. [Voice Dream](https://www.voicedream.com) - Text-to-speech app for mobile devices.
-
 21. [ElevenLabs](https://elevenlabs.io) - State-of-the-art voice synthesis for realistic and customizable speech.
+22. [YobiYoba](https://www.yobiyoba.com/en/) - Yobiyoba.com delivers state-of-the-art automatic transcription with a powerful editor and pricing based solely on speech time.
 
 ______________________________________________________________________________
 
@@ -881,7 +881,8 @@ A selection of platforms offering API integration for various AI applications an
 18. [Nexmo API](https://www.vonage.com/communications-apis/) - APIs for messaging, voice, and phone verification.
 19. [Lobe](https://lobe.ai) - Build, train, and ship custom machine learning models using an easy visual interface.
 20. [ChatterOn](https://chatteron.io) - AI chatbot building platform with API.
-21. Many others support API integration too
+21. [YobiYoba](https://www.yobiyoba.com/en/) - The Yobiyoba API provides automatic transcription, real-time processing, audio-text alignment, and lexicon enhancement to enrich your audio transcriptions.
+22. Many others support API integration too
 
 ______________________________________________________________________________
 
