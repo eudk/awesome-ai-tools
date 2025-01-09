@@ -762,6 +762,7 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 20. [Voice Dream](https://www.voicedream.com) - Text-to-speech app for mobile devices.
 21. [ElevenLabs](https://elevenlabs.io) - State-of-the-art voice synthesis for realistic and customizable speech.
 22. [YobiYoba](https://www.yobiyoba.com/en/) - Yobiyoba.com delivers state-of-the-art automatic transcription with a powerful editor and pricing based solely on speech time.
+23. [CustomPod](https://custompod.io/) - Improve productivity by getting a personalized daily audio briefing on updates from your favorite sites/apps.
 
 ______________________________________________________________________________
 
