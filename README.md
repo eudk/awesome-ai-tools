@@ -53,7 +53,6 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 | Category                                | Description                                                    |
 |-----------------------------------------|----------------------------------------------------------------|
 | [🤖 Well known AI tools](#-well-known-ai-tools)         | Popular and widely used AI tools across industries.            |
-| [📰 Current News and Updates](#-current-news-and-updates) | Stay informed about the latest AI developments and events.    |
 | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs) | Cutting-edge robotics powered by AI.                          |
 | [🤖 AI-Related Tools](#-ai-related-tools)              | Miscellaneous tools leveraging AI technology.                 |
 | [OpenAI](#openai)                       | Models, tools, and subscriptions from OpenAI.                 |
@@ -90,16 +89,11 @@ ________________________________________________________________
   <a href="https://www.midjourney.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
   </a>
+  <a href="https://platform.deepseek.com/" target="_blank">
+    <img src="https://9meters.com/wp-content/uploads/deepseek-logo.webp" alt="DeepSeek Logo" width="70"/>
+  </a>
 </p>
 
-________________________________________________________________
-## 📰 Current News and Updates
-
-- **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
-
-- **[12 Days of OpenAI](https://openai.com/12-days/)**: OpenAI's festive event featuring daily announcements including SORA, Advanced voice mode video, Santa Clause, Apple intelligence, Canvas
-
-Keep an eye on this section for more updates as they happen!
 ________________________________________________________________
 
 ## 🚀 Currently popular and Frequently Used AI Tools
@@ -107,7 +101,7 @@ ________________________________________________________________
 [🔝 Back to Top](#top)
 
 This section highlights the most cutting-edge and powerful AI tools that are frequently used by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
-
+- **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering open-source models like **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, with smaller distilled variants (1.5B, 7B, 14B) for local deployment. It also provides a **paid API** compatible with OpenAI’s format, supporting streaming and enterprise solutions.
 - **[ChatGPT](https://chat.openai.com/)** - Powered by OpenAI's GPT-4, ChatGPT is a versatile AI chatbot capable of generating human-like text, answering questions, assisting with coding, and more. 4o, 4o mini, o1, o1 pro
 - **[Claude AI](https://claude.ai/)** - Developed by Anthropic, Claude AI offers advanced natural language understanding and can handle complex conversational queries.
 - **[Dream machine](https://lumalabs.ai/dream-machine)** - Video from image generation (Open to everyone)
@@ -121,7 +115,7 @@ ________________________________________________________________
 [🔝 Back to Top](#top)
 
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
-
+- **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering open-source models like **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, with smaller distilled variants (1.5B, 7B, 14B) for local deployment. It also provides a **paid API** compatible with OpenAI’s format, supporting streaming and enterprise solutions.
 - **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** - A repository that offers tools to create deepfake videos using live camera input, providing real-time face-swapping capabilities.
 - **[Meta LLaMA 3.1 Models](https://github.com/meta-llama/llama-models)** - Official repository to use and implement LLaMA 3.1 models, Meta's state-of-the-art large language models.
 - **[Agent Zero](https://github.com/frdel/agent-zero)** - A repository for creating and managing autonomous AI agents with customizable goals and tasks.
@@ -171,8 +165,6 @@ ________________________________________________________________
 [🔝 Back to Top](#top)
 
 OpenAI offers cutting-edge models and subscription plans tailored for professionals, businesses, and AI enthusiasts. Here’s a quick overview:
-
-- **[12 Days of OpenAI](https://x.com/OpenAI/status/1864328928267259941)**: a current event where OpenAI announces new tools, features, and updates. Highlights include Sora, o1, and more.
 
 - **[ChatGPT](https://chat.openai.com/)**: The flagship conversational AI tool powered by GPT-4, ideal for text generation, problem-solving, and interactive use cases. Also has access to SearchGPT
 
@@ -261,7 +253,7 @@ ________________________________________________________________
 ## 🤖 AI-Related Tools
 
 [🔝 Back to Top](#top)
-
+- **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
 - [Claude AI Chatbot Platform](https://claude.ai) - Provides advanced online chatbot solutions with AI-driven interactivity.
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
 - [Perplexity AI Query Assistant](https://www.perplexity.ai/) - Interactive tool for AI-driven question answering and information retrieval.
