@@ -116,6 +116,7 @@ ________________________________________________________________
 
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
 - **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering open-source models like **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, with smaller distilled variants (1.5B, 7B, 14B) for local deployment. It also provides a **paid API** compatible with OpenAI’s format, supporting streaming and enterprise solutions.
+- **[Qwen](https://chat.qwenlm.ai/)** - Alibaba’s large language model series, featuring **Qwen-72B**, **Qwen-14B**, and smaller variants optimized for local inference. Supports **multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.
 - **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** - A repository that offers tools to create deepfake videos using live camera input, providing real-time face-swapping capabilities.
 - **[Meta LLaMA 3.1 Models](https://github.com/meta-llama/llama-models)** - Official repository to use and implement LLaMA 3.1 models, Meta's state-of-the-art large language models.
 - **[Agent Zero](https://github.com/frdel/agent-zero)** - A repository for creating and managing autonomous AI agents with customizable goals and tasks.
