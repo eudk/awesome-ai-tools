@@ -894,6 +894,7 @@ ______________________________________________________________________________
 - [Codota](https://www.codota.com/) - AI tool for developers that predicts your next code segment.
 - [Intellicode](https://visualstudio.microsoft.com/services/intellicode/) - AI-assisted coding from Microsoft, available in Visual Studio.
 - [SourceAI](https://sourceai.dev/) - An AI-powered code generator that helps you write code faster.
+- [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.
 - [AI Code Completion by DeepCode](https://www.deepcode.ai/) - AI-powered code review tool that learns from your codebase.
 - [Replit's Ghostwriter](https://replit.com/ghostwriter) - AI coding assistant that helps you write and debug code faster.
 - [Facebook's Aroma](https://research.fb.com/publications/aroma-code-to-code-search-and-recommendation/) - AI-based code-to-code search and recommendation tool.
