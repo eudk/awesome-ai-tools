@@ -37,6 +37,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 - A mix of consumer and enterprise friendly tools
 - You can also search the list using **Ctrl + F** (Windows) or **⌘ + F** (Mac) for quick navigation.
 - Feel free to submit a **pull request** to add your tools or suggest improvements to the list!
+- Some info might be wrong idk
 
 <a name="top"></a>
 
@@ -96,17 +97,58 @@ ________________________________________________________________
 
 ________________________________________________________________
 
-## 🚀 Currently popular and Frequently Used AI Tools
+## 🚀 Currently Popular and Frequently Used AI Tools
 
 [🔝 Back to Top](#top)
 
-This section highlights the most cutting-edge and powerful AI tools that are frequently used by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
-- **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering open-source models like **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, with smaller distilled variants (1.5B, 7B, 14B) for local deployment. It also provides a **paid API** compatible with OpenAI’s format, supporting streaming and enterprise solutions.
-- **[ChatGPT](https://chat.openai.com/)** - Powered by OpenAI's GPT-4, ChatGPT is a versatile AI chatbot capable of generating human-like text, answering questions, assisting with coding, and more. 4o, 4o mini, o1, o1 pro
-- **[Claude AI](https://claude.ai/)** - Developed by Anthropic, Claude AI offers advanced natural language understanding and can handle complex conversational queries.
-- **[Dream machine](https://lumalabs.ai/dream-machine)** - Video from image generation (Open to everyone)
-- **[MidJourney](https://midjourney.com)** - Advanced tool for AI-driven artistic image creation.
-- **[Perplexity AI](https://www.perplexity.ai/)** - An AI-driven question-answering and research tool that provides accurate, interactive results. It’s known for delivering reliable information retrieval and is particularly useful for research, education, and knowledge exploration.
+This section highlights cutting-edge AI tools widely utilized by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
+
+---
+
+- **[DeepSeek](https://deepseek.com/)** – A rising AI platform offering high-performance open-source and API models.
+
+  - **DeepSeek-V3** (671B): State-of-the-art general-purpose LLM.
+  - **DeepSeek R1** (660B): RLHF-tuned model with improved reasoning and alignment.
+  - **DeepSeek-VL** (NEW): Vision-language model that handles text + image input/output.
+  - Smaller distilled variants: **1.3B**, **7B**, and **14B** – optimized for local/private deployment.
+  - **OpenAI-compatible paid API** with streaming and enterprise features.
+
+---
+
+- **[ChatGPT](https://chat.openai.com/)** – OpenAI’s flagship chatbot platform, now powered by **GPT-4o**, a multimodal model that understands text, images, and audio.
+
+  - Available models: **GPT-4o**, **GPT-4o mini**, **o1**, **o1 Pro**, and GPT-3.5 (Free tier).
+  - **Advanced Voice Mode**, **image generation**, and **SearchGPT** access in Plus and Pro tiers.
+  - Free tier includes GPT-4o with limited access.
+
+---
+
+- **[Claude AI](https://claude.ai/)** – Developed by **Anthropic**, Claude is known for safety, alignment, and long-context understanding.
+
+  - **Claude 3 Family**:
+    - **Haiku** – Lightweight and fast.
+    - **Sonnet** – Balanced and default on free plan.
+    - **Opus** – Most powerful model (Pro only).
+  - Multimodal: **Sonnet** and **Opus** support image input.
+  - 100K–200K context windows.
+  - **Claude Pro** ($20/month): Access to Opus + higher rate limits.
+
+---
+
+- **[Dream Machine](https://lumalabs.ai/dream-machine)** – Free and public **text-to-video model** from Luma AI. Create high-quality, coherent video clips from simple text or image prompts.
+
+---
+
+- **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via Discord. Known for its unique stylization and creativity. 
+
+---
+
+- **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
+
+  - Features include: real-time web access, custom threads, file + URL analysis, and pro-level citation support.
+  - **Pro plan** offers Claude 3.7 sonnet, GPT-4, and other premium model access.
+
+---
 
 ________________________________________________________________
 
@@ -161,35 +203,69 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AI Boost](https://boost.pictures/)** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 
 ________________________________________________________________
-
 ## OpenAI
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="open AI Icon" width="70"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="OpenAI Icon" width="70"/>
 </p>  
 
 [🔝 Back to Top](#top)
 
-OpenAI offers cutting-edge models and subscription plans tailored for professionals, businesses, and AI enthusiasts. Here’s a quick overview:
+OpenAI provides industry-leading AI tools through ChatGPT, now powered by GPT-4o. Here’s the latest overview of available models, capabilities, and pricing:
 
-- **[ChatGPT](https://chat.openai.com/)**: The flagship conversational AI tool powered by GPT-4, ideal for text generation, problem-solving, and interactive use cases. Also has access to SearchGPT
+---
 
-- **Sora**: OpenAI's text-to-video model for generating videos from prompts.
-  - **ChatGPT Plus**: $20/month – 50 priority videos (720p). 5s
-  - **ChatGPT Pro**: $200/month – Unlimited videos (Relaxed) (1080p). 20s 
+### 💬 [ChatGPT](https://chat.openai.com/)
+ChatGPT is the core platform, offering:
 
-- **GPT-4o**: A multimodal model handling text, images, and audio with twice the speed and half the cost of GPT-4 Turbo.
+- **GPT-4o (Free & Paid)** – Text, image, and audio input/output
+- **SearchGPT** – Web-enhanced answers
+- **Advanced Voice Mode** – Real-time voice interaction (Plus & Pro)
+- **Image generation** – Native, photorealistic output
+- **Image understanding** – OCR, document analysis, screenshots
+- **Sora integration** (Plus & Pro) – Text-to-video generation
 
-- **o1**: Designed for advanced reasoning tasks, excelling in mathematics, competitive programming, and scientific queries.
-  - **o1 Pro**: Enhanced for enterprise and academic use with extended response time for complex queries.
+---
 
-- **ChatGPT Plus**: $20/month – Access to GPT-4 with priority features and improved limits.
+### 🧠 GPT-4o (Omni)
+Multimodal model capable of:
 
-- **ChatGPT Pro**: $200/month – Unlimited access to some models, access to o1 Pro and premium features like unlimited Advanced Voice Mode (seems to cap at 1 hour per conversation).
-________________________________________________________________
+- **Text generation**
+- **Image understanding & generation**
+- **Audio input/output**
+- Faster and cheaper than GPT-4 Turbo
+- Handles complex reasoning and real-world perception tasks
+
+---
+
+### 🎥 Sora (Text-to-Video)
+Generates short videos from text prompts.
+
+- **Plus**: 50 monthly priority videos (720p, ~5s)
+- **Pro**: Unlimited relaxed videos (1080p, ~20s)
+
+---
+
+### 🔬 o1 Model
+Purpose-built for:
+
+- Mathematics, formal logic, competitive programming
+- Complex reasoning and scientific queries
+- **o1 Pro** access via Pro tier
+
+---
+
+### 💼 Plans & Pricing
+| Plan             | Price        | Includes                                                                 |
+|------------------|--------------|--------------------------------------------------------------------------|
+| **Free**         | $0           | GPT-4o access with usage limits, no image generation, basic tools only   |
+| **ChatGPT Plus** | $20/month    | GPT-4o, Sora (limited), Advanced Voice, priority access, image tools     |
+| **ChatGPT Pro**  | $200/month   | GPT-4o, o1 Pro, unlimited Sora, full image/audio tools, highest limits   |
+
+---
 
 <p align="center">
  <img src="https://oss-global-cdn.unitree.com/static/afcdc93aa69f4fa499c76725a18df2a6_780x614.gif" alt="Unitree Go1 Robot" width="300">
-</p>  
+</p>
 
 ## 🤖 AI Driven Robots and Robotic Dogs
 
