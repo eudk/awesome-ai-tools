@@ -463,6 +463,7 @@ ________________________________________________________________
 18. **ChatGPT for Google** - Integrate ChatGPT in Google searches.
 19. **Almighty** - AI-driven productivity booster.
 20. **SentiSum Insights** - AI sentiment analysis for customer feedback.
+21. **[DockyAI](https://docky.ai/)** - All-in-one AI assistant.
 
 ________________________________________________________________
 
