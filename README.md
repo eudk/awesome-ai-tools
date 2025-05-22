@@ -49,6 +49,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 <br><br>
 
 ### 🔗 Navigation
+
 ## 🔗 Navigation Table
 
 | Category                                | Description                                                    |
@@ -139,7 +140,7 @@ This section highlights cutting-edge AI tools widely utilized by professionals a
 
 ---
 
-- **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via Discord. Known for its unique stylization and creativity. 
+- **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via Discord. Known for its unique stylization and creativity.
 
 ---
 
@@ -157,6 +158,7 @@ ________________________________________________________________
 [🔝 Back to Top](#top)
 
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
+
 - **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
 - **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
 - **[Qwen](https://chat.qwenlm.ai/)** - Alibaba’s **LLM series**, featuring **Qwen-72B**, **Qwen-14B**, and smaller variants optimized for **local inference**. Supports **multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.
@@ -203,10 +205,12 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AI Boost](https://boost.pictures/)** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 
 ________________________________________________________________
+
 ## OpenAI
+
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="OpenAI Icon" width="70"/>
-</p>  
+</p>
 
 [🔝 Back to Top](#top)
 
@@ -215,6 +219,7 @@ OpenAI provides industry-leading AI tools through ChatGPT, now powered by GPT-4o
 ---
 
 ### 💬 [ChatGPT](https://chat.openai.com/)
+
 ChatGPT is the core platform, offering:
 
 - **GPT-4o (Free & Paid)** – Text, image, and audio input/output
@@ -227,6 +232,7 @@ ChatGPT is the core platform, offering:
 ---
 
 ### 🧠 GPT-4o (Omni)
+
 Multimodal model capable of:
 
 - **Text generation**
@@ -238,6 +244,7 @@ Multimodal model capable of:
 ---
 
 ### 🎥 Sora (Text-to-Video)
+
 Generates short videos from text prompts.
 
 - **Plus**: 50 monthly priority videos (720p, ~5s)
@@ -246,6 +253,7 @@ Generates short videos from text prompts.
 ---
 
 ### 🔬 o1 Model
+
 Purpose-built for:
 
 - Mathematics, formal logic, competitive programming
@@ -255,6 +263,7 @@ Purpose-built for:
 ---
 
 ### 💼 Plans & Pricing
+
 | Plan             | Price        | Includes                                                                 |
 |------------------|--------------|--------------------------------------------------------------------------|
 | **Free**         | $0           | GPT-4o access with usage limits, no image generation, basic tools only   |
@@ -328,13 +337,14 @@ ________________________________________________________________
 - [Hugging Face](https://huggingface.co/) - The AI community building the future with open-source AI technologies.
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again, focused on making deep learning more accessible.
 - [Neuralink](https://neuralink.com/) - Developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
-- [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 2 / Image generation with Aurora and FLUX.1 model 
+- [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 2 / Image generation with Aurora and FLUX.1 model
 
 ________________________________________________________________
 
 ## 🤖 AI-Related Tools
 
 [🔝 Back to Top](#top)
+
 - **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
 - [Claude AI Chatbot Platform](https://claude.ai) - Provides advanced online chatbot solutions with AI-driven interactivity.
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
@@ -696,7 +706,8 @@ ______________________________________________________________________________
 [🔝 Back to Top](#top)
 
 This list includes a range of tools for AI-powered video generation, offering capabilities from video editing to creating entirely new video content with AI.
-- [Sora](https://www.sora.com) - AI video generation platform from OpenAI. 
+
+- [Sora](https://www.sora.com) - AI video generation platform from OpenAI.
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
@@ -967,7 +978,7 @@ ______________________________________________________________________________
 [🔝 Back to Top](#top)
 
 - [GitHub Copilot](https://copilot.github.com/) - AI pair programmer which suggests code snippets and entire functions in real-time.
-- [GoCodeo](https://www.gocodeo.com/) -  AI agent for building full-stack apps in minutes. 
+- [GoCodeo](https://www.gocodeo.com/) -  AI agent for building full-stack apps in minutes.
 - [JetBrains Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) - AI-assisted code completion for Kotlin multiplatform development.
 - [Tabnine](https://www.tabnine.com/) - AI code completion assistant for software developers, supporting multiple languages and IDEs.
 - [Kite](https://www.kite.com/) - AI coding assistant offering line-of-code completions and documentation.
@@ -992,6 +1003,7 @@ ______________________________________________________________________________
 - [LlamaIndex](https://github.com/run-llama/llama_index) -  LlamaIndex is a data framework for your LLM applications
 - [Mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [Inferable](https://github.com/inferablehq/inferable) - Open-source managed agent runtime for distributed AI agents
+- [Gestell](https://gestell.ai) - Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.
 
 ______________________________________________________________________________
 
