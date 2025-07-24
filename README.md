@@ -395,6 +395,7 @@ ________________________________________________________________
 - [Logicballs](https://logicballs.com) - An AI-powered writing tool to create any type of content and supercharge your productivity.
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 - [bugfree.ai](https://bugfree.ai/) - bugfree.ai is an advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews.
+- [manifest.build](https://manifest.build/) - The backend AI can generate, developers can trust! 
 
 ________________________________________________________________
 
