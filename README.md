@@ -996,6 +996,7 @@ ______________________________________________________________________________
 - [Facebook's Aroma](https://research.fb.com/publications/aroma-code-to-code-search-and-recommendation/) - AI-based code-to-code search and recommendation tool.
 - [Codex by OpenAI](https://openai.com/blog/openai-codex/) - AI system that translates natural language to code, powered by GPT-3.
 - [Deep TabNine Local](https://www.tabnine.com/local) - Deep learning model running locally for code completion.
+- [Berrry](https://berrry.app) - AI-powered platform that transforms Twitter posts and Reddit content into functional web applications using code generation.
 
 ______________________________________________________________________________
 
