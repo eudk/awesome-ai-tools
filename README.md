@@ -425,6 +425,7 @@ ________________________________________________________________
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
 - [Instafill.ai](https://instafill.ai) – AI PDF Form Filler
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 
 ________________________________________________________________
 
