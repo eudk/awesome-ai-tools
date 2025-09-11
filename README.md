@@ -995,6 +995,7 @@ ______________________________________________________________________________
 - [Codota](https://www.codota.com/) - AI tool for developers that predicts your next code segment.
 - [Intellicode](https://visualstudio.microsoft.com/services/intellicode/) - AI-assisted coding from Microsoft, available in Visual Studio.
 - [SourceAI](https://sourceai.dev/) - An AI-powered code generator that helps you write code faster.
+- [unpkg.ai](https://unpkg.ai/) - AI-powered service that generates JavaScript modules with TypeScript signatures via URL for rapid prototyping.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.
 - [AI Code Completion by DeepCode](https://www.deepcode.ai/) - AI-powered code review tool that learns from your codebase.
 - [Replit's Ghostwriter](https://replit.com/ghostwriter) - AI coding assistant that helps you write and debug code faster.
