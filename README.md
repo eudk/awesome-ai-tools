@@ -338,6 +338,7 @@ ________________________________________________________________
 - [NVIDIA AI](https://www.nvidia.com/en-us/deep-learning-ai/) - AI solutions and GPU-accelerated tools for deep learning.
 - [Hugging Face](https://huggingface.co/) - The AI community building the future with open-source AI technologies.
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again, focused on making deep learning more accessible.
+- [new.website](https://new.website) - AI-powered website creation platform that builds beautiful websites in minutes with built-in forms, analytics, SEO optimization, and scalable hosting.
 - [Neuralink](https://neuralink.com/) - Developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
 - [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 2 / Image generation with Aurora and FLUX.1 model
 
