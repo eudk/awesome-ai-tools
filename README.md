@@ -172,6 +172,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)** - A repository for generating animations and high-quality visuals using stable diffusion models.
 - **[Stability AI](https://stability.ai/)** - The official website and hub for Stability AI, which offers a variety of AI-driven tools and models, particularly in image generation.
 - **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - A popular web-based interface for running Stable Diffusion models, offering extensive features and customization options.
+- **[new.website](https://new.website)** - AI-powered website creation platform that builds beautiful websites in minutes with built-in forms, analytics, SEO optimization, and scalable hosting.
 - **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
 
 - **[Runway ML](https://runwayml.com/)** - A creative suite for generating, editing, and manipulating media using AI, popular for video and content creation.
