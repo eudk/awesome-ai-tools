@@ -1,11 +1,18 @@
+[![Awesome](https://img.shields.io/badge/Awesome-AI-000000.svg?logo=github&labelColor=24292e)](#)
+![GitHub Stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
+![GitHub Contributors](https://img.shields.io/github/contributors/eudk/awesome-ai-tools)
+![Last Commit](https://img.shields.io/github/last-commit/eudk/awesome-ai-tools)
+
 # Comprehensive List of AI Tools
 
 <p align="center">
-  <img src="https://wp.technologyreview.com/wp-content/uploads/2019/08/datalabor3slow-10.gif" alt="AI Image" width="200"/>
+  <img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="AI Image" width="400"/>
 </p>
+
 <p align="center">
   <a href="https://chat.openai.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png" alt="ChatGPT Logo" width="70"/>
   </a>
   <a href="https://claude.ai/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
@@ -13,38 +20,38 @@
   <a href="https://www.midjourney.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
   </a>
+  <a href="https://platform.deepseek.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1920px-DeepSeek_logo.svg.png" alt="DeepSeek Logo" width="200"/>
+  </a>
 </p>
 
-![GitHub Stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
-![GitHub Contributors](https://img.shields.io/github/contributors/eudk/awesome-ai-tools)
-![Last Commit](https://img.shields.io/github/last-commit/eudk/awesome-ai-tools)
+
 
 Welcome to this extensive collection of tools and resources covering a broad range of applications in the world of artificial intelligence (AI) and machine learning (ML). This list encompasses a variety of categories, including educational resources specific to AI and ML, advanced tools for photo and video generation, chatbots, language models, and essential tools for GPU renting, and more.
 
 The compilation aims to serve as a handy reference for enthusiasts, professionals, and learners in the AI and ML community. Whether you're looking for resources to deepen your understanding, tools to enhance your projects, or just exploring the capabilities of AI, you're likely to find something of interest here.
 
-**Regular Updates and Disclaimer:**
+ ### A Living, Community-Driven Guide
 
-- This list is regularly updated to include the latest and most relevant tools in the field.
-- Elements on the list are AI generated
-- Please note that while we strive to keep the list current, there might be occasional issues with some of the links.
-- We are not affiliated with any of the listed tools or platforms, nor have we tested all of them.
-- Users are advised to conduct their own research and use these tools at their own discretion.
-- The list is mostly made by gathering resources from many different sources
-- There might be errors in names and links
-- Tools aren't marked with pricing visit each site to find information related to that
-- A mix of consumer and enterprise friendly tools
-- You can also search the list using **Ctrl + F** (Windows) or **⌘ + F** (Mac) for quick navigation.
-- Feel free to submit a **pull request** to add your tools or suggest improvements to the list!
-- Some info might be wrong idk
+ This list is a dynamic resource, constantly updated to capture the latest in the fast-paced world of AI. It's curated from community suggestions, extensive research, and with a little help from AI to cover the vast landscape.
+
+**Please Note:**
+ - **Independence:** This is an independent, community project. We are not affiliated with, sponsored by, or endorsing any of the tools listed.
+ - **Accuracy:** The AI world moves incredibly fast! While we strive for accuracy, links can break and information (like free student campaigns) can become outdated. Please verify details on the official sites.
+- **Due Diligence:** This list contains a mix of consumer and enterprise tools. We have not tested every tool. You are advised to conduct your own research and use these tools at your own discretion.
+>
+ **Ready to contribute?**
+
+ >Before you do, **please take a moment to read our [Contribution Guidelines](./CONTRIBUTING.md).** This helps us keep the list consistent and saves everyone time.
+
+ Found a broken link or an amazing new tool we missed? We'd love your help! Please feel free to [open an issue](https://github.com/eudk/awesome-ai-tools/issues) or [submit a pull request](https://github.com/eudk/awesome-ai-tools/pulls).
 
 <a name="top"></a>
 
 ### 🙌 Contributors
 
 <a href="https://github.com/eudk/awesome-ai-tools/contributors">
-  <img src="https://contrib.rocks/image?repo=eudk/awesome-ai-tools" width="250"/>
+  <img src="https://contrib.rocks/image?repo=eudk/awesome-ai-tools" width="500"/>
 </a>
 <br><br>
 
@@ -54,7 +61,10 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 
 | Category                                | Description                                                    |
 |-----------------------------------------|----------------------------------------------------------------|
-| [🤖 Well known AI tools](#-well-known-ai-tools)         | Popular and widely used AI tools across industries.            |
+| [👑 The Big Players: Foundational Models](#-the-big-players-foundational-models)| In-depth look at the titans of AI: OpenAI, Google, Anthropic, Meta & Mistral.|
+| [🇨🇳 Leading Chinese AI Models](#-leading-chinese-ai-models)           | Powerful and popular large language models from China.                      |
+| [🎓 Free Stuff for Students & Educators](#-free-stuff-for-students--educators) | Free access to professional-grade tools, software, and cloud credits.       |
+| [🚀 New and Emerging AI Tools](#-new-and-emerging-ai-tools)             | The latest AI tools gaining popularity and traction in the industry.         |
 | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs) | Cutting-edge robotics powered by AI.                          |
 | [🤖 AI-Related Tools](#-ai-related-tools)              | Miscellaneous tools leveraging AI technology.                 |
 | [OpenAI](#openai)                       | Models, tools, and subscriptions from OpenAI.                 |
@@ -83,7 +93,7 @@ The compilation aims to serve as a handy reference for enthusiasts, professional
 ________________________________________________________________
 <p align="center">
   <a href="https://chat.openai.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT Logo" width="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png" alt="ChatGPT Logo" width="70"/>
   </a>
   <a href="https://claude.ai/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
@@ -92,72 +102,234 @@ ________________________________________________________________
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
   </a>
   <a href="https://platform.deepseek.com/" target="_blank">
-    <img src="https://9meters.com/wp-content/uploads/deepseek-logo.webp" alt="DeepSeek Logo" width="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1920px-DeepSeek_logo.svg.png" alt="DeepSeek Logo" width="200"/>
   </a>
 </p>
 
 ________________________________________________________________
 
-## 🚀 Currently Popular and Frequently Used AI Tools
+## 👑 The Big Players: Foundational Models
 
 [🔝 Back to Top](#top)
 
 This section highlights cutting-edge AI tools widely utilized by professionals across various industries. These tools represent the forefront of AI technology, offering unmatched capabilities for a wide range of applications.
 
 ---
+### OpenAI
+<p>
+  <a href="https://openai.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI Logo" width="150"/>
+  </a>
+</p>
 
-- **[DeepSeek](https://deepseek.com/)** – A rising AI platform offering high-performance open-source and API models.
+A leader in AI research and deployment, OpenAI is the creator of the GPT series, DALL-E, and Sora. They set the pace for the industry with cutting-edge, large-scale models.
 
-  - **DeepSeek-V3** (671B): State-of-the-art general-purpose LLM.
-  - **DeepSeek R1** (660B): RLHF-tuned model with improved reasoning and alignment.
-  - **DeepSeek-VL** (NEW): Vision-language model that handles text + image input/output.
-  - Smaller distilled variants: **1.3B**, **7B**, and **14B** – optimized for local/private deployment.
-  - **OpenAI-compatible paid API** with streaming and enterprise features.
+- **[ChatGPT](https://chat.openai.com/)** - The primary platform for accessing OpenAI's models.
+- **Flagship Model: GPT-5** - A powerful, unified system featuring a smart, efficient model for most queries and a deeper reasoning model (`GPT-5 thinking`) for complex problems. It boasts state-of-the-art performance in coding, writing, and visual understanding.
+
+- **Specialized Models**:
+    - **o1 (Omni-1)**: A family of models focused on superior reasoning and logical deduction, available to Pro subscribers.
+    - **DALL-E 3**: The image generation model known for its exceptional prompt adherence and integration within ChatGPT.
+    - **Sora**: A revolutionary text-to-video model capable of generating high-fidelity, cinematic scenes.
+- **Pricing Tiers**:
+    - **Free**: Generous access to GPT-4o.
+    - **Plus/Pro**: Higher usage limits, priority access, and access to GPT-5 and advanced data analysis features.
+    - **API**: Pay-as-you-go access for developers to integrate OpenAI models into their own applications.
+   - **TEAM tier**: All Plus features, plus a larger context window, collaboration tools, and administrative controls for organizations.   
+---
+
+### Google
+<p>
+  <a href="https://ai.google" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1920px-Google_2015_logo.svg.png" alt="Google AI Logo" width="150"/>
+  </a>
+</p>
+
+Google is a powerhouse in AI research and infrastructure, developing the Gemini family of models and integrating AI deeply into its entire product ecosystem, from Search to Workspace to Cloud.
+
+- **[Google Gemini](https://gemini.google.com/)** - The main conversational interface (formerly Bard) for interacting with Gemini models.
+- **Flagship Model: Gemini 2.0** - The latest family of natively multimodal models, built for massive scale and a wide range of tasks.
+    - **Gemini 2.0 Ultra**: The largest and most capable model, designed for highly complex tasks, excelling at long-context understanding and video analysis.
+    - **Gemini 2.0 Pro**: The high-performance, versatile model that powers most Google products and services.
+    - **Gemini 2.0 Flash**: A lightweight and extremely fast model optimized for speed and efficiency with a 1M token context window.
+- **Key Features**:
+    - **Native Multimodality**: Can understand and process text, images, audio, and video seamlessly in a single architecture.
+    - **Massive Context Window**: Capable of processing millions of tokens, allowing for analysis of entire codebases or video libraries.
+    - **Ecosystem Integration**: Deeply embedded in Google Search (AI Overviews), Google Workspace (Help me write/organize), and Google Photos.
+- **Developer Platform**: **[Vertex AI](https://cloud.google.com/vertex-ai)** on Google Cloud offers enterprise-grade access to Gemini models, along with a full suite of MLOps tools for building and deploying custom AI solutions.
 
 ---
 
-- **[ChatGPT](https://chat.openai.com/)** – OpenAI’s flagship chatbot platform, now powered by **GPT-4o**, a multimodal model that understands text, images, and audio.
+### Anthropic
+<p>
+  <a href="https://www.anthropic.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1920px-Claude_AI_logo.svg.png" alt="Anthropic Logo" width="150"/>
+  </a>
+</p>
 
-  - Available models: **GPT-4o**, **GPT-4o mini**, **o1**, **o1 Pro**, and GPT-3.5 (Free tier).
-  - **Advanced Voice Mode**, **image generation**, and **SearchGPT** access in Plus and Pro tiers.
-  - Free tier includes GPT-4o with limited access.
+Founded with a focus on AI safety and alignment, Anthropic develops the Claude family of models, which are renowned for their reliability, large context windows, and "Constitutional AI" training approach.
 
----
-
-- **[Claude AI](https://claude.ai/)** – Developed by **Anthropic**, Claude is known for safety, alignment, and long-context understanding.
-
-  - **Claude 3 Family**:
-    - **Haiku** – Lightweight and fast.
-    - **Sonnet** – Balanced and default on free plan.
-    - **Opus** – Most powerful model (Pro only).
-  - Multimodal: **Sonnet** and **Opus** support image input.
-  - 100K–200K context windows.
-  - **Claude Pro** ($20/month): Access to Opus + higher rate limits.
-
----
-
-- **[Dream Machine](https://lumalabs.ai/dream-machine)** – Free and public **text-to-video model** from Luma AI. Create high-quality, coherent video clips from simple text or image prompts.
+- **[Claude.ai](https://claude.ai/)** - The official web interface for interacting with Claude models.
+- **Flagship Model: Claude 4** - The latest generation of models, praised for their nuanced understanding, reduced hallucination rates, and exceptional performance on enterprise tasks.
+    - **Claude 4 Opus**: The most powerful model, rivaling GPT-5 and Gemini 2.0 Ultra, ideal for complex analysis, research, and creative writing.
+    - **Claude 4 Sonnet**: A balanced model offering the perfect blend of performance and speed, with a "hybrid reasoning" approach for efficiency.
+    - **Claude 3.5 Haiku**: An extremely fast and cost-effective model designed for instant responsiveness in applications like customer support chatbots.
+- **Key Differentiators**:
+    - **AI Safety**: Trained with a "constitution" of principles to ensure helpfulness and harmlessness.
+    - **Industry-Leading Context Window**: Capable of processing context windows of up to 1 million tokens, making it ideal for analyzing lengthy documents, contracts, and financial reports.
+    - **Enterprise Focus**: Highly trusted for business applications where reliability and predictability are critical.
 
 ---
 
-- **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via Discord. Known for its unique stylization and creativity.
+### Meta AI
+<p>
+  <a href="https://ai.meta.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/1920px-Meta_Platforms_Inc._logo.svg.png" alt="Meta AI Logo" width="150"/>
+  </a>
+</p>
+
+Meta is the leading champion of open-source AI, driving innovation and accessibility with its powerful Llama series of models. They believe in an open ecosystem where developers can build upon and customize foundational AI.
+
+- **[Meta Llama](https://ai.meta.com/llama/)** - The official hub for Llama models and research.
+- **Flagship Open Model: Llama 4** - The state-of-the-art in open-source AI. A natively multimodal model with a mixture-of-experts architecture for enhanced performance.
+    - **Model Sizes**: Available in various parameter counts, including highly efficient **17B** models (`Maverick` and `Scout`) that can run on consumer devices, up to massive foundation models.
+    - **Variants**: Includes versions fine-tuned for following complex instructions and specialized **Code Llama** models for programming.
+- **Platform & Accessibility**:
+    - **Hugging Face**: The primary platform for downloading and using Llama models.
+    - **Cloud Platforms**: Easily deployable on AWS, Azure, and Google Cloud.
+    - **Local Execution**: Can be run locally on powerful consumer or pro-grade hardware using tools like **[Ollama](https://ollama.com/)** and **[LM Studio](https://lmstudio.ai/)**.
+- **[Meta AI Assistant](https://www.meta.ai/)**: An AI assistant integrated across Meta's apps (WhatsApp, Instagram, Messenger) powered by the latest Llama models.
 
 ---
 
-- **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
+### Mistral AI
+<p>
+  <a href="https://mistral.ai" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/1280px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" alt="Mistral AI Logo" width="150"/>
+  </a>
+</p>
 
-  - Features include: real-time web access, custom threads, file + URL analysis, and pro-level citation support.
-  - **Pro plan** offers Claude 3.7 sonnet, GPT-4, and other premium model access.
+Based in Paris 🇪🇺, Mistral AI has quickly become a European powerhouse, producing highly efficient and powerful models in both open-weight and commercial formats. They are known for their technical excellence and novel architectures.
+
+- **[Le Chat](https://chat.mistral.ai/)** - Mistral's official conversational AI interface.
+- **Commercial Models**:
+    - **Mistral Large 2**: Their flagship proprietary model, offering top-tier performance that competes directly with the best closed-source models, available via API.
+- **Open-Weight Models**:
+    - **Mixtral 8x22B**: A powerful and popular open model that uses a sparse Mixture-of-Experts (MoE) architecture for greater efficiency.
+    - **Codestral**: A state-of-the-art, open-weight model specifically designed for code generation, completion, and reasoning, supporting a wide range of programming languages.
+    - **Mistral 7B**: A highly capable small model, considered one of the best in its class for performance on a limited hardware budget.
+- **Key Strengths**:
+    - **Efficiency**: Mistral models are known for providing exceptional performance for their size, making them easier and cheaper to run.
+    - **Open-Source Commitment**: A strong contributor to the open-source community, regularly releasing powerful models with permissive licenses.
 
 ---
 
-________________________________________________________________
+## 🇨🇳 Leading Chinese AI Models
+
+This section showcases the most prominent and powerful large language models developed by Chinese technology companies and research labs.
+
+- **[ERNIE (文心一言)](https://yiyan.baidu.com/)** - Developed by **Baidu**, the ERNIE (Enhanced Representation through Knowledge Integration) series is one of China's leading models.
+    - **Model**: **ERNIE 4.0** is a powerful multimodal model with strong capabilities in language understanding, generation, and reasoning, deeply integrated into Baidu's search engine.
+
+- **[Qwen (通义千问)](https://qwen.aliyun.com/)** - Developed by **Alibaba Cloud**, the Qwen series includes both powerful closed models and popular open-source versions.
+    - **Models**: **Qwen2.5** (flagship proprietary model) and the open-source **Qwen2** family (ranging from 0.5B to 72B parameters), which are known for their strong multilingual performance and are available on Hugging Face.
+
+- **[GLM (智谱清言)](https://chatglm.cn/)** - Developed by **Zhipu AI**, spun out of Tsinghua University.
+    - **Model**: **GLM-4** is a bilingual (Chinese/English) model that excels at complex instruction following and long-form conversation. It is accessible via their ChatGLM platform.
+
+- **[Hunyuan (混元)](https://hunyuan.tencent.com/)** - Developed by **Tencent**, the Hunyuan AI model is integrated across Tencent's ecosystem (e.g., WeChat, Tencent Cloud).
+    - **Model**: A large-scale, multi-modal model capable of text generation, image creation, and understanding complex contexts.
+
+- **[Kimi (月之暗面)](https://kimi.ai/)** - Developed by **Moonshot AI**, Kimi is famous for its extremely large context window, capable of processing millions of tokens.
+    - **Feature**: Excels at summarizing and analyzing very long documents, books, and codebases in a single prompt.
+
+
+- **[DeepSeek](https://www.deepseek.com/)** – A leading AI lab known for its powerful open-source models, especially in the coding domain.
+
+  - **DeepSeek-V2 Family**: A series of powerful and efficient Mixture-of-Experts (MoE) models.
+  - **DeepSeek-Coder-V2**: A state-of-the-art programming model that consistently ranks at the top of coding benchmarks for its speed and accuracy.
+  - **DeepSeek-VL**: A highly capable vision-language model for tasks involving both image and text understanding and generation.
+  - **Open-Source & API**: Provides both strong open-weight models for local and research use, as well as a competitive, OpenAI-compatible API for commercial applications.
+
+
+
+---
+
+## 🎓 Free Stuff for Students & Educators
+
+> This section is dedicated to the amazing free resources, software, and cloud credits available to verified students and educators. These packs provide access to professional-grade tools that would otherwise be very expensive. Not affiliated or sponsored by any of them. some campaigns might have ended
+
+### GitHub Student Developer Pack
+The **[GitHub Student Developer Pack](https://education.github.com/pack)** is the most well-known and comprehensive bundle of free tools for student developers. Verification is done through your school email or other proof of enrollment.
+
+**Key AI & Data Science Offers:**
+- **[GitHub Copilot](https://github.com/features/copilot)**: **Free access** to the Pro tier of the industry-standard AI pair programmer while you are a student.
+- **[Microsoft Azure](https://azure.microsoft.com/en-us/free/students)**: **$100 in Azure credit** to use on AI/ML services, databases, and more, plus free access to dozens of services. No credit card required.
+- **[DigitalOcean](https://www.digitalocean.com/)**: **$200 in platform credit** for 1 year, perfect for hosting your AI projects or deploying models.
+- **[DataCamp](https://www.datacamp.com/)**: Free 3-month individual subscription to learn data science and AI skills.
+- **[Deepnote](https://deepnote.com/)**: A collaborative data science notebook with a free Student plan that includes more powerful hardware than the standard free tier.
+- **[MongoDB](https://www.mongodb.com/)**: $50 in Atlas Credits, plus a free "Never-ending" tier for database hosting.
+- *...and dozens of other offers for domains, design, and developer tools.*
+
+---
+
+### Google for Students AI Offer
+Google offers a special program giving college students free access to its premium AI suite, which is a massive boost for research, writing, and learning.
+
+- **[Google AI Pro for Students](https://grow.google/students/)**: Provides a **free 1-year subscription** to the Google AI Pro plan.
+    - **Advanced Gemini Access**: Get more access to Google's most powerful models for help with complex topics, coding, and writing.
+    - **NotebookLM**: Use Google's AI-powered research and writing tool with enhanced features.
+    - **2 TB of Cloud Storage**: Plenty of space across Google Drive, Photos, and Gmail.
+    - **Gemini in Google Apps**: Use AI assistance directly within Gmail, Docs, Sheets, and Slides.
+
+---
+
+### JetBrains Student Pack
+JetBrains makes the most popular IDEs for professional developers, and students get them all for free, including their powerful AI assistant.
+
+- **[JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/)**: Free access to all JetBrains professional desktop IDEs.
+    - **Professional IDEs**: Free licenses for **PyCharm** (for Python), **IntelliJ IDEA** (for Java/Kotlin), **WebStorm** (for JS), and more for the duration of your studies.
+    - **JetBrains AI Pro**: Includes a **free trial** of their AI Assistant, which provides context-aware code suggestions, documentation, and commit message generation directly in the IDE.
+
+---
+
+### Curated AI Student Bundles
+These are special collections of offers, trials, and credits specifically for students interested in AI.
+
+- **[AI Engineer Pack](https://www.aiengineerpack.com/)**: A curated bundle of offers from various AI companies, which has previously included extended free trials for services like ElevenLabs and Perplexity Pro.
+- **[AI Student Pack](https://aistudentpack.com/waitlist)**: A new upcoming pack focused on providing students with the essential AI tools for their education. Currently on a waitlist.
+
+---
+
+### Other Cloud Provider Credits
+
+Beyond the GitHub pack, major cloud providers have their own programs for students.
+
+- **[AWS Educate](https://aws.amazon.com/education/awseducate/)**: Amazon Web Services' program for students.
+    - **No Credit Card Required**: Access free hands-on labs in the AWS Cloud without needing a credit card.
+    - **Free Training**: Self-paced courses, tutorials, and content covering cloud fundamentals, AI/ML, and more.
+    - **Badges**: Earn digital badges to showcase your skills.
+
+    ____
 
 ## 🆕 New and Emerging AI Tools
 
 [🔝 Back to Top](#top)
 
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
+- **[Figure AI](https://www.figure.ai/)** - (USA) A robotics company building general-purpose humanoid robots. Backed by major tech players like OpenAI and Microsoft, they are at the forefront of AI embodiment.
+- **[Cognition Labs](https://www.cognition-labs.com/)** - (USA) Creators of **Devin**, the first AI software engineer agent, designed to autonomously handle complex coding tasks from start to finish.
+- **[Luma Labs](https://lumalabs.ai/dream-machine)** - (USA) Creator of **Dream Machine**, a publicly accessible and highly popular text-to-video model that generates high-quality, coherent video clips.
+- **[Pika](https://pika.art/)** - (USA) A creative AI video platform that allows users to generate and edit videos in various styles from text and images. A direct competitor to Runway and Luma Labs.
+- **[ElevenLabs](https://elevenlabs.io/)** - (UK/USA) The market leader in realistic AI voice generation, speech synthesis, and voice cloning. Their technology is known for its incredible quality and emotional range.
+- **[Leonardo Ai](https://leonardo.ai/)** - (UK) A full-stack platform for generating game assets, concept art, and other artistic visuals, offering fine-tuned models and a suite of creative tools.
+- **[Phind](https://www.phind.com/)** - (USA) An AI search engine specifically for developers that provides direct answers with code examples and context from across the web.
+- **[Ideogram](https://ideogram.ai/)** - (USA/Canada) A powerful AI image generator that excels at rendering coherent and creative text within the images it creates, often surpassing other models in typography.
+- **[AssemblyAI](https://www.assemblyai.com/)** - (USA) A leading API company for advanced Speech-to-Text, offering highly accurate transcription, summarization, and audio intelligence.
+- **[Ollama](https://ollama.com/)** - (USA) While an open-source project, it has become the standard for running and managing open-source LLMs like Llama 4 and Mistral locally on your own machine.
+- **[Haiper](https://haiper.ai/)** - (UK) An AI video generation tool focused on creating high-quality, engaging content with ease, quickly emerging as a strong competitor in the space.
+- **[Magic.dev](https://magic.dev/)** - (USA) A startup building an AI "coworker" for software engineers, designed to handle complex coding and engineering tasks.
+
 
 - **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
 - **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
@@ -174,6 +346,19 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - A popular web-based interface for running Stable Diffusion models, offering extensive features and customization options.
 - **[new.website](https://new.website)** - AI-powered website creation platform that builds beautiful websites in minutes with built-in forms, analytics, SEO optimization, and scalable hosting.
 - **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
+- **[Dream Machine](https://lumalabs.ai/dream-machine)** – Free and public **text-to-video model** from Luma AI. Create high-quality, coherent video clips from simple text or image prompts.
+
+---
+
+- **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
+
+---
+
+- **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
+
+  - Features include: real-time web access, custom threads, file + URL analysis, and pro-level citation support.
+  - **Pro plan** offers Claude 4, GPT-5, and other premium model access.
+
 
 - **[Runway ML](https://runwayml.com/)** - A creative suite for generating, editing, and manipulating media using AI, popular for video and content creation.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** - An online tool for creating surreal images using deep neural networks, allowing for unique and artistic effects.
@@ -207,76 +392,12 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Serplux](https://serplux.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
 - 
 
-________________________________________________________________
 
-## OpenAI
+---
+
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="OpenAI Icon" width="70"/>
-</p>
-
-[🔝 Back to Top](#top)
-
-OpenAI provides industry-leading AI tools through ChatGPT, now powered by GPT-4o. Here’s the latest overview of available models, capabilities, and pricing:
-
----
-
-### 💬 [ChatGPT](https://chat.openai.com/)
-
-ChatGPT is the core platform, offering:
-
-- **GPT-4o (Free & Paid)** – Text, image, and audio input/output
-- **SearchGPT** – Web-enhanced answers
-- **Advanced Voice Mode** – Real-time voice interaction (Plus & Pro)
-- **Image generation** – Native, photorealistic output
-- **Image understanding** – OCR, document analysis, screenshots
-- **Sora integration** (Plus & Pro) – Text-to-video generation
-
----
-
-### 🧠 GPT-4o (Omni)
-
-Multimodal model capable of:
-
-- **Text generation**
-- **Image understanding & generation**
-- **Audio input/output**
-- Faster and cheaper than GPT-4 Turbo
-- Handles complex reasoning and real-world perception tasks
-
----
-
-### 🎥 Sora (Text-to-Video)
-
-Generates short videos from text prompts.
-
-- **Plus**: 50 monthly priority videos (720p, ~5s)
-- **Pro**: Unlimited relaxed videos (1080p, ~20s)
-
----
-
-### 🔬 o1 Model
-
-Purpose-built for:
-
-- Mathematics, formal logic, competitive programming
-- Complex reasoning and scientific queries
-- **o1 Pro** access via Pro tier
-
----
-
-### 💼 Plans & Pricing
-
-| Plan             | Price        | Includes                                                                 |
-|------------------|--------------|--------------------------------------------------------------------------|
-| **Free**         | $0           | GPT-4o access with usage limits, no image generation, basic tools only   |
-| **ChatGPT Plus** | $20/month    | GPT-4o, Sora (limited), Advanced Voice, priority access, image tools     |
-| **ChatGPT Pro**  | $200/month   | GPT-4o, o1 Pro, unlimited Sora, full image/audio tools, highest limits   |
-
----
-
-<p align="center">
- <img src="https://oss-global-cdn.unitree.com/static/afcdc93aa69f4fa499c76725a18df2a6_780x614.gif" alt="Unitree Go1 Robot" width="300">
+ <img src="https://images.unsplash.com/photo-1555255707-c07966088b7b?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Robot" width="300">
 </p>
 
 ## 🤖 AI Driven Robots and Robotic Dogs
@@ -324,15 +445,14 @@ ________________________________________________________________
 [🔝 Back to Top](#top)
 
 - [BING browser](https://www.bing.com/) - Uses GPT-4 and DALLE for free image generation (built in into the browser)
-- [Google BARD/ Gemini](https://bard.google.com/) - Google AI assistant (BARD/GEMINI).
-- [OpenAI Research & Applications](https://openai.com/) - Cutting-Edge AI Research and Innovative Applications CHATGPT 3.5, 4, DALL-E 3.
+- [Google Gemini](https://gemini.google.com/) - Google AI assistant (BARD/GEMINI).
+- [OpenAI ](https://openai.com/) - Cutting-Edge AI Research and Innovative Applications CHATGPT 5, 4o, DALL-E ,sora, codex and more.
 - [Jasper AI](https://www.jasper.ai/) - Multi-purpose AI tool for various applications.
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [MindPal](https://mindpal.ai) – A platform to build AI Agents and Multi-agent workflows.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [TensorFlow](https://www.tensorflow.org/) - Open-source machine learning framework by Google.
-- [GPT-4o by OpenAI](https://chat.openai.com/) - Advanced natural language processing AI model.
 - [IBM Watson](https://www.ibm.com/watson) - Suite of enterprise-ready AI services, applications, and tooling.
 - [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/) - Microsoft's comprehensive suite of AI tools and frameworks.
 - [DeepMind](https://deepmind.com/) - Pioneering AI research lab, known for advancements in deep learning and AI for games.
@@ -340,7 +460,7 @@ ________________________________________________________________
 - [Hugging Face](https://huggingface.co/) - The AI community building the future with open-source AI technologies.
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again, focused on making deep learning more accessible.
 - [Neuralink](https://neuralink.com/) - Developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
-- [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 2 / Image generation with Aurora and FLUX.1 model
+- [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 4 / Image generation with Aurora and FLUX.1 model
 
 ________________________________________________________________
 
