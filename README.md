@@ -3,6 +3,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
 ![GitHub Contributors](https://img.shields.io/github/contributors/eudk/awesome-ai-tools)
 ![Last Commit](https://img.shields.io/github/last-commit/eudk/awesome-ai-tools)
+![GitHub License](https://img.shields.io/github/license/eudk/awesome-ai-tools)
 
 # Comprehensive List of AI Tools
 
@@ -775,7 +776,7 @@ ______________________________________________________________________________
 [🔝 Back to Top](#top)
 
 <p align="center">
-  <img src="https://imageio.forbes.com/specials-images/imageserve/64521a0c6292968af6b510dc/A-wet-puppy-sheltering-from-a-storm-in-Midjourney/960x0.png?format=png&width=960" alt="AI Image" width="200"/>
+  <img src="https://images.unsplash.com/photo-1527430253228-e93688616381?q=80&w=1334&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&width=960" alt="AI Image" width="200"/>
 </p>
 
 This list highlights a selection of image generation tools, featuring advanced AI technologies such as Stable Diffusion, MidJourney, and DALL-E 3, among others. These tools offer a range of functionalities, from creating artistic visuals to generating realistic images.
