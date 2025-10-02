@@ -132,6 +132,7 @@ A leader in AI research and deployment, OpenAI is the creator of the GPT series,
     - **o1 (Omni-1)**: A family of models focused on superior reasoning and logical deduction, available to Pro subscribers.
     - **DALL-E 3**: The image generation model known for its exceptional prompt adherence and integration within ChatGPT.
     - **Sora**: A revolutionary text-to-video model capable of generating high-fidelity, cinematic scenes.
+    - **Sora 2**: The next-generation upgrade, offering longer video durations, improved realism, and advanced scene control.
 - **Pricing Tiers**:
     - **Free**: Generous access to GPT-4o.
     - **Plus/Pro**: Higher usage limits, priority access, and access to GPT-5 and advanced data analysis features.
