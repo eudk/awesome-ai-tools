@@ -332,7 +332,6 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Haiper](https://haiper.ai/)** - (UK) An AI video generation tool focused on creating high-quality, engaging content with ease, quickly emerging as a strong competitor in the space.
 - **[Magic.dev](https://magic.dev/)** - (USA) A startup building an AI "coworker" for software engineers, designed to handle complex coding and engineering tasks.
 
-
 - **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
 - **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
 - **[Qwen](https://chat.qwenlm.ai/)** - Alibaba’s **LLM series**, featuring **Qwen-72B**, **Qwen-14B**, and smaller variants optimized for **local inference**. Supports **multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.
@@ -349,6 +348,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[new.website](https://new.website)** - AI-powered website creation platform that builds beautiful websites in minutes with built-in forms, analytics, SEO optimization, and scalable hosting.
 - **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
 - **[Dream Machine](https://lumalabs.ai/dream-machine)** – Free and public **text-to-video model** from Luma AI. Create high-quality, coherent video clips from simple text or image prompts.
+- **[Metorial](https://metorial.com)** - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
 
 ---
 
