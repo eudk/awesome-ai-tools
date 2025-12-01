@@ -816,6 +816,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [GANSpace](https://github.com/harskish/ganspace) - Discovering interpretable GAN controls.
 - [AI Logo Generator](https://www.ailogogenerator.org) - Free online AI logo creator that generates professional company, business, and brand logos.
 - [Caricature Maker](https://caricaturemaker.net/) - photo to caricature using AI.
+- [how pretty am I(https://howattractiveami.app/) - How Attractive am I - AI Beauty Score Test
 
 ______________________________________________________________________________
 
