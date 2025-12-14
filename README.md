@@ -875,6 +875,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Videobolt](https://www.videobolt.net) - AI-assisted video maker.
 - [Promo.com](https://promo.com) - AI-driven video creation tool.
 - [ShortsKit.ai](https://shortskit.ai) - AI-powered platform for creating short-form videos
+- [OpenCreator](https://opencreator.ai) - All-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
 
 ______________________________________________________________________________
 
