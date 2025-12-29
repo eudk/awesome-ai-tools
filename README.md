@@ -1131,6 +1131,7 @@ ______________________________________________________________________________
 - [Codex by OpenAI](https://openai.com/blog/openai-codex/) - AI system that translates natural language to code, powered by GPT-3.
 - [Deep TabNine Local](https://www.tabnine.com/local) - Deep learning model running locally for code completion.
 - [Berrry](https://berrry.app) - AI-powered platform that transforms Twitter posts and Reddit content into functional web applications using code generation.
+- [Havoptic](https://havoptic.com/) - Free, open-source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Gemini CLI, and more.
 
 ______________________________________________________________________________
 
