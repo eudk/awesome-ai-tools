@@ -1145,6 +1145,7 @@ ______________________________________________________________________________
 - [Mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [Inferable](https://github.com/inferablehq/inferable) - Open-source managed agent runtime for distributed AI agents
 - [Gestell](https://gestell.ai) - Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.
+- [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from all major providers with token counters, cost calculators, and benchmark data.
 
 ______________________________________________________________________________
 
