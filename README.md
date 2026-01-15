@@ -876,6 +876,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Videobolt](https://www.videobolt.net) - AI-assisted video maker.
 - [Promo.com](https://promo.com) - AI-driven video creation tool.
 - [ShortsKit.ai](https://shortskit.ai) - AI-powered platform for creating short-form videos
+- [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
 
 ______________________________________________________________________________
 
