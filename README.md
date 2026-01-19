@@ -818,6 +818,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Caricature Maker](https://caricaturemaker.net/) - photo to caricature using AI.
 - [how pretty am I(https://howattractiveami.app/) - How Attractive am I - AI Beauty Score Test
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered virtual staging for real estate listings
+- [MyPicNow](https://www.mypicnow.com) - Generate studio-quality AI headshots of yourself. Perfect for LinkedIn, dating apps, and professional use.
 
 ______________________________________________________________________________
 
