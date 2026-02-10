@@ -882,6 +882,8 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [ShortsKit.ai](https://shortskit.ai) - AI-powered platform for creating short-form videos
 - [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
 
+
+- [HeyVid](https://heyvid.ai) - Free AI video & image generator with text-to-video, image-to-video, and AI art capabilities.
 ______________________________________________________________________________
 
 # Sound Generation Tools
