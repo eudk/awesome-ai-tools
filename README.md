@@ -885,6 +885,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Promo.com](https://promo.com) - AI-driven video creation tool.
 - [ShortsKit.ai](https://shortskit.ai) - AI-powered platform for creating short-form videos
 - [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
+- [TubePrompter](https://tubeprompter.com) - Free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Veo, Midjourney, Runway Gen-3, Stable Diffusion, and other AI generators.
 
 ---
 
@@ -1087,6 +1088,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 24. [Generrated](https://generrated.com/) - A platform for exploring and creating AI-generated art.
 25. [Artist refference Spreadsheet](https://docs.google.com/spreadsheets/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/edit#gid=0) - A comprehensive Google Spreadsheet with refferences of artist styles
 26. [Midjourney Sref](https://sref-midjourney.com/) - A huge collection of 4700+ sref codes for Midjourney.
+27. [TubePrompter](https://tubeprompter.com) - Converts video content into optimized AI prompts by analyzing visual elements, composition, lighting, and artistic style. Supports Midjourney, Stable Diffusion, DALL-E, and more.
 
 ---
 
