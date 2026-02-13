@@ -1159,6 +1159,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Inferable](https://github.com/inferablehq/inferable) - Open-source managed agent runtime for distributed AI agents
 - [Gestell](https://gestell.ai) - Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from all major providers with token counters, cost calculators, and benchmark data.
+- [BlackVault](https://github.com/venkat22022202/black-vault) - Open-source proxy gateway for AI API keys. Generate proxy tokens for agents — BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.
 
 ---
 
