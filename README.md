@@ -482,6 +482,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Claude AI Chatbot Platform](https://claude.ai) - Provides advanced online chatbot solutions with AI-driven interactivity.
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
 - [Perplexity AI Query Assistant](https://www.perplexity.ai/) - Interactive tool for AI-driven question answering and information retrieval.
+- [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
