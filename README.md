@@ -828,6 +828,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [how pretty am I(https://howattractiveami.app/) - How Attractive am I - AI Beauty Score Test
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered virtual staging for real estate listings
 - [MyPicNow](https://www.mypicnow.com) - Generate studio-quality AI headshots of yourself. Perfect for LinkedIn, dating apps, and professional use.
+- [Nsketch AI](https://nsketch.ai) - AI image and video generation platform with 20+ models and ready-made templates for creators.
 
 ---
 
@@ -881,6 +882,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [RendrFX](https://www.rendrfx.com) - AI-based online video maker.
 - [D-ID](https://www.d-id.com) - AI-driven video face animation.
 - [Wave.video](https://wave.video) - Video marketing platform.
+- [Nsketch AI](https://nsketch.ai) - AI video and image generation platform with 20+ models and ready-made templates for creators.
 - [AI Video Creator](https://www.aivideocreator.com) - Create videos with AI.
 - [Firework](https://firework.com) - Short video platform with AI.
 - [Videobolt](https://www.videobolt.net) - AI-assisted video maker.
