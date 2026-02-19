@@ -398,7 +398,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AI or Not](https://www.aiornot.com/)** - An AI-driven tool that helps users determine whether a given piece of content was created by a human or an AI, enhancing transparency in content creation.
 - - **[Onranko](https://www.onranko.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
 - **[Udio](https://www.udio.com/)** - An AI-powered platform designed to simplify and innovate audio editing and production, making high-quality audio accessible to everyone.
-- **[Taskade](https://www.taskade.com/)** - Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation within a unified workspace, enhancing team productivity with structured lists, notes, and mind maps.
+- **[Taskade](https://github.com/taskade/taskade)** - Open-source AI-native workspace to build apps, deploy AI agents, and automate workflows.
 - **[AI Boost](https://boost.pictures/)** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - **[Serplux](https://serplux.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
 - **[Waldium](https://waldium.com)** - AI-powered blogs to help ChatGPT/Claude/Perplexity cite your product.
