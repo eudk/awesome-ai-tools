@@ -483,6 +483,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
 - [Perplexity AI Query Assistant](https://www.perplexity.ai/) - Interactive tool for AI-driven question answering and information retrieval.
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers.
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
@@ -1166,6 +1167,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Inferable](https://github.com/inferablehq/inferable) - Open-source managed agent runtime for distributed AI agents
 - [Gestell](https://gestell.ai) - Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from all major providers with token counters, cost calculators, and benchmark data.
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [BlackVault](https://github.com/venkat22022202/black-vault) - Open-source proxy gateway for AI API keys. Generate proxy tokens for agents — BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.
 
 ---
