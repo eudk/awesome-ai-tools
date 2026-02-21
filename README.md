@@ -62,6 +62,7 @@ Found a broken link or an amazing new tool we missed? We'd love your help! Pleas
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [👑 The Big Players: Foundational Models](#-the-big-players-foundational-models)  | In-depth look at the titans of AI: OpenAI, Google, Anthropic, Meta & Mistral. |
 | [🇨🇳 Leading Chinese AI Models](#-leading-chinese-ai-models)                       | Powerful and popular large language models from China.                        |
+| [🦞 OpenClaw Ecosystem](#-openclaw-ecosystem) | OpenClaw, ZeroClaw and related autonomous AI agent frameworks. |
 | [🎓 Free Stuff for Students & Educators](#-free-stuff-for-students--educators)    | Free access to professional-grade tools, software, and cloud credits.         |
 | [🚀 New and Emerging AI Tools](#-new-and-emerging-ai-tools)                       | The latest AI tools gaining popularity and traction in the industry.          |
 | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)       | Cutting-edge robotics powered by AI.                                          |
@@ -534,7 +535,33 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic assistant for students with note-taking, essay writing, and presentation generation.
 
 ---
+## 🦞 OpenClaw Ecosystem
+[🔝 Back to Top](#top)
 
+OpenClaw is an open-source personal AI assistant/agent that can run locally and connect to chat platforms + tools to actually execute tasks (web, shell, workflows, etc.).
+
+- **[OpenClaw](https://openclaw.ai/)** — Open-source personal AI assistant / agent framework.
+  - **Old names**: **Clawdbot** → **Moltbot** → **OpenClaw**
+  - **Core repo**: **[openclaw/openclaw](https://github.com/openclaw/openclaw)**
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1707995548052-cfca47bfb6db?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="420"/>
+</p>
+
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Main project repo
+- **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** – Lightweight autonomous agent framework focused on fast local execution and minimal overhead.
+- **[Docs](https://docs.openclaw.ai/)** — Official documentation
+- **[ClawHub](https://github.com/openclaw/clawhub)** — Skill directory for OpenClaw
+- **[openclaw/skills](https://github.com/openclaw/skills)** — Archived versions of skills from clawhub
+- **[openclaw/lobster](https://github.com/openclaw/lobster)** — OpenClaw-native workflow shell / macro engine
+- **[openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw)** — Nix packaging for OpenClaw
+- **[openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible)** — Automated + hardened installation playbooks
+- **[openclaw/openclaw.ai](https://github.com/openclaw/openclaw.ai)** — Website source
+- **[Security best practices](https://docs.openclaw.ai/security)** — Hardening guidance (prompt injection, permissions, isolation)
+- **[clawdbot-formal-models](https://github.com/vignesh07/clawdbot-formal-models)** — Machine-checkable security models (TLA+) originally made for Clawdbot
+- **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)** — Run OpenClaw (formerly Moltbot/Clawdbot) in a Cloudflare sandbox
+
+---
 ## 🆕 Additional AI and Productivity Tools
 
 [🔝 Back to Top](#top)
