@@ -480,6 +480,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 [🔝 Back to Top](#top)
 
 - **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
+- **[AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/)**: Managed AI assistant service for small businesses that executes work autonomously - handles calls, emails, reports, bookings. Integrates with business tools, learns workflows, runs 24/7.
 - [Claude AI Chatbot Platform](https://claude.ai) - Provides advanced online chatbot solutions with AI-driven interactivity.
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
 - [Perplexity AI Query Assistant](https://www.perplexity.ai/) - Interactive tool for AI-driven question answering and information retrieval.
