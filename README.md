@@ -1091,6 +1091,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 18. [AirBrush](https://appairbrush.com) - Easy photo editor.
 19. [PhotoDirector](https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html) - Creative editing with AI style effects.
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
+21. [Outfit Swap Studio](https://outfitswapstudio.com) - AI virtual try-on and outfit swap for your photos; preserves face, pose, and background.
 
 ---
 
