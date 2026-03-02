@@ -860,6 +860,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [MyPicNow](https://www.mypicnow.com) - Generate studio-quality AI headshots of yourself. Perfect for LinkedIn, dating apps, and professional use.
 - [Nsketch AI](https://nsketch.ai) - AI image and video generation platform with 20+ models and ready-made templates for creators.
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
+- [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 
 
 ---
@@ -922,6 +923,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [ShortsKit.ai](https://shortskit.ai) - AI-powered platform for creating short-form videos
 - [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
 - [TubePrompter](https://tubeprompter.com) - Free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Veo, Midjourney, Runway Gen-3, Stable Diffusion, and other AI generators.
+- [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 
 ---
 
