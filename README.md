@@ -490,6 +490,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
+- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
 - [Hugging Face NLP & Model Hub](https://huggingface.co/) - Extensive repository of NLP models and datasets.
 - [Algorithmia AI Model Deployment](https://algorithmia.com/) - Platform for scalable AI and machine learning model deployment.
