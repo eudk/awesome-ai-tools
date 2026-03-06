@@ -404,6 +404,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Serplux](https://serplux.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
 - **[Waldium](https://waldium.com)** - AI-powered blogs to help ChatGPT/Claude/Perplexity cite your product.
 - **[RankingRider](https://www.rankingrider.com)** - AI-powered bulk SEO optimization for Shopify products via CSV.
+- **[DoaCam](https://doacam.com)** - AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers every conversation. Runs in browser.
 
 ---
 
