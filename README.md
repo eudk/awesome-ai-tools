@@ -1193,6 +1193,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Deep TabNine Local](https://www.tabnine.com/local) - Deep learning model running locally for code completion.
 - [Berrry](https://berrry.app) - AI-powered platform that transforms Twitter posts and Reddit content into functional web applications using code generation.
 - [Havoptic](https://havoptic.com/) - Free, open-source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Gemini CLI, and more.
+- [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 
 ---
 
