@@ -839,6 +839,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [VQGAN+CLIP](https://vqgan-clip.com) - Text-to-image synthesis with AI.
 - [NightCafe Studio](https://nightcafe.studio) - AI Art Generator using multiple techniques.
 - [DeepAI](https://deepai.org) - AI-driven image synthesis and editing.
+- [Woopicx](https://woopicx.com) - AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets across 80+ categories.
 - [This Person Does Not Exist](https://thispersondoesnotexist.com) - Generates realistic human faces using AI.
 - [Big Sleep](https://github.com/lucidrains/big-sleep) - AI model for generating images from text descriptions.
 - [GANPaint Studio](https://ganpaint.io) - Interactive tool for semantic photo manipulation.
