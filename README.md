@@ -1184,6 +1184,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Codota](https://www.codota.com/) - AI tool for developers that predicts your next code segment.
 - [Intellicode](https://visualstudio.microsoft.com/services/intellicode/) - AI-assisted coding from Microsoft, available in Visual Studio.
 - [SourceAI](https://sourceai.dev/) - An AI-powered code generator that helps you write code faster.
+- [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling.
 - [unpkg.ai](https://unpkg.ai/) - AI-powered service that generates JavaScript modules with TypeScript signatures via URL for rapid prototyping.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.
