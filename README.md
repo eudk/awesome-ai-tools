@@ -492,6 +492,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
