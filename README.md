@@ -1199,6 +1199,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Havoptic](https://havoptic.com/) - Free, open-source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Gemini CLI, and more.
 - [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
+- [gui.new](https://gui.new) - POST HTML, get a shareable URL. Real-time input sync, state persistence, and component library built in. SDKs for [npm](https://npmjs.com/package/gui-new) and [pip](https://pypi.org/project/gui-new/). Free, no signup.
 
 ---
 
