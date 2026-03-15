@@ -407,6 +407,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[LLM Optimizer](https://llmopt.metavert.io)** - AI brand visibility tool (like SEO for LLMs, or GEO). Measures how ChatGPT, Claude, Gemini, and Perplexity cite and recommend your brand with composite AI Visibility Scores, per-dimension analysis, and prioritized optimization recommendations.
 - **[GEOScore](https://geoscoreai.com)** - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks for generative engine optimization (GEO).
 - **[DoaCam](https://doacam.com)** - AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers every conversation. Runs in browser.
+- **[AgentReady](https://agentready.site)** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable recommendations, industry benchmarks, and a free public API for AI agent compatibility scoring.
 
 ---
 
