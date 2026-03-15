@@ -593,6 +593,7 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 - [Monday.com](https://monday.com/) - Work Operating System
 - [RescueTime](https://www.rescuetime.com/) - Time Management
 - [Todoist](https://todoist.com/) - Task Management
+- [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
 - [Canva](https://www.canva.com/) - Easy Graphic Design
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
