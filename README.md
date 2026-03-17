@@ -405,6 +405,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Waldium](https://waldium.com)** - AI-powered blogs to help ChatGPT/Claude/Perplexity cite your product.
 - **[RankingRider](https://www.rankingrider.com)** - AI-powered bulk SEO optimization for Shopify products via CSV.
 - **[LLM Optimizer](https://llmopt.metavert.io)** - AI brand visibility tool (like SEO for LLMs, or GEO). Measures how ChatGPT, Claude, Gemini, and Perplexity cite and recommend your brand with composite AI Visibility Scores, per-dimension analysis, and prioritized optimization recommendations.
+- **[GEOScore AI](https://geoscoreai.com)** - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Google AI Overviews, Gemini). Runs 11 technical checks and provides actionable optimization recommendations.
 - **[DoaCam](https://doacam.com)** - AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers every conversation. Runs in browser.
 
 ---
