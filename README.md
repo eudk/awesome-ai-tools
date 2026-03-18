@@ -607,6 +607,7 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
 - [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) – AI-powered generator for Claude agent system prompts using a 3-step OpenRouter pipeline
+- [SocialBu](https://socialbu.com/) – AI-powered social media management platform for scheduling, publishing, monitoring, and automating across X, Instagram, LinkedIn, Facebook, TikTok, and more
 
 ---
 
