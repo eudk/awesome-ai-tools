@@ -836,6 +836,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 
 This list highlights a selection of image generation tools, featuring advanced AI technologies such as Stable Diffusion, MidJourney, and DALL-E 3, among others. These tools offer a range of functionalities, from creating artistic visuals to generating realistic images.
 
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates and multiple AI models.
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
