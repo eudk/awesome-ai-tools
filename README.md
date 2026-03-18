@@ -343,6 +343,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Haiper](https://haiper.ai/)** - (UK) An AI video generation tool focused on creating high-quality, engaging content with ease, quickly emerging as a strong competitor in the space.
 - **[Magic.dev](https://magic.dev/)** - (USA) A startup building an AI "coworker" for software engineers, designed to handle complex coding and engineering tasks.
 - **[Adapt or Die](https://adaptordie.io)** - (UK) Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop.
+- **[AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs)** - 196 production-ready frameworks for AI engineering: multi-agent orchestration, MCP server configs, vibe coding workflows, RAG pipelines, and agentic deployment guides. 97 free samples available.
 
 - **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
 - **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
