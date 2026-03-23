@@ -1166,6 +1166,8 @@ A selection of platforms offering API integration for various AI applications an
 8. [Wit.ai](https://wit.ai) - Natural language processing API.
 9. [Clarifai](https://www.clarifai.com) - AI platform for computer vision and NLP.
 10. [TextRazor](https://www.textrazor.com) - Text analysis API using AI.
+
+- [Misread](https://misread.io) - AI communication scanner that detects gaslighting, manipulation, and 40+ toxic patterns in text messages and emails.
 11. [Aito.ai](https://aito.ai) - AI database and predictive APIs.
 12. [MonkeyLearn](https://monkeylearn.com) - Text analysis with AI API.
 13. [Rev.ai](https://www.rev.ai) - Speech recognition and transcription API.
