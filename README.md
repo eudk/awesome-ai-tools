@@ -941,6 +941,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Promo.com](https://promo.com) - AI-driven video creation tool.
 - [ShortsKit.ai](https://shortskit.ai) - AI-powered platform for creating short-form videos
 - [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
+- [PVID](http://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video, video-to-video. 100 free credits.
 - [TubePrompter](https://tubeprompter.com) - Free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Veo, Midjourney, Runway Gen-3, Stable Diffusion, and other AI generators.
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 
