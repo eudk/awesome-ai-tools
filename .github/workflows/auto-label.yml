@@ -1,0 +1,14 @@
+name: Auto label new PRs
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add needs-review label
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: needs-review
