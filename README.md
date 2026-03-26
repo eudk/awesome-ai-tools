@@ -532,6 +532,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
 - [Wave.video](https://wave.video/) - AI for video marketing.
 - [RoamAround.io](https://www.roamaround.io/) - AI for travel planning.
+- [VOLO](https://www.flyvolo.ai/) - AI-powered private aviation platform — the world's first Agent-Native charter service with REST API, MCP server, CLI (`volo-cli`), AI concierge (14 tools), 200+ aircraft, and natural language flight parsing.
 - [Codeium](https://codeium.com/) - AI for coding assistance.
 - [Jenni.ai](https://jenni.ai) - AI writing tool designed primarily for students, facilitating swift and efficient content creation.
 - [HeyGen.com](https://heygen.com) - Effortlessly produce studio-quality videos with AI-generated avatars and voices.
