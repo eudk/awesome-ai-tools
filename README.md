@@ -1060,6 +1060,7 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 23. [CustomPod](https://custompod.io/) - Improve productivity by getting a personalized daily audio briefing on updates from your favorite sites/apps.
 24. [EKHOS AI](https://ekhos.ai/) - A powerful speech-to-text software that transcribes audio and video files, supports real-time recording and transcription, and includes a built-in proofreading editor.
 25. [Vocova](https://vocova.app) - AI-powered transcription supporting 100+ languages with speaker diarization and bilingual export.
+26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
 
 ---
 
