@@ -609,6 +609,7 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 - [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) – AI-powered generator for Claude agent system prompts using a 3-step OpenRouter pipeline
 - [SocialBu](https://socialbu.com/) – AI-powered social media management platform for scheduling, publishing, monitoring, and automating across X, Instagram, LinkedIn, Facebook, TikTok, and more
 - [AI for Database](https://aifordatabase.com) – Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
+- [AgentDesk](https://agentdesk-inky.vercel.app) - Pre-built AI agents for professional services firms. Automates client intake, proposal generation, and executive reports using Claude.
 
 ---
 
