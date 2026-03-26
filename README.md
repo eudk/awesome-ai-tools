@@ -39,11 +39,15 @@ This list is a dynamic resource, constantly updated to capture the latest in the
 - **Independence:** This is an independent, community project. We are not affiliated with, sponsored by, or endorsing any of the tools listed.
 - **Accuracy:** The AI world moves incredibly fast! While we strive for accuracy, links can break and information (like free student campaigns) can become outdated. Please verify details on the official sites.
 - **Due Diligence:** This list contains a mix of consumer and enterprise tools. We have not tested every tool. You are advised to conduct your own research and use these tools at your own discretion.
-  > **Ready to contribute?**
+> **Ready to contribute?**
 
-> Before you do, **please take a moment to read our [Contribution Guidelines](./CONTRIBUTING.md).** This helps us keep the list consistent and saves everyone time.
+> Before you do, please take a moment to read our [Contribution Guidelines](./CONTRIBUTING.md).  
+> This helps keep the list consistent and saves everyone time.
 
-Found a broken link or an amazing new tool we missed? We'd love your help! Please feel free to [open an issue](https://github.com/eudk/awesome-ai-tools/issues) or [submit a pull request](https://github.com/eudk/awesome-ai-tools/pulls).
+> **Note:** The repository is currently undergoing a quality review and cleanup phase.  
+> Submissions are still welcome, but may be reviewed more selectively, and low-effort or duplicate pull requests may be closed.
+
+Found a broken link or an amazing new tool we missed? Feel free to [open an issue](https://github.com/eudk/awesome-ai-tools/issues) or [submit a pull request](https://github.com/eudk/awesome-ai-tools/pulls).
 
 <a name="top"></a>
 
