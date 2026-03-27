@@ -66,6 +66,7 @@ Found a broken link or an amazing new tool we missed? Feel free to [open an issu
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [👑 The Big Players: Foundational Models](#-the-big-players-foundational-models)  | In-depth look at the titans of AI: OpenAI, Google, Anthropic, Meta & Mistral. |
 | [🇨🇳 Leading Chinese AI Models](#-leading-chinese-ai-models)                       | Powerful and popular large language models from China.                        |
+| [🪦 AI Graveyard](./AI_GRAVEYARD.md) | Discontinued, retired, or replaced AI tools and models |
 | [🦞 OpenClaw Ecosystem](#-openclaw-ecosystem) | OpenClaw, ZeroClaw and related autonomous AI agent frameworks. |
 | [🎓 Free Stuff for Students & Educators](#-free-stuff-for-students--educators)    | Free access to professional-grade tools, software, and cloud credits.         |
 | [🚀 New and Emerging AI Tools](#-new-and-emerging-ai-tools)                       | The latest AI tools gaining popularity and traction in the industry.          |
@@ -265,6 +266,18 @@ This section showcases the most prominent and powerful large language models dev
 
 ---
 
+
+## 🪦 AI Graveyard
+
+Not every AI product survives.
+
+The ecosystem evolves quickly, and many tools, models, and experiments are discontinued, rebranded, or replaced within a short time.
+
+A curated list of discontinued AI products and features is available here:
+
+👉 [View the AI Graveyard](./AI_GRAVEYARD.md)
+
+---
 ## 🎓 Free Stuff for Students & Educators
 
 > This section is dedicated to the amazing free resources, software, and cloud credits available to verified students and educators. These packs provide access to professional-grade tools that would otherwise be very expensive. Not affiliated or sponsored by any of them. some campaigns might have ended
