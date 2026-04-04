@@ -1346,6 +1346,8 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[Cerebras-GPT](https://www.cerebras.net/)** - Cerebras Systems provides open-source GPT models optimized for their AI-specific hardware. While designed for large-scale deployment, Cerebras-GPT models can also be run on specific compatible local setups, making it suitable for research or enterprise applications.
 
+- **[Typer](https://typer.space)** - Free local AI chat app for macOS (Apple Silicon). Runs entirely on-device with no account, no cloud, and no ads. Works fully offline with on-device web search. Available on the Mac App Store.
+
 
 ## AI Tool Resources & Directories
 
