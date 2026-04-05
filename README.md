@@ -688,6 +688,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **ChatGPT for Google** - Integrate ChatGPT in Google searches.
 19. **Almighty** - AI-driven productivity booster.
 20. **SentiSum Insights** - AI sentiment analysis for customer feedback.
+21. **[gTabs - AI Tab Organizer](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)** - Organize Chrome tabs with AI — supports 8 LLM providers, smart groups that learn your habits, one-click undo, scheduled re-org, pinned groups, and duplicate finder. [Open Source](https://github.com/vaddisrinivas/gtabs).
 
 ---
 
