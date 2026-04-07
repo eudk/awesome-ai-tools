@@ -563,6 +563,8 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [manifest.build](https://manifest.build/) - The backend AI can generate, developers can trust!
 - [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic assistant for students with note-taking, essay writing, and presentation generation.
 - [Domain Generator](https://freedomaingenerator.com/) - Free AI domain generator with availability check and price comparison
+- [HeyTensor](https://heytensor.com/) - Browser-based PyTorch tensor shape calculator supporting 14 layer types with chain mode, error parsing, and preset architectures. Free, no signup required.
+- [LochBot](https://lochbot.com/) - Prompt injection vulnerability scanner that tests chatbot system prompts against 31 attack patterns across 7 categories. 100% client-side, no data sent to servers.
 
 ---
 ## 🦞 OpenClaw Ecosystem
