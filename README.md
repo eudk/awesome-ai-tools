@@ -826,7 +826,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
 - **[Dream Machine](https://lumalabs.ai/dream-machine)** – Free and public **text-to-video model** from Luma AI. Create high-quality, coherent video clips from simple text or image prompts.
 - **[Metorial](https://metorial.com)** - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
-
+- **[ReadMeAI](https://readmeai-six.vercel.app/)** - An AI-powered README generator that creates professional GitHub README files from project descriptions in seconds.
 ---
 
 - **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
