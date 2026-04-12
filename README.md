@@ -1139,6 +1139,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 18. [AirBrush](https://appairbrush.com) - Easy photo editor.
 19. [PhotoDirector](https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html) - Creative editing with AI style effects.
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
+21. [igly.ai](https://www.igly.ai/) - Free all-in-one AI image editor with 12+ tools for background removal, object inpainting, restoring, upscaling, image generation, and canvas-based editing workflows.
 
 ---
 
