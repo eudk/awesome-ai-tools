@@ -540,6 +540,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [bugfree.ai](https://bugfree.ai/) - bugfree.ai is an advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews.
 - [manifest.build](https://manifest.build/) - The backend AI can generate, developers can trust!
 - [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic assistant for students with note-taking, essay writing, and presentation generation.
+- [Helium](https://heliumtrades.com) - AI-powered news intelligence with bias scoring across 5,000+ sources, balanced news synthesis, live market data with AI analysis, ML options pricing, and meme search. Available as [MCP server](https://github.com/connerlambden/helium-mcp). 50 free queries, no signup.
 
 ---
 ## 🦞 OpenClaw Ecosystem
