@@ -454,6 +454,9 @@ Claude Code is Anthropic’s agentic coding system designed to handle full softw
     - Cursor (agent mode)  
     - GitHub Copilot Agents  
   - Particularly strong in **long-context coding and large codebase understanding**
+
+- **Companion \& Monitoring Tools**:
+  - **[WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens)** – Windows system tray app for real-time Claude Code token usage, costs, rate limits, and session activity. Reads local JSONL files and integrates via the `statusLine` plugin.
 ---
 
 ### Meta AI
