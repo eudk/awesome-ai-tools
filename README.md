@@ -1690,8 +1690,9 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 17. [YouCam Makeup](https://www.perfectcorp.com/consumer/apps/ymk) - Makeup and beauty editor.
 18. [AirBrush](https://appairbrush.com) - Easy photo editor.
 19. [PhotoDirector](https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html) - Creative editing with AI style effects.
-20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
-21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
+20. [ArtImageHub](https://artimagehub.com/old-photo-restoration) - AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage. Free preview, $4.99 one-time to download HD result.
+21. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
+22. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
 
 ---
 
