@@ -67,6 +67,7 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 <br><br>
 
 ## 🔗 Navigation Table
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 | Category                                                                          | Description                                                                   |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
