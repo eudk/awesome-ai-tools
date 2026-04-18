@@ -860,6 +860,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Typeface](https://typeface.ai/)** - An AI-driven branding and design tool that helps create unique fonts and typographic designs.
 - **[BrightBot](https://brightbot.com/)** - AI chatbot builder for customer support and engagement, offering deep customization and integration options.
 - **[Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/)** - While not new, it's a powerful Python library for web scraping that has gained renewed interest due to AI-driven data processing needs.
+- **[Haunt API](https://github.com/Darko893/mcp-server)** - AI-powered web extraction API with Cloudflare bypass. Works as an MCP server for Claude, Cursor, or any MCP-compatible AI agent.
 - **[Riverside.fm](https://riverside.fm/)** - AI-powered platform for recording studio-quality podcasts and videos remotely, with features like real-time transcriptions and easy editing.
 - **[Suno](https://suno.com/)** - A cutting-edge AI tool focused on transforming music creation with advanced deep learning models for audio generation and enhancement.
 - **[AI or Not](https://www.aiornot.com/)** - An AI-driven tool that helps users determine whether a given piece of content was created by a human or an AI, enhancing transparency in content creation.
