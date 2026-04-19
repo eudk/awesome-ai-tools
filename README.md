@@ -1912,3 +1912,6 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[StackBuilt](https://stackbuilt.co)** - Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work.
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
+
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain): Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT licensed.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge): 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT licensed.
