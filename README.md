@@ -1816,6 +1816,7 @@ A selection of platforms offering API integration for various AI applications an
 - [BlackVault](https://github.com/venkat22022202/black-vault) - Open-source proxy gateway for AI API keys. Generate proxy tokens for agents — BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.
 - [LochBot](https://lochbot.com) - Free browser-based prompt injection vulnerability checker. Analyzes LLM system prompts against 31 attack patterns (jailbreaks, role override, data exfiltration) and returns a security score with remediation guidance. No signup, runs client-side.
 - [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Open-source Windows tray app for real-time Claude Code usage monitoring. Tracks per-session tokens, cost, context window, and 5h/1w rate limits from local JSONL session files and Claude Code's statusLine hook.
+- [AIWatch](https://ai-watch.dev) - Open-source real-time status dashboard for 30 AI services (Claude, OpenAI, Gemini, Mistral, Groq, and more). AI-powered incident analysis via hybrid Gemma 4 + Claude Sonnet, early detection vs official status pages, reliability scoring, Discord/Slack webhooks. Stack: Cloudflare Workers + KV + Workers AI.
 
 ---
 
