@@ -1167,6 +1167,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [LearnClash](https://learnclash.com) - AI-powered 1v1 quiz duels on any topic with ELO rankings and spaced repetition. Free, no ads.
 - [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalised 7-day menus based on dietary needs, cuisine preferences, and grocery budget.
 - [StoryRoute](https://storyroute.netlify.app) - AI-powered GPS audio tour guide that generates real-time location-aware travel narratives as you explore cities. Free to use.
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
 
 ---
 
