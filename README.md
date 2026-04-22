@@ -1222,6 +1222,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **ChatGPT for Google** - Integrate ChatGPT in Google searches.
 19. **Almighty** - AI-driven productivity booster.
 20. **SentiSum Insights** - AI sentiment analysis for customer feedback.
+21. **[Scrupp](https://scrupp.com/)** - #1 Sales Navigator Scraper Chrome extension. Exports 2,500 LinkedIn / Sales Navigator leads per search to CSV with SMTP-verified emails and phone numbers via AI-assisted waterfall enrichment.
 
 ---
 
