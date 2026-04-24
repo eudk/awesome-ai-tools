@@ -1167,7 +1167,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [LearnClash](https://learnclash.com) - AI-powered 1v1 quiz duels on any topic with ELO rankings and spaced repetition. Free, no ads.
 - [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalised 7-day menus based on dietary needs, cuisine preferences, and grocery budget.
 - [StoryRoute](https://storyroute.netlify.app) - AI-powered GPS audio tour guide that generates real-time location-aware travel narratives as you explore cities. Free to use.
-- [AI Dictation](https://aidictation.com/) - macOS speech-to-text app that auto-switches between offline and online engines, with AI cleanup that removes filler words, fixes grammar, and formats text per app. Free tier (2,000 words/month, no account required).
+- [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
 
 ---
 
