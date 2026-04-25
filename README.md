@@ -1060,6 +1060,8 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic assistant for students with note-taking, essay writing, and presentation generation.
 - [Domain Generator](https://freedomaingenerator.com/) - Free AI domain generator with availability check and price comparison
 - [Iteration Layer](https://iterationlayer.com) - Composable content processing APIs for document extraction, image transformation, and image, document & sheet generation.
+- [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
+- [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 
 ---
 ## 🦞 OpenClaw Ecosystem
