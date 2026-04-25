@@ -1971,12 +1971,14 @@ This section covers some of the most advanced software platforms for working wit
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
 
 ---
+## SEO related tools
+- If your tool is related to SEO feel free to insert it here
 
+---
+## New Github Projects
+---
 
-<p align="center">
-  <a href="https://star-history.com/#eudk/awesome-ai-tools&Date">
-    <img src="https://api.star-history.com/svg?repos=eudk/awesome-ai-tools&type=Date" alt="Star History" width="800">
-  </a>
-</p>
-
+<a href="https://www.star-history.com/?repos=eudk/eudk,eudk/awesome-ai-tools&type=date&legend=top-left">
+  <img src="https://api.star-history.com/chart?repos=eudk/eudk,eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
+</a>
 
