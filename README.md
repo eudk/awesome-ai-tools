@@ -77,6 +77,7 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 | [🧠 Anthropic](#anthropic) | Claude models focused on long-context reasoning and reliability. |
 | [💻 Claude Code](#claude-code) | Agentic coding system built for full software engineering workflows. |
 | [🧑‍💻 OpenAI Codex](#openai-codex) | Autonomous coding agent for development, debugging, and workflows. |
+| [🧑‍💻 Perplexity](#perplexity) | Web-grounded AI system for search, multi-step reasoning, and source-based answers. |
 | [🇨🇳 Leading Chinese AI Models](#-leading-chinese-ai-models)                       | Powerful and popular large language models from China.                        |
 | [🪦 AI Graveyard](./AI_GRAVEYARD.md) | Discontinued, retired, or replaced AI tools and models |
 | [🦞 OpenClaw Ecosystem](#-openclaw-ecosystem) | OpenClaw, ZeroClaw and related autonomous AI agent frameworks. |
@@ -150,6 +151,7 @@ A leading AI company focused on advanced multimodal and agent-based systems. Ope
 - **[ChatGPT](https://chat.openai.com/)** - The primary interface for interacting with OpenAI models, supporting chat, coding, data analysis, and agent workflows.
 
 - **Flagship Models (Current)**:
+  - **GPT-5.5** – Latest flagship model, replacing GPT-5.4 as OpenAI’s most capable system.
   - **GPT-5.4** – OpenAI’s most capable model for reasoning, coding, and complex tasks.
   - **GPT-5.4 Pro** – Higher-performance variant for demanding workloads.
   - **GPT-5.4 Mini / Nano** – Optimized for speed, cost-efficiency, and scale.
@@ -379,6 +381,7 @@ Anthropic focuses on building reliable, interpretable, and safety-aligned AI sys
 - **[Claude.ai](https://claude.ai/)** - The main interface for interacting with Claude models, supporting chat, documents, coding, and agent-style workflows.
 
 - **Current Models (Primary)**:
+  - **Claude Opus 4.7** – Anthropic’s most capable public model, designed for advanced coding, agent workflows, and long-running task execution.
   - **Claude Opus 4.6** – Most capable model for deep reasoning, coding, and long-running agent workflows  
   - **Claude Sonnet 4.6** – Default model balancing performance, speed, and cost  
   - **Claude Haiku 4.5** – Fastest model optimized for quick responses and high-throughput tasks  
@@ -549,6 +552,48 @@ Based in Paris 🇪🇺, Mistral AI is a leading European AI company focused on 
   - **Efficiency-first engineering** – High performance per compute cost  
   - **Open-weight leadership in Europe** – Major alternative to US/China AI providers  
   - **Full-stack expansion** – Now covers text, code, audio, vision, and agents  
+---
+### Perplexity
+
+<p>
+  <a href="https://www.perplexity.ai" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Perplexity_AI_logo.svg/1280px-Perplexity_AI_logo.svg.png" alt="Perplexity Logo" width="150"/>
+  </a>
+</p>
+
+Perplexity is an AI-based search and research platform that combines large language models with real-time web retrieval and source citations.
+
+- **[Perplexity](https://www.perplexity.ai/)** – Interface for querying, browsing sources, and generating structured answers.
+
+- **Models (Sonar family)**:
+  - **Sonar** – Default model for search-based queries
+  - **Sonar Pro** – Higher-depth retrieval and synthesis
+  - **Sonar Reasoning** – Optimized for multi-step reasoning tasks
+  - **Sonar Deep Research** – Designed for longer, multi-source analysis and report generation
+  - And many more from other providers integrated in their system
+
+- **Capabilities**:
+  - Real-time web search with cited sources  
+  - Multi-step query decomposition and synthesis  
+  - File and document analysis  
+  - Structured outputs and summaries  
+  - Routing across multiple underlying models  
+
+- **Agent / Computer features**:
+  - Supports tool usage and multi-step workflows  
+  - “Computer” / agent systems can run longer tasks, interact with web tools, and execute research loops  
+  - Includes logging, control, and interruption mechanisms  
+
+- **API / Platform**:
+  - Sonar API for web-grounded responses  
+  - OpenAI-compatible endpoints  
+  - Supports streaming, structured outputs, and tool usage  
+
+- **Access**:
+  - Free tier with limited usage  
+  - Pro tier (~$20/month) with higher limits and advanced models  
+  - Higher tiers for extended usage and advanced features  
+
 ---
 
 ## 🇨🇳 Leading Chinese AI Models
@@ -966,6 +1011,9 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
+- [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
+- [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - Free CLAUDE.md, Cursor rules, and PRP templates that make AI coding assistants actually useful. 5 ready-to-use template packs for common project types.
+- [url-to-md](https://github.com/MrDwarf7/url-to-md) - Any URL to clean markdown for LLMs. Free API, no signup required. Strips JS/CSS and outputs LLM-ready content.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
 - [Hugging Face NLP & Model Hub](https://huggingface.co/) - Extensive repository of NLP models and datasets.
 - [Algorithmia AI Model Deployment](https://algorithmia.com/) - Platform for scalable AI and machine learning model deployment.
@@ -1015,6 +1063,8 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic assistant for students with note-taking, essay writing, and presentation generation.
 - [Domain Generator](https://freedomaingenerator.com/) - Free AI domain generator with availability check and price comparison
 - [Iteration Layer](https://iterationlayer.com) - Composable content processing APIs for document extraction, image transformation, and image, document & sheet generation.
+- [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
+- [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 
 ---
 ## 🦞 OpenClaw Ecosystem
@@ -1167,6 +1217,9 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [LearnClash](https://learnclash.com) - AI-powered 1v1 quiz duels on any topic with ELO rankings and spaced repetition. Free, no ads.
 - [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalised 7-day menus based on dietary needs, cuisine preferences, and grocery budget.
 - [StoryRoute](https://storyroute.netlify.app) - AI-powered GPS audio tour guide that generates real-time location-aware travel narratives as you explore cities. Free to use.
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
+- [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
+
 
 ---
 
@@ -1523,6 +1576,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
 - [TubePrompter](https://tubeprompter.com) - Free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Veo, Midjourney, Runway Gen-3, Stable Diffusion, and other AI generators.
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
+- [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 
 ---
 
@@ -1638,6 +1692,7 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 24. [EKHOS AI](https://ekhos.ai/) - A powerful speech-to-text software that transcribes audio and video files, supports real-time recording and transcription, and includes a built-in proofreading editor.
 25. [Vocova](https://vocova.app) - AI-powered transcription supporting 100+ languages with speaker diarization and bilingual export.
 26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
+27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
 
 ---
 
@@ -1817,7 +1872,7 @@ A selection of platforms offering API integration for various AI applications an
 - [LochBot](https://lochbot.com) - Free browser-based prompt injection vulnerability checker. Analyzes LLM system prompts against 31 attack patterns (jailbreaks, role override, data exfiltration) and returns a security score with remediation guidance. No signup, runs client-side.
 - [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Open-source Windows tray app for real-time Claude Code usage monitoring. Tracks per-session tokens, cost, context window, and 5h/1w rate limits from local JSONL session files and Claude Code's statusLine hook.
 - [AIWatch](https://ai-watch.dev) - Open-source real-time status dashboard for 30 AI services (Claude, OpenAI, Gemini, Mistral, Groq, and more). AI-powered incident analysis via hybrid Gemma 4 + Claude Sonnet, early detection vs official status pages, reliability scoring, Discord/Slack webhooks. Stack: Cloudflare Workers + KV + Workers AI.
-
+- [Embedding Similarity Calculator](https://uatgpt.com/tools/embedding-similarity/) - Compute cosine, dot, Euclidean, Manhattan, and Hamming similarity between two vectors, with ANN algorithm recommendation (FLAT / HNSW / IVF+PQ) matched to corpus scale and recall targets.
 ---
 
 ## 🛠️ REPOS
@@ -1916,12 +1971,14 @@ This section covers some of the most advanced software platforms for working wit
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
 
 ---
+## SEO related tools
+- If your tool is related to SEO feel free to insert it here
 
+---
+## New Github Projects
+---
 
-<p align="center">
-  <a href="https://star-history.com/#eudk/awesome-ai-tools&Date">
-    <img src="https://api.star-history.com/svg?repos=eudk/awesome-ai-tools&type=Date" alt="Star History" width="800">
-  </a>
-</p>
-
+<a href="https://www.star-history.com/?repos=eudk/eudk,eudk/awesome-ai-tools&type=date&legend=top-left">
+  <img src="https://api.star-history.com/chart?repos=eudk/eudk,eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
+</a>
 
