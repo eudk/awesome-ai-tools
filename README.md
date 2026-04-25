@@ -1982,8 +1982,9 @@ This section covers some of the most advanced software platforms for working wit
 ---
 ## New Github Projects
 ---
-
-<a href="https://www.star-history.com/?repos=eudk/eudk,eudk/awesome-ai-tools&type=date&legend=top-left">
-  <img src="https://api.star-history.com/chart?repos=eudk/eudk,eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
-</a>
+<p align="center">
+  <a href="https://www.star-history.com/?repos=eudk/awesome-ai-tools&type=date&legend=top-left">
+    <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
+  </a>
+</p>
 
