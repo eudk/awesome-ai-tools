@@ -1298,6 +1298,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 8. **[Stanford Online - Machine Learning](https://online.stanford.edu/courses/soe-ycsmachinelearning)**
 9. **[MIT OpenCourseWare - Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)**
 10. **[Khan Academy - Computer Science and Artificial Intelligence](https://www.khanacademy.org/computing/computer-science)**
+12. **[Slate](https://slateup.ai)** - AI-powered interactive learning platform that generates personalized courses, lessons, quizzes, and AI study companions from any topic or document. Designed for students preparing for JEE, NEET, UPSC, SAT, and professional certifications.
 11. **[Learn Agentic Patterns](https://learnagenticpatterns.com/)** - Free interactive curriculum covering 21 agentic AI design patterns with code examples, architecture diagrams, and interactive decision-making games.
 
 ---
