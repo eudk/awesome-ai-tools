@@ -1279,6 +1279,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **ChatGPT for Google** - Integrate ChatGPT in Google searches.
 19. **Almighty** - AI-driven productivity booster.
 20. **SentiSum Insights** - AI sentiment analysis for customer feedback.
+21. **[Resemble AI Deepfake Detector](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle)** - Chrome extension for scanning web images, videos, and audio for AI-generated or manipulated media.
 
 ---
 
@@ -1987,4 +1988,3 @@ This section covers some of the most advanced software platforms for working wit
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
-
