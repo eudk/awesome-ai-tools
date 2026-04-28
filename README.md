@@ -1,3 +1,4 @@
+<img width="3746" height="2098" alt="image" src="https://github.com/user-attachments/assets/fec744aa-419a-4617-92d3-e523b38d8baa" />
 [![Awesome](https://img.shields.io/badge/Awesome-AI-000000.svg?logo=github&labelColor=24292e)](#)
 ![GitHub Stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
@@ -1695,9 +1696,10 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 22. [YobiYoba](https://www.yobiyoba.com/en/) - Yobiyoba.com delivers state-of-the-art automatic transcription with a powerful editor and pricing based solely on speech time.
 23. [CustomPod](https://custompod.io/) - Improve productivity by getting a personalized daily audio briefing on updates from your favorite sites/apps.
 24. [EKHOS AI](https://ekhos.ai/) - A powerful speech-to-text software that transcribes audio and video files, supports real-time recording and transcription, and includes a built-in proofreading editor.
-25. [Vocova](https://vocova.app) - AI-powered transcription supporting 100+ languages with speaker diarization and bilingual export.
-26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
-27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
+25. [TranscribeText](https://transcribetext.com) - AI-powered transcription supporting 41+ languages with speaker diarization, subtitle translation, and direct YouTube URL input. Extremely fast — a 2-hour audio file is processed in under 2 minutes.
+26. [Vocova](https://vocova.app) - AI-powered transcription supporting 100+ languages with speaker diarization and bilingual export.
+27. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
+28. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
 
 ---
 
