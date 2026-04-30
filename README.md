@@ -1725,6 +1725,7 @@ AI tools for enhancing media quality, such as upscaling images or videos, and sp
 16. [Deep Image](https://deep-image.ai) - Enhance image resolution with AI.
 17. [PhotoRefiner](https://photorefiner.com) - AI for photo improvement.
 18. [Neural Love](https://neural.love) - AI for video and photo enhancement.
+19. [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, and Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 19. [AVCLabs Video Enhancer AI](https://www.avclabs.com/video-enhancer-ai) - Improve video quality using AI.
 20. [Cre8tiveAI](https://cre8tiveai.com) - AI for image quality enhancement.
 
