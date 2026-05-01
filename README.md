@@ -1176,6 +1176,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[Not Human Search](https://nothumansearch.ai)** — Agent-first search engine indexing 8,000+ MCP servers and other agentically-readable sites, ranked across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Queryable via MCP (`nothumansearch.ai/mcp`), REST API, or browser. Includes `verify_mcp` live JSON-RPC probe tool. MIT.
 - **[AI Dev Jobs](https://aidevboard.com)** — Structured data on 8,400+ active AI/ML engineering jobs from 580 ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, etc.). Free REST API + MCP server at `aidevboard.com/mcp`. Useful for agents doing AI job market research or helping users find roles.
 - **[nhs-score-check-action](https://github.com/unitedideas/nhs-score-check-action)** — GitHub Action that fetches your site's agentic readiness score via Not Human Search and fails CI if the score drops. Protects against regressions in your agent-facing surface. MIT.
+- **[Mira](https://github.com/vwww-droid/Mira)** — AI-assisted runtime protection analysis platform for third-party Android and iOS apps, enabling agents to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 ---
 ## 🆕 Additional AI and Productivity Tools
 
