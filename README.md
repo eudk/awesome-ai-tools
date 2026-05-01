@@ -1582,6 +1582,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds and extracts the best highlight moments from long-form videos for streamers and content creators.
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
+- [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
 
 ---
 
