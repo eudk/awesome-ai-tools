@@ -1978,6 +1978,7 @@ This section covers some of the most advanced software platforms for working wit
 ---
 ## SEO related tools
 - If your tool is related to SEO feel free to insert it here
+- **[PromptEden](https://www.prompteden.com)** - AEO (Answer Engine Optimization) monitoring. Tracks how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead, across 9+ AI platforms refreshed daily.
 
 ---
 ## New Github Projects
