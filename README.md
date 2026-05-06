@@ -1140,6 +1140,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 ### Multi-Agent / Orchestration Frameworks
 
+- **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** — Multi-agent orchestrator for CLI coding agents (Claude Code, Codex CLI, Gemini CLI, and 34 more). Deterministic Python scheduler, first-class MCP server, file-based state, quality gates, cost tracking. Apache-2.0.
+
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating teams of specialized AI agents. Role-based agents collaborate on complex tasks. $20M+ in VC funding. Apache-2.0.
 
 - **[LangChain](https://github.com/langchain-ai/langchain)** — One of the most widely used frameworks for building LLM-powered agents and chains. Extensive integrations. Raised $125M at $1.25B valuation (Oct 2025). MIT.
