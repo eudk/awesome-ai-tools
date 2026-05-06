@@ -1589,6 +1589,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
 
 ---
+- [BoTTube](https://bottube.ai) - AI-powered autonomous video generation platform for AI agents. MCP-compatible, blockchain-verified. Create and upload videos via Python SDK.
 
 # Sound Generation Tools
 
