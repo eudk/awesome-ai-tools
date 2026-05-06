@@ -877,6 +877,8 @@ This section introduces the latest AI tools that are gaining popularity and have
 
 - **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
 
+- **[FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background. Free to start, commercial use included.
+- 
 ---
 
 - **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
@@ -1008,6 +1010,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns (sycophantic openers, filler phrases, em-dash overuse) from text files and stdin. Pass through code blocks and URLs unchanged. `npm install -g unslop`.
 - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
@@ -1495,6 +1498,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Nsketch AI](https://nsketch.ai) - AI image and video generation platform with 20+ models and ready-made templates for creators.
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 
 
 ---
@@ -1879,6 +1883,7 @@ A selection of platforms offering API integration for various AI applications an
 - [AIWatch](https://ai-watch.dev) - Open-source real-time status dashboard for 30 AI services (Claude, OpenAI, Gemini, Mistral, Groq, and more). AI-powered incident analysis via hybrid Gemma 4 + Claude Sonnet, early detection vs official status pages, reliability scoring, Discord/Slack webhooks. Stack: Cloudflare Workers + KV + Workers AI.
 - [Embedding Similarity Calculator](https://uatgpt.com/tools/embedding-similarity/) - Compute cosine, dot, Euclidean, Manhattan, and Hamming similarity between two vectors, with ANN algorithm recommendation (FLAT / HNSW / IVF+PQ) matched to corpus scale and recall targets.
 - [Credyt](https://credyt.ai) - Real-time monetization infrastructure for AI-native products. Credyt combines cost and profitability observabilty with usage-based monetization and a managed customer billing UX.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) that enables AI coding agents to query and manage clusters via natural language. Integrates with 20+ CNCF projects for AI-assisted operations across edge and cloud.
 ---
 
 ## 🛠️ REPOS
@@ -1975,6 +1980,7 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[StackBuilt](https://stackbuilt.co)** - Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work.
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
+- **[Slate](https://slateup.ai)** – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
 
 ---
 ## SEO related tools
