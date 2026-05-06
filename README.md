@@ -1978,6 +1978,7 @@ This section covers some of the most advanced software platforms for working wit
 ---
 ## SEO related tools
 - If your tool is related to SEO feel free to insert it here
+- [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
 
 ---
 ## New Github Projects
