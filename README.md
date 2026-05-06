@@ -877,6 +877,8 @@ This section introduces the latest AI tools that are gaining popularity and have
 
 - **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
 
+- **[FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background. Free to start, commercial use included.
+- 
 ---
 
 - **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
