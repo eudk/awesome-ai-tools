@@ -77,6 +77,7 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 | [🧠 Anthropic](#anthropic) | Claude models focused on long-context reasoning and reliability. |
 | [💻 Claude Code](#claude-code) | Agentic coding system built for full software engineering workflows. |
 | [🧑‍💻 OpenAI Codex](#openai-codex) | Autonomous coding agent for development, debugging, and workflows. |
+| [🧑‍💻 Perplexity](#perplexity) | Web-grounded AI system for search, multi-step reasoning, and source-based answers. |
 | [🇨🇳 Leading Chinese AI Models](#-leading-chinese-ai-models)                       | Powerful and popular large language models from China.                        |
 | [🪦 AI Graveyard](./AI_GRAVEYARD.md) | Discontinued, retired, or replaced AI tools and models |
 | [🦞 OpenClaw Ecosystem](#-openclaw-ecosystem) | OpenClaw, ZeroClaw and related autonomous AI agent frameworks. |
@@ -150,6 +151,7 @@ A leading AI company focused on advanced multimodal and agent-based systems. Ope
 - **[ChatGPT](https://chat.openai.com/)** - The primary interface for interacting with OpenAI models, supporting chat, coding, data analysis, and agent workflows.
 
 - **Flagship Models (Current)**:
+  - **GPT-5.5** – Latest flagship model, replacing GPT-5.4 as OpenAI’s most capable system.
   - **GPT-5.4** – OpenAI’s most capable model for reasoning, coding, and complex tasks.
   - **GPT-5.4 Pro** – Higher-performance variant for demanding workloads.
   - **GPT-5.4 Mini / Nano** – Optimized for speed, cost-efficiency, and scale.
@@ -379,6 +381,7 @@ Anthropic focuses on building reliable, interpretable, and safety-aligned AI sys
 - **[Claude.ai](https://claude.ai/)** - The main interface for interacting with Claude models, supporting chat, documents, coding, and agent-style workflows.
 
 - **Current Models (Primary)**:
+  - **Claude Opus 4.7** – Anthropic’s most capable public model, designed for advanced coding, agent workflows, and long-running task execution.
   - **Claude Opus 4.6** – Most capable model for deep reasoning, coding, and long-running agent workflows  
   - **Claude Sonnet 4.6** – Default model balancing performance, speed, and cost  
   - **Claude Haiku 4.5** – Fastest model optimized for quick responses and high-throughput tasks  
@@ -549,6 +552,48 @@ Based in Paris 🇪🇺, Mistral AI is a leading European AI company focused on 
   - **Efficiency-first engineering** – High performance per compute cost  
   - **Open-weight leadership in Europe** – Major alternative to US/China AI providers  
   - **Full-stack expansion** – Now covers text, code, audio, vision, and agents  
+---
+### Perplexity
+
+<p>
+  <a href="https://www.perplexity.ai" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Perplexity_AI_logo.svg/1280px-Perplexity_AI_logo.svg.png" alt="Perplexity Logo" width="150"/>
+  </a>
+</p>
+
+Perplexity is an AI-based search and research platform that combines large language models with real-time web retrieval and source citations.
+
+- **[Perplexity](https://www.perplexity.ai/)** – Interface for querying, browsing sources, and generating structured answers.
+
+- **Models (Sonar family)**:
+  - **Sonar** – Default model for search-based queries
+  - **Sonar Pro** – Higher-depth retrieval and synthesis
+  - **Sonar Reasoning** – Optimized for multi-step reasoning tasks
+  - **Sonar Deep Research** – Designed for longer, multi-source analysis and report generation
+  - And many more from other providers integrated in their system
+
+- **Capabilities**:
+  - Real-time web search with cited sources  
+  - Multi-step query decomposition and synthesis  
+  - File and document analysis  
+  - Structured outputs and summaries  
+  - Routing across multiple underlying models  
+
+- **Agent / Computer features**:
+  - Supports tool usage and multi-step workflows  
+  - “Computer” / agent systems can run longer tasks, interact with web tools, and execute research loops  
+  - Includes logging, control, and interruption mechanisms  
+
+- **API / Platform**:
+  - Sonar API for web-grounded responses  
+  - OpenAI-compatible endpoints  
+  - Supports streaming, structured outputs, and tool usage  
+
+- **Access**:
+  - Free tier with limited usage  
+  - Pro tier (~$20/month) with higher limits and advanced models  
+  - Higher tiers for extended usage and advanced features  
+
 ---
 
 ## 🇨🇳 Leading Chinese AI Models
@@ -796,6 +841,8 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Cognition Labs](https://www.cognition-labs.com/)** - (USA) Creators of **Devin**, the first AI software engineer agent, designed to autonomously handle complex coding tasks from start to finish.
 - **[Luma Labs](https://lumalabs.ai/dream-machine)** - (USA) Creator of **Dream Machine**, a publicly accessible and highly popular text-to-video model that generates high-quality, coherent video clips.
 - **[Pika](https://pika.art/)** - (USA) A creative AI video platform that allows users to generate and edit videos in various styles from text and images. A direct competitor to Runway and Luma Labs.
+- **[ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/)** - (EU) Generate 3D models from text prompts or a single image, with downloadable 3D output for creative and production workflows.
+- **[ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/)** - (EU) Generate printable 3D bust models from a single portrait photo in a browser-based workflow.
 - **[ElevenLabs](https://elevenlabs.io/)** - (UK/USA) The market leader in realistic AI voice generation, speech synthesis, and voice cloning. Their technology is known for its incredible quality and emotional range.
 - **[Leonardo Ai](https://leonardo.ai/)** - (UK) A full-stack platform for generating game assets, concept art, and other artistic visuals, offering fine-tuned models and a suite of creative tools.
 - **[Phind](https://www.phind.com/)** - (USA) An AI search engine specifically for developers that provides direct answers with code examples and context from across the web.
@@ -808,7 +855,6 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs)** - 196 production-ready frameworks for AI engineering: multi-agent orchestration, MCP server configs, vibe coding workflows, RAG pipelines, and agentic deployment guides. 97 free samples available.
 - **[Overloop CLI](https://github.com/sortlist/overloop-cli)** - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
 - **[Signals CLI](https://github.com/sortlist/signals-cli)** - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
-
 - **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
 - **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
 - **[Qwen](https://chat.qwenlm.ai/)** - Alibaba’s **LLM series**, featuring **Qwen-72B**, **Qwen-14B**, and smaller variants optimized for **local inference**. Supports **multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.
@@ -828,12 +874,8 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Metorial](https://metorial.com)** - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
 - **[RegexAI](https://regexai-six.vercel.app/)** - An AI-powered regex pattern generator that creates regular expressions from plain English descriptions with instant testing.
 - **[CronAI](https://cronai-nu.vercel.app/)** - An AI-powered cron expression generator that converts natural language scheduling descriptions into valid cron syntax instantly.
----
-
 - **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
-
----
-
+- [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background.
 - **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
   - Features include: real-time web access, custom threads, file + URL analysis, and pro-level citation support.
   - **Pro plan** offers Claude 4, GPT-5, and other premium model access.
@@ -963,9 +1005,13 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns (sycophantic openers, filler phrases, em-dash overuse) from text files and stdin. Pass through code blocks and URLs unchanged. `npm install -g unslop`.
 - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
+- [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
+- [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - Free CLAUDE.md, Cursor rules, and PRP templates that make AI coding assistants actually useful. 5 ready-to-use template packs for common project types.
+- [url-to-md](https://github.com/MrDwarf7/url-to-md) - Any URL to clean markdown for LLMs. Free API, no signup required. Strips JS/CSS and outputs LLM-ready content.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
 - [Hugging Face NLP & Model Hub](https://huggingface.co/) - Extensive repository of NLP models and datasets.
 - [Algorithmia AI Model Deployment](https://algorithmia.com/) - Platform for scalable AI and machine learning model deployment.
@@ -1015,6 +1061,8 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic assistant for students with note-taking, essay writing, and presentation generation.
 - [Domain Generator](https://freedomaingenerator.com/) - Free AI domain generator with availability check and price comparison
 - [Iteration Layer](https://iterationlayer.com) - Composable content processing APIs for document extraction, image transformation, and image, document & sheet generation.
+- [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
+- [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 
 ---
 ## 🦞 OpenClaw Ecosystem
@@ -1094,6 +1142,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 ### Multi-Agent / Orchestration Frameworks
 
+- **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** — Multi-agent orchestrator for CLI coding agents (Claude Code, Codex CLI, Gemini CLI, and 34 more). Deterministic Python scheduler, first-class MCP server, file-based state, quality gates, cost tracking. Apache-2.0.
+
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating teams of specialized AI agents. Role-based agents collaborate on complex tasks. $20M+ in VC funding. Apache-2.0.
 
 - **[LangChain](https://github.com/langchain-ai/langchain)** — One of the most widely used frameworks for building LLM-powered agents and chains. Extensive integrations. Raised $125M at $1.25B valuation (Oct 2025). MIT.
@@ -1124,6 +1174,11 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** — Local-first RAG knowledge base compiler inspired by Karpathy's LLM Wiki. Three-layer raw/wiki/schema architecture, persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and a built-in MCP server. MIT.
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** — CLI tool that benchmarks SKILL.md guidance docs against multiple LLMs, measures whether models call the right SDK/CLI/MCP tools with correct arguments, and runs an iterative optimizer to rewrite your docs until every configured model meets a score floor. MIT.
 - **[Agentprobe](https://agentprobe.fly.dev/)** — Free agentic commerce readiness scorer. Probes any seller URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog/quote/checkout APIs, payment rails, fulfillment proof) and returns a 0–110 score. Tells AI shopping agents which storefronts they can actually transact with. CERTIFIED badge available.
+- **[Hlido](https://hlido.eu)** — Proof-backed AI agent review desk. Each agent gets a Laddoo Score (0-100), claim-vs-evidence audit, C2PA-signed screenshots, public Hugging Face dataset, and a 9-tool MCP server (`hlido.eu/mcp`) for agent trust checks.
+- **[Not Human Search](https://nothumansearch.ai)** — Agent-first search engine indexing 8,000+ MCP servers and other agentically-readable sites, ranked across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Queryable via MCP (`nothumansearch.ai/mcp`), REST API, or browser. Includes `verify_mcp` live JSON-RPC probe tool. MIT.
+- **[AI Dev Jobs](https://aidevboard.com)** — Structured data on 8,400+ active AI/ML engineering jobs from 580 ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, etc.). Free REST API + MCP server at `aidevboard.com/mcp`. Useful for agents doing AI job market research or helping users find roles.
+- **[nhs-score-check-action](https://github.com/unitedideas/nhs-score-check-action)** — GitHub Action that fetches your site's agentic readiness score via Not Human Search and fails CI if the score drops. Protects against regressions in your agent-facing surface. MIT.
+- **[Mira](https://github.com/vwww-droid/Mira)** — AI-assisted runtime protection analysis platform for third-party Android and iOS apps, enabling agents to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 ---
 ## 🆕 Additional AI and Productivity Tools
 
@@ -1168,6 +1223,10 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [LearnClash](https://learnclash.com) - AI-powered 1v1 quiz duels on any topic with ELO rankings and spaced repetition. Free, no ads.
 - [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalised 7-day menus based on dietary needs, cuisine preferences, and grocery budget.
 - [StoryRoute](https://storyroute.netlify.app) - AI-powered GPS audio tour guide that generates real-time location-aware travel narratives as you explore cities. Free to use.
+- [Resumemind](https://resumemind.com) - An AI-powered resume builder and visual analyzer specifically tailored for software engineers.
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
+- [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
+
 
 ---
 
@@ -1439,6 +1498,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Nsketch AI](https://nsketch.ai) - AI image and video generation platform with 20+ models and ready-made templates for creators.
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 
 
 ---
@@ -1523,7 +1583,10 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [ShortsKit.ai](https://shortskit.ai) - AI-powered platform for creating short-form videos
 - [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
 - [TubePrompter](https://tubeprompter.com) - Free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Veo, Midjourney, Runway Gen-3, Stable Diffusion, and other AI generators.
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds and extracts the best highlight moments from long-form videos for streamers and content creators.
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
+- [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
+- [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
 
 ---
 
@@ -1603,6 +1666,9 @@ Discover the power of AI in music with these tools designed for generating, comp
 - [Audiolabs](https://audiolabs-erlangen.de) - AI and music research.
 - [SOUNDRAW](https://soundraw.io) - AI music composition for videos.
 - [Lumen5](https://lumen5.com) - AI-driven music video maker.
+- [Suede](https://suedeai.ai) - AI music and video generation with automatic on-chain IP registration — create a track, own it instantly, earn from it automatically. No label, no middleman.
+- [AceTagGen](https://acetaggen.com) - Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno's 200-char Style limit. Includes example library and quality score.
+- [HookGenius](https://hookgenius.app) - AI lyrics and style prompt generator for Suno. Produces copy-paste-ready hooks, song structures, and genre-tuned style tags with artist-style references.
 
 ---
 
@@ -1638,6 +1704,7 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 24. [EKHOS AI](https://ekhos.ai/) - A powerful speech-to-text software that transcribes audio and video files, supports real-time recording and transcription, and includes a built-in proofreading editor.
 25. [Vocova](https://vocova.app) - AI-powered transcription supporting 100+ languages with speaker diarization and bilingual export.
 26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
+27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
 
 ---
 
@@ -1815,7 +1882,11 @@ A selection of platforms offering API integration for various AI applications an
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [BlackVault](https://github.com/venkat22022202/black-vault) - Open-source proxy gateway for AI API keys. Generate proxy tokens for agents — BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.
 - [LochBot](https://lochbot.com) - Free browser-based prompt injection vulnerability checker. Analyzes LLM system prompts against 31 attack patterns (jailbreaks, role override, data exfiltration) and returns a security score with remediation guidance. No signup, runs client-side.
-
+- [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Open-source Windows tray app for real-time Claude Code usage monitoring. Tracks per-session tokens, cost, context window, and 5h/1w rate limits from local JSONL session files and Claude Code's statusLine hook.
+- [AIWatch](https://ai-watch.dev) - Open-source real-time status dashboard for 30 AI services (Claude, OpenAI, Gemini, Mistral, Groq, and more). AI-powered incident analysis via hybrid Gemma 4 + Claude Sonnet, early detection vs official status pages, reliability scoring, Discord/Slack webhooks. Stack: Cloudflare Workers + KV + Workers AI.
+- [Embedding Similarity Calculator](https://uatgpt.com/tools/embedding-similarity/) - Compute cosine, dot, Euclidean, Manhattan, and Hamming similarity between two vectors, with ANN algorithm recommendation (FLAT / HNSW / IVF+PQ) matched to corpus scale and recall targets.
+- [Credyt](https://credyt.ai) - Real-time monetization infrastructure for AI-native products. Credyt combines cost and profitability observabilty with usage-based monetization and a managed customer billing UX.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) that enables AI coding agents to query and manage clusters via natural language. Integrates with 20+ CNCF projects for AI-assisted operations across edge and cloud.
 ---
 
 ## 🛠️ REPOS
@@ -1912,3 +1983,21 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[StackBuilt](https://stackbuilt.co)** - Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work.
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
+- **[Slate](https://slateup.ai)** – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
+
+---
+## SEO related tools
+- If your tool is related to SEO feel free to insert it here
+- **[PromptEden](https://www.prompteden.com)** - AEO (Answer Engine Optimization) monitoring. Tracks how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead, across 9+ AI platforms refreshed daily.
+
+- [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
+
+---
+## New Github Projects
+---
+<p align="center">
+  <a href="https://www.star-history.com/?repos=eudk/awesome-ai-tools&type=date&legend=top-left">
+    <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
+  </a>
+</p>
+
