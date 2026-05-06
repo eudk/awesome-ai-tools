@@ -1123,6 +1123,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[mempalace](https://github.com/milla-jovovich/mempalace)** — Memory-oriented tooling for AI agents, focused on persistent context, recall, and more structured long-term memory behavior.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** — Local-first RAG knowledge base compiler inspired by Karpathy's LLM Wiki. Three-layer raw/wiki/schema architecture, persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and a built-in MCP server. MIT.
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** — CLI tool that benchmarks SKILL.md guidance docs against multiple LLMs, measures whether models call the right SDK/CLI/MCP tools with correct arguments, and runs an iterative optimizer to rewrite your docs until every configured model meets a score floor. MIT.
+- **[Agentprobe](https://agentprobe.fly.dev/)** — Free agentic commerce readiness scorer. Probes any seller URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog/quote/checkout APIs, payment rails, fulfillment proof) and returns a 0–110 score. Tells AI shopping agents which storefronts they can actually transact with. CERTIFIED badge available.
 ---
 ## 🆕 Additional AI and Productivity Tools
 
