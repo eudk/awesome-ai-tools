@@ -853,7 +853,6 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs)** - 196 production-ready frameworks for AI engineering: multi-agent orchestration, MCP server configs, vibe coding workflows, RAG pipelines, and agentic deployment guides. 97 free samples available.
 - **[Overloop CLI](https://github.com/sortlist/overloop-cli)** - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
 - **[Signals CLI](https://github.com/sortlist/signals-cli)** - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
-
 - **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
 - **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
 - **[Qwen](https://chat.qwenlm.ai/)** - Alibaba’s **LLM series**, featuring **Qwen-72B**, **Qwen-14B**, and smaller variants optimized for **local inference**. Supports **multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.
@@ -873,14 +872,8 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Metorial](https://metorial.com)** - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
 - **[RegexAI](https://regexai-six.vercel.app/)** - An AI-powered regex pattern generator that creates regular expressions from plain English descriptions with instant testing.
 - **[CronAI](https://cronai-nu.vercel.app/)** - An AI-powered cron expression generator that converts natural language scheduling descriptions into valid cron syntax instantly.
----
-
 - **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
-
-- **[FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background. Free to start, commercial use included.
-- 
----
-
+- [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background.
 - **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
   - Features include: real-time web access, custom threads, file + URL analysis, and pro-level citation support.
   - **Pro plan** offers Claude 4, GPT-5, and other premium model access.
