@@ -1,5 +1,10 @@
+# Pull Request Guidelines
+
 Please complete the sections below. Submissions missing key details may be closed.
-Please note: PR reviews may take up to 1 month depending on backlog and activity. Low-effort or incorrectly formatted submissions may be closed without changes being made by maintainers.
+
+> PR reviews may take up to 1 month depending on backlog and activity.  
+> Low-effort or incorrectly formatted submissions may be closed without maintainer edits.
+
 ---
 
 ## Submission Summary
