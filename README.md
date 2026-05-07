@@ -1093,6 +1093,8 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 - **[openclaw/lobster](https://github.com/openclaw/lobster)** — Workflow shell / macro engine  
 
 - **[Product Manager Skills](https://github.com/Digidai/product-manager-skills)** — PM-focused skill pack  
+- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)** — Real-time monitoring dashboard for OpenClaw agents, featuring token usage tracking, session management, and 7-day trend visualization.
+
 
 
 ### Deployment & Infrastructure
