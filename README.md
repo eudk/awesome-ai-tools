@@ -11,6 +11,7 @@
   <img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="AI Image" width="400"/>
 </p>
 
+
 <p align="center">
   <a href="https://chat.openai.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png" alt="ChatGPT Logo" width="70"/>
@@ -913,6 +914,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Serplux](https://serplux.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
 - **[Waldium](https://waldium.com)** - AI-powered blogs to help ChatGPT/Claude/Perplexity cite your product.
 - **[RankingRider](https://www.rankingrider.com)** - AI-powered bulk SEO optimization for Shopify products via CSV.
+- **[AIRanked](https://geochecktool.com/)** - Free AI visibility checker for tracking brand mentions across ChatGPT, Perplexity, and Google AI Overview.
 - **[LLM Optimizer](https://llmopt.metavert.io)** - AI brand visibility tool (like SEO for LLMs, or GEO). Measures how ChatGPT, Claude, Gemini, and Perplexity cite and recommend your brand with composite AI Visibility Scores, per-dimension analysis, and prioritized optimization recommendations.
 - **[GEOScore](https://geoscoreai.com)** - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks for generative engine optimization (GEO).
 - **[AuditZap](https://auditzap.io/)** - AI-powered website audit tool that runs 24 automated checks across SEO, performance, and site health, then generates code-level fix instructions ranked by revenue impact.
@@ -2001,4 +2003,3 @@ This section covers some of the most advanced software platforms for working wit
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
-
