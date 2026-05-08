@@ -1168,6 +1168,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ## AI Agent Tools
 
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)** — High-performance local inference engine for LLMs and multimodal models, supporting CPU/GPU execution, quantization, and broad model compatibility.
+- **[lucinate](https://github.com/lucinate-ai/lucinate)** — Go-based terminal-native TUI chat client for interacting with AI agents via OpenClaw gateways, Hermes profiles, and OpenAI-compatible endpoints. Features streaming responses, markdown rendering, tool call cards, local skills, cron management, session browsing, and multi-agent support. MIT. → [Website](https://lucinate.ai) · [Homebrew](https://github.com/lucinate-ai/tap)
 - **[agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)** — Collection of prompt patterns, experiments, and research around agentic AI workflows and prompting strategies.
 - **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official plugin resources and examples for extending Claude-based workflows.
 - **[superpowers](https://github.com/obra/superpowers)** — Tooling for giving AI systems richer capabilities and more flexible action patterns in practical workflows.
