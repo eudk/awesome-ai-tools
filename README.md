@@ -836,6 +836,7 @@ Beyond the GitHub pack, major cloud providers have their own programs for studen
 
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
 
+- **[MeMakie AI Tools Index](https://memakie.com/tools)** - (USA) Editorial directory of 1,300+ AI chat, character, voice, image, and writing tools. Listings are fully automated via a two-LLM curation pipeline (Llama drafts, Claude reviews and rewrites flagged ones). Free, no signup; includes verdicts, screenshots, and pros/cons per tool.
 - **[Clawdbot/Moltbot (clawd.bot)](https://clawd.bot/)** - A self-hosted AI agent that connects to messaging apps (e.g., Telegram/Discord) and can be extended with skills to automate personal workflows like notes, reminders, and task triage.
 - **[Figure AI](https://www.figure.ai/)** - (USA) A robotics company building general-purpose humanoid robots. Backed by major tech players like OpenAI and Microsoft, they are at the forefront of AI embodiment.
 - **[Cognition Labs](https://www.cognition-labs.com/)** - (USA) Creators of **Devin**, the first AI software engineer agent, designed to autonomously handle complex coding tasks from start to finish.
