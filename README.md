@@ -1042,6 +1042,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Pictory AI](https://pictory.ai/) - AI tool for video creation.
 - [Repurpose.io](https://repurpose.io/) - AI for content repurposing.
 - [Copy.ai](https://www.copy.ai/) - AI for copywriting.
+- **[Side Hustle Content Engine 副业内容引擎](https://tender-bees-camp.loca.lt)** - Free AI copy generator for Chinese e-commerce platforms. DeepSeek-powered. Generates optimized copy for 闲鱼 (Xianyu), 小红书 (RED), WeChat Moments, and Official Accounts.
 - [You.com](https://you.com/) - AI-powered search engine.
 - [Promo.com](https://promo.com/) - AI tool for video creation.
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
