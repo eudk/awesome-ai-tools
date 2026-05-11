@@ -1092,6 +1092,8 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 - **[openclaw/lobster](https://github.com/openclaw/lobster)** — Workflow shell / macro engine  
 
 - **[Product Manager Skills](https://github.com/Digidai/product-manager-skills)** — PM-focused skill pack  
+- **[OpenClaw Consensus API](https://www.yanmiayn.com/api/)** — Multi-LLM voting API that returns a disagreement score across providers (OpenAI, Anthropic, Google, etc.) for the same prompt  
+- **[OpenClaw Consensus Web Classifier](https://apify.com/yanmiayn/consensus-web-classifier)** — Apify actor for bulk URL categorization via 6-LLM voting, with confidence + dissent fields  
 
 
 ### Deployment & Infrastructure
