@@ -1866,6 +1866,7 @@ A selection of platforms offering API integration for various AI applications an
 - [onUI](https://github.com/onllm-dev/onUI) - Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. Works with Claude Code, Cursor, Windsurf, Copilot. Chrome, Edge, Firefox. Free, GPL-3.0.
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) - VS Code extension that bridges mobile devices to Google's Antigravity IDE (a Claude-powered VS Code fork). Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [HeyTensor](https://heytensor.com) - Free browser-based PyTorch tensor shape calculator with 22 tools. Computes shapes through Conv, Linear, LSTM, and Transformer layers without running code. Includes architecture presets (LeNet, ResNet block, Transformer encoder) and a "paste error" mode for parsing PyTorch RuntimeErrors.
+- [OpenRabbit](https://github.com/aryanbrite/openrabbit) - Free, open-source, self-hosted AI GitHub PR reviewer that runs entirely in GitHub Actions.
 
 ---
 
