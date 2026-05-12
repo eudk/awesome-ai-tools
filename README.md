@@ -1223,6 +1223,10 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Resumemind](https://resumemind.com) - An AI-powered resume builder and visual analyzer specifically tailored for software engineers.
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
 - [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities (favicon generator, OG image generator, SEO meta tag generator, color palette, domain name generator). All browser-based, no signup. Open source.
+- [TinyTools Background Remover](https://tinytools-smoky.vercel.app/background-remover/) - AI background removal that runs entirely in the browser via ONNX/WASM. No upload, no signup.
+- [TinyTools AI Cost Calculator](https://tinytools-smoky.vercel.app/ai-cost-calculator/) - Free in-browser calculator for estimating LLM/API costs across providers.
+- [TinyTools AI Disclosure Generator](https://tinytools-smoky.vercel.app/ai-disclosure-generator/) - Generates AI content disclosures (EU AI Act compliant). Free, no signup.
 
 
 ---
