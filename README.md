@@ -1740,6 +1740,7 @@ AI tools for enhancing media quality, such as upscaling images or videos, and sp
 
 # AI Tools for Photo Editing
 
+- [ClearCrowds](https://clearcrowds.com) - AI photo cleanup editor for removing crowds, objects, clutter, and other distractions with presets and natural-language prompts.
 [🔝 Back to Top](#top)
 
 A collection of AI-powered tools specifically designed for photo editing and enhancement.
