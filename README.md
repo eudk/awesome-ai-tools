@@ -1174,6 +1174,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[mempalace](https://github.com/milla-jovovich/mempalace)** — Memory-oriented tooling for AI agents, focused on persistent context, recall, and more structured long-term memory behavior.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** — Local-first RAG knowledge base compiler inspired by Karpathy's LLM Wiki. Three-layer raw/wiki/schema architecture, persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and a built-in MCP server. MIT.
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** — CLI tool that benchmarks SKILL.md guidance docs against multiple LLMs, measures whether models call the right SDK/CLI/MCP tools with correct arguments, and runs an iterative optimizer to rewrite your docs until every configured model meets a score floor. MIT.
+- **[face-twin-mcp](https://github.com/forrestmill-cmd/face-twin-mcp)** — MCP server that creates FaceTwin / Prank My Face AI doppelganger prank links from a public image URL, with explicit privacy-art and prank framings.
 - **[Agentprobe](https://agentprobe.fly.dev/)** — Free agentic commerce readiness scorer. Probes any seller URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog/quote/checkout APIs, payment rails, fulfillment proof) and returns a 0–110 score. Tells AI shopping agents which storefronts they can actually transact with. CERTIFIED badge available.
 - **[Hlido](https://hlido.eu)** — Proof-backed AI agent review desk. Each agent gets a Laddoo Score (0-100), claim-vs-evidence audit, C2PA-signed screenshots, public Hugging Face dataset, and a 9-tool MCP server (`hlido.eu/mcp`) for agent trust checks.
 - **[Not Human Search](https://nothumansearch.ai)** — Agent-first search engine indexing 8,000+ MCP servers and other agentically-readable sites, ranked across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Queryable via MCP (`nothumansearch.ai/mcp`), REST API, or browser. Includes `verify_mcp` live JSON-RPC probe tool. MIT.
@@ -2001,4 +2002,3 @@ This section covers some of the most advanced software platforms for working wit
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
-
