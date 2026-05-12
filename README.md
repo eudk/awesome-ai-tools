@@ -1121,6 +1121,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 ### Personal / Always-On Agents
 
+- **[Ano.chat](https://ano.chat)** — Team chat for AI-native teams. A Slack alternative that runs Claude Code natively in a shell beneath your channels. Launch it directly in any thread with shared context.
+
 - **[Claude Cowork](https://claude.ai/download)** *(Anthropic)* — Anthropic's desktop AI agent with a graphical interface. Persistent access to local files and apps, designed as a GUI-friendly complement to Claude Code (which is CLI-first). Launched January 2026. Closed-source / subscription.
 
 - **[Perplexity Computer](https://www.perplexity.ai/hub/blog/introducing-perplexity-computer)** *(Perplexity)* — Cloud-based autonomous agent that orchestrates multiple AI models simultaneously, routing subtasks to the best-suited model — reasoning, deep research, image/video generation, and long-context recall — and can run workflows for hours or months. Max subscribers only ($200/mo). Launched Feb 25, 2026. Also see **[Personal Computer](https://www.perplexity.ai/personal-computer-waitlist)** — a companion local agent that runs on a dedicated Mac mini with always-on access to your local files, apps, and sessions, controllable from any device. Launched March 11, 2026.
