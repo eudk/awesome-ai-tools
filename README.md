@@ -819,7 +819,8 @@ These are special collections of offers, trials, and credits specifically for st
 
 ---
 
-### Other Cloud Provider Credits
+### Other
+- [Qonspekt](https://qonspekt.github.io/qonspekt/) - Article to atomic Obsidian notes via Claude AI. BYOK, no backend. [GitHub](https://github.com/Qonspekt/qonspekt) Cloud Provider Credits
 
 Beyond the GitHub pack, major cloud providers have their own programs for students.
 
