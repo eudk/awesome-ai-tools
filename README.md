@@ -921,7 +921,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AgentReady](https://agentready.site)** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable recommendations, industry benchmarks, and a free public API for AI agent compatibility scoring.
 - **[KeepRule](https://keeprule.com)** - AI-powered investment discipline platform that tracks principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis, psychological tests, and personalized investment coaching.
 - **[toprank](https://github.com/nowork-studio/toprank)** - Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Pulls real Google Search Console, PageSpeed Insights, and Google Ads API data, audits traffic and wasted ad spend, rewrites meta tags, generates JSON-LD schema markup, and ships the fixes directly to source or CMS (WordPress, Strapi, Contentful, Ghost).
-
+- 🏠 [RoomFlip](https://roomflip.pro) — AI virtual staging + room redesign from a real photo. 12+ design styles, 30 sec generation. Listing Kit bundles MLS / Zillow / Instagram copy with Fair Housing check. Free trial. Web/iOS/Android.
 ---
 
 <p align="center">
