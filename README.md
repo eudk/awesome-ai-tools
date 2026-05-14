@@ -836,6 +836,7 @@ Beyond the GitHub pack, major cloud providers have their own programs for studen
 
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
 
+- **[Sabero](https://sabero.co/)** - (Colombia) AI-powered ICFES Saber 11 exam prep platform with 10,000+ official-format practice questions, an AI tutor that explains each question step-by-step, a personal AI coach that recommends what to study next, and IRT-based score estimation — the same methodology used by the official exam. Free to start, no credit card required.
 - **[Clawdbot/Moltbot (clawd.bot)](https://clawd.bot/)** - A self-hosted AI agent that connects to messaging apps (e.g., Telegram/Discord) and can be extended with skills to automate personal workflows like notes, reminders, and task triage.
 - **[Figure AI](https://www.figure.ai/)** - (USA) A robotics company building general-purpose humanoid robots. Backed by major tech players like OpenAI and Microsoft, they are at the forefront of AI embodiment.
 - **[Cognition Labs](https://www.cognition-labs.com/)** - (USA) Creators of **Devin**, the first AI software engineer agent, designed to autonomously handle complex coding tasks from start to finish.
