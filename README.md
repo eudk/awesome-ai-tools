@@ -1088,6 +1088,7 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 ### Ecosystem & Extensions
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** – Lightweight autonomous agent framework  
 - **[ClawHub](https://github.com/openclaw/clawhub)** — Skill directory  
+- **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.
 - **[openclaw/skills](https://github.com/openclaw/skills)** — Archived skills  
 - **[openclaw/lobster](https://github.com/openclaw/lobster)** — Workflow shell / macro engine  
 
@@ -2002,4 +2003,3 @@ This section covers some of the most advanced software platforms for working wit
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
-
