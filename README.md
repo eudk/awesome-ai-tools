@@ -1445,6 +1445,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 38. **[TensorFlow Playground](https://playground.tensorflow.org/)**
 39. **[Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)**
 40. **[AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)**
+41. **[AIHumanLove](https://aihumanlove.com)** - Free AI tools directory with 1,500+ tools, 37 interactive AI experiments, a 175+ prompt library, and free courses for beginners. EN/ES/PT.
 
 ---
 
