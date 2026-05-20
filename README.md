@@ -1045,6 +1045,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [You.com](https://you.com/) - AI-powered search engine.
 - [Promo.com](https://promo.com/) - AI tool for video creation.
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
+- [Tinyposter](https://tinyposter.app) - Post to 11 social platforms (Instagram, X, Threads, TikTok, LinkedIn, YouTube, Facebook, Pinterest, Bluesky, Mastodon, Reddit) from one place. MCP server, CLI, and OpenAPI. 3-day free trial.
 - [Wave.video](https://wave.video/) - AI for video marketing.
 - [RoamAround.io](https://www.roamaround.io/) - AI for travel planning.
 - [Codeium](https://codeium.com/) - AI for coding assistance.
