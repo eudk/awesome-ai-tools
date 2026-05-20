@@ -1856,6 +1856,7 @@ A selection of platforms offering API integration for various AI applications an
 - [AI Code Completion by DeepCode](https://www.deepcode.ai/) - AI-powered code review tool that learns from your codebase.
 - [Replit's Ghostwriter](https://replit.com/ghostwriter) - AI coding assistant that helps you write and debug code faster.
 - [Roundtable](https://github.com/askbudi/roundtable) - Zero-configuration MCP server that unifies multiple AI coding assistants (Claude Code, Cursor, Codex) through intelligent auto-discovery.
+- [Vibe Coding Profiler](https://bolokonon.vercel.app) - Profiles git history to show how a developer's coding rhythm, commit habits, and craftsmanship patterns carry over or change when working with AI coding agents.
 - [Facebook's Aroma](https://research.fb.com/publications/aroma-code-to-code-search-and-recommendation/) - AI-based code-to-code search and recommendation tool.
 - [Codex by OpenAI](https://openai.com/blog/openai-codex/) - AI system that translates natural language to code, powered by GPT-3.
 - [Deep TabNine Local](https://www.tabnine.com/local) - Deep learning model running locally for code completion.
@@ -2001,4 +2002,3 @@ This section covers some of the most advanced software platforms for working wit
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
-
