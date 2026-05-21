@@ -1182,6 +1182,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based AI utilities: AI background remover (runs locally), OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), domain name generator, and AI robots.txt generator. No signup, open source.
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
 - [IBM Watson](https://www.ibm.com/watson) - AI for Business Solutions
