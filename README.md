@@ -1088,7 +1088,6 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 ### Ecosystem & Extensions
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** – Lightweight autonomous agent framework  
 - **[ClawHub](https://github.com/openclaw/clawhub)** — Skill directory  
-- **[openclaw/skills](https://github.com/openclaw/skills)** — Archived skills  
 - **[openclaw/lobster](https://github.com/openclaw/lobster)** — Workflow shell / macro engine  
 
 - **[Product Manager Skills](https://github.com/Digidai/product-manager-skills)** — PM-focused skill pack  
