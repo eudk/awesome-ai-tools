@@ -1128,6 +1128,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** — Open-source Agent Operating System built in Rust (137K LOC, 14 crates, 1,767+ tests, zero Clippy warnings). Ships as a single ~32 MB binary with 7 autonomous "Hands" that run on schedules without you prompting them (Researcher, Lead, Browser, Clip, Collector, Predictor, Twitter), 40 channel adapters, 16 security layers (WASM sandbox, Merkle audit trail, taint tracking, SSRF protection, etc.), and a FangHub skill marketplace. Apache-2.0 / MIT. → [Website](https://openfang.sh/)
 
+- **[Sistava](https://sistava.com)** — AI agent orchestration platform for deploying and operating multiple AI agents that run your business across sales, marketing, finance, and customer support. Reachable through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks. Each agent ships with full computer use on your own OS (screen vision, file access, browser automation, terminal execution, app control). Built on knowledge-graph memory, durable execution, layered guardrails, and full observability. Closed-source / subscription.
+
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
 
 ### General-Purpose Agent Frameworks
