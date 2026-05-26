@@ -1172,6 +1172,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[superpowers](https://github.com/obra/superpowers)** — Tooling for giving AI systems richer capabilities and more flexible action patterns in practical workflows.
 - **[mempalace](https://github.com/milla-jovovich/mempalace)** — Memory-oriented tooling for AI agents, focused on persistent context, recall, and more structured long-term memory behavior.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** — Local-first RAG knowledge base compiler inspired by Karpathy's LLM Wiki. Three-layer raw/wiki/schema architecture, persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and a built-in MCP server. MIT.
+- **[II-Commons Skills](https://github.com/Intelligent-Internet/II-Commons-Skills)** — Open-source agent skill and npm CLI for daily-updated arXiv, PubMed/PMC, and US policy retrieval with deterministic freshness cutoffs. Apache-2.0.
 - **[skill-optimizer](https://github.com/fastxyz/skill-optimizer)** — CLI tool that benchmarks SKILL.md guidance docs against multiple LLMs, measures whether models call the right SDK/CLI/MCP tools with correct arguments, and runs an iterative optimizer to rewrite your docs until every configured model meets a score floor. MIT.
 - **[Agentprobe](https://agentprobe.fly.dev/)** — Free agentic commerce readiness scorer. Probes any seller URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog/quote/checkout APIs, payment rails, fulfillment proof) and returns a 0–110 score. Tells AI shopping agents which storefronts they can actually transact with. CERTIFIED badge available.
 - **[Hlido](https://hlido.eu)** — Proof-backed AI agent review desk. Each agent gets a Laddoo Score (0-100), claim-vs-evidence audit, C2PA-signed screenshots, public Hugging Face dataset, and a 9-tool MCP server (`hlido.eu/mcp`) for agent trust checks.
@@ -2000,4 +2001,3 @@ This section covers some of the most advanced software platforms for working wit
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
-
