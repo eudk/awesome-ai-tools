@@ -1130,6 +1130,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
 
+- **[Korra](https://korra.finance/groups)** *(Quantum Economics)* — Vertical AI markets analyst that lives inside a Telegram group as a persistent member with her own identity, not a slash-command bot. One brain serves multiple channels (web chat, Telegram groups + DMs, Twitter, email, Spaces voice). Multi-domain synthesis: macro releases, on-chain whale flows, news, social sentiment. Per-group runtime config via five personality dials + four-band social disposition (silent observer → ambient → active contributor → lead broadcast) + free-text style nudge. Information mode only. Built by Mati Greenspan, ex-eToro Senior Market Analyst (CySEC Advanced). Closed-source / free during early access. → [Web](https://korra.finance/groups) · [Telegram Bot](https://t.me/KorraAI_bot)
+
 ### General-Purpose Agent Frameworks
 
 - **[OpenManus](https://github.com/FoundationAgents/OpenManus)** — Open-source framework for building general AI agents, created by the MetaGPT team as a fully open alternative to the invite-only Manus platform. Supports multi-agent flows, browser, shell, code execution, and web search. Also see **[OpenManus-RL](https://github.com/FoundationAgents/OpenManus)** for RL-based agent fine-tuning (GRPO). MIT.
