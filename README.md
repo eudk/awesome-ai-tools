@@ -921,6 +921,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[AgentReady](https://agentready.site)** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable recommendations, industry benchmarks, and a free public API for AI agent compatibility scoring.
 - **[KeepRule](https://keeprule.com)** - AI-powered investment discipline platform that tracks principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis, psychological tests, and personalized investment coaching.
 - **[toprank](https://github.com/nowork-studio/toprank)** - Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Pulls real Google Search Console, PageSpeed Insights, and Google Ads API data, audits traffic and wasted ad spend, rewrites meta tags, generates JSON-LD schema markup, and ships the fixes directly to source or CMS (WordPress, Strapi, Contentful, Ghost).
+- **[MonkeyEatingMango](https://monkeyeatingmango.com)** - Free AI travel planner that turns 8 tap-based questions into a full day-by-day itinerary with daily budgets, a food guide, and Google Maps routes. No signup, free PDF/Excel export.
 
 ---
 
