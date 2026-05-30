@@ -1210,7 +1210,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Instafill.ai](https://instafill.ai) – AI PDF Form Filler
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
-- [SummaryTube.com](https://summarytube.com) – AI Youtube Video Summarizer
+- [SummaryTube.com](https://summarytube.com) – AI Youtube
+- [QuickCV](https://tyr1105.github.io/quickcv-ai/) – Free AI Resume Optimizer. Paste resume + job description, get optimized version with match score, ATS keywords, quantified achievements. [Open Source](https://github.com/tyr1105/quickcv-ai) Video Summarizer
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
