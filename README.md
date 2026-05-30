@@ -1201,6 +1201,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Monday.com](https://monday.com/) - Work Operating System
 - [RescueTime](https://www.rescuetime.com/) - Time Management
 - [Kitmul](https://kitmul.com) - 100+ Free AI-Powered Browser Tools (PDF, Image, Video, Text, Developer utilities). Privacy-first, no signup required.
+- [AI Toolbox](https://tyr1105.github.io/ai-toolbox/) - 6 free AI-powered productivity tools: email writer, PPT outline generator, video script generator, weekly report generator, Xiaohongshu copywriter, and AI tool hub. No login required, 100% free. Open source. ([Source Code](https://github.com/tyr1105/ai-toolbox))
+
 - [Todoist](https://todoist.com/) - Task Management
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
