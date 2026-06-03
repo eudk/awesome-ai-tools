@@ -1226,6 +1226,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Resumemind](https://resumemind.com) - An AI-powered resume builder and visual analyzer specifically tailored for software engineers.
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
 - [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
+- [FoundRole](https://www.foundrole.com/ai-search-mcp) - Open-source MCP server connecting AI assistants to live job listings; search jobs and track applications from chat. Free.
 
 
 ---
