@@ -1764,6 +1764,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 19. [PhotoDirector](https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html) - Creative editing with AI style effects.
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
 21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
+22. [Shotari](https://shotari.com) - Free online AI photo editor. Edit images with text prompts, 11 languages, supports GPT Image 2, Nano Banana, and Nano Banana Pro models. No signup needed for first generation.
 
 ---
 
