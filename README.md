@@ -85,7 +85,6 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 | [🤖 Other AI Agents](#other-ai-agents) | Collection of notable AI agent frameworks and autonomous systems beyond the major ecosystems. |
 | [🛠️ AI Agent Tools](#ai-agent-tools) | Supporting tools, libraries, and research resources for building and running AI agents. |
 | [🎓 Free Stuff for Students & Educators](#-free-stuff-for-students--educators)    | Free access to professional-grade tools, software, and cloud credits.         |
-| [🚀 New and Emerging AI Tools](#-new-and-emerging-ai-tools)                       | The latest AI tools gaining popularity and traction in the industry.          |
 | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)       | Cutting-edge robotics powered by AI.                                          |
 | [🤖 AI-Related Tools](#-ai-related-tools)                                         | Miscellaneous tools leveraging AI technology.                                 |
 | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | New AI tools and services for productivity and innovation.                    |
@@ -137,7 +136,6 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 This section covers the leading AI platforms and model ecosystems used globally, including both proprietary and open-weight systems. These platforms provide state-of-the-art capabilities across reasoning, coding, multimodal generation, and agent-based workflows.
 
 ---
-
 ### OpenAI
 
 <p>
@@ -149,35 +147,42 @@ This section covers the leading AI platforms and model ecosystems used globally,
 
 A leading AI company focused on advanced multimodal and agent-based systems. OpenAI develops ChatGPT and a widely used API platform for text, image, audio, and computer-use models.
 
-- **[ChatGPT](https://chat.openai.com/)** - The primary interface for interacting with OpenAI models, supporting chat, coding, data analysis, and agent workflows.
+- **[ChatGPT](https://chat.openai.com/)** - The primary interface for interacting with OpenAI models, supporting chat, coding, data analysis, research, and agent workflows.
 
 - **Flagship Models (Current)**:
-  - **GPT-5.5** – Latest flagship model, replacing GPT-5.4 as OpenAI’s most capable system.
-  - **GPT-5.4** – OpenAI’s most capable model for reasoning, coding, and complex tasks.
-  - **GPT-5.4 Pro** – Higher-performance variant for demanding workloads.
-  - **GPT-5.4 Mini / Nano** – Optimized for speed, cost-efficiency, and scale.
+  - **GPT-5.5** – Latest flagship model for advanced reasoning, coding, research, data analysis, and agentic workflows.
+  - **GPT-5.5 Thinking** – Reasoning-focused version available in ChatGPT for harder multi-step tasks.
+  - **GPT-5.5 Pro** – Higher-accuracy variant for demanding professional and research workloads.
+  - **GPT-5.4** – Previous flagship model, still relevant as part of the GPT-5.x model family.
+  - **GPT-5.4 Pro** – Previous high-performance variant for complex reasoning and professional work.
+  - **GPT-5.4 Mini / Nano** – Smaller variants optimized for speed, cost-efficiency, and scale.
 
 - **Model Direction**:
-  - GPT-5.4 consolidates reasoning, coding, and agent capabilities into a unified system.
-  - Earlier variants are being phased out or absorbed into the GPT-5.x family.
+  - GPT-5.5 builds on GPT-5.4 with stronger coding, reasoning, tool use, and agentic task performance.
+  - OpenAI continues consolidating reasoning, coding, multimodal, and agent capabilities into the GPT-5.x family.
+  - Earlier variants are gradually being replaced, absorbed, or positioned as smaller/faster options.
 
 - **Multimodal & Specialized Models**:
   - **gpt-image-1** – Current image generation model with strong editing and prompt adherence.
   - **gpt-realtime / gpt-audio** – Models for speech, transcription, and real-time interaction.
+  - **Computer use models** – Models designed for operating software interfaces and completing agentic computer tasks.
 
 - **API Platform**:
   - Supports **Responses API** and **Chat Completions API**
   - Key capabilities:
     - Tool / function calling
     - Structured outputs
-    - Agent workflows (computer use, automation)
-    - Long-context support (large token windows depending on model)
+    - Agent workflows
+    - Computer use and automation
+    - Long-context support, including very large context windows depending on model
 
 - **Pricing Tiers**:
   - **Free** – Limited ChatGPT usage
-  - **Plus (~$20/month)** – Higher limits and access to more capable models
-  - **Pro (~100-$200/month)** – Maximum access, higher limits, and priority performance
-  - **API** – Pay-as-you-go access across all model families
+  - **Plus ($20/month)** – Higher limits and access to more capable models
+  - **Pro ($100/200 month)** – Higher usage limits, access to the most capable models, and more advanced tools such as Deep Research and Codex
+  - **Business / Enterprise / Edu** – Team and organization plans with higher limits and admin controls
+  - **API** – Pay-as-you-go access across available model families
+
 ### OpenAI Codex
 
 <p>
@@ -191,28 +196,34 @@ OpenAI Codex is an agent-based coding system built on top of the latest GPT-5 mo
 - **[Codex](https://openai.com/codex)** - OpenAI’s platform for agentic coding workflows and automated software development tasks.
 
 - **Core Models**:
-  - **GPT-5 Codex** – Specialized coding model optimized for large codebases, debugging, and multi-step development workflows  
-  - **Codex variants (fast / low-latency)** – Optimized versions for interactive coding and rapid iteration  
+  - **GPT-5.3-Codex** – Advanced Codex-native agentic coding model for software engineering, terminal use, and broader computer-based workflows
+  - **GPT-5.2-Codex** – Coding-focused GPT-5.2 variant optimized for long-horizon development, refactoring, migrations, Windows workflows, and cybersecurity-related tasks
+  - **GPT-5-Codex** – Earlier GPT-5-based Codex model optimized for agentic coding tasks in Codex and similar environments
+  - **Codex variants (fast / low-latency)** – Optimized versions for interactive coding and rapid iteration
 
 - **Capabilities**:
-  - **Full codebase understanding** – Reads, edits, and navigates large repositories  
-  - **Autonomous development tasks** – Can implement features, refactor code, and manage workflows  
-  - **Testing & debugging** – Runs tests, identifies issues, and proposes fixes  
-  - **Tool & environment interaction** – Works with terminals, files, and developer tools  
-  - **Parallel execution** – Handles multiple coding tasks simultaneously  
+  - **Full codebase understanding** – Reads, edits, and navigates large repositories
+  - **Autonomous development tasks** – Can implement features, refactor code, and manage workflows
+  - **Testing & debugging** – Runs tests, identifies issues, and proposes fixes
+  - **Tool & environment interaction** – Works with terminals, files, and developer tools
+  - **Parallel execution** – Handles multiple coding tasks simultaneously
+  - **Code review** – Reviews changes and can identify bugs before deployment
 
 - **Agent Platform**:
-  - Runs tasks in **sandboxed environments** with access to project files  
-  - Supports long-running and multi-step workflows  
+  - Runs tasks in **sandboxed environments** with access to project files
+  - Supports long-running and multi-step workflows
   - Available via:
-    - ChatGPT (agent workflows)  
-    - CLI tools  
-    - Developer integrations  
+    - ChatGPT
+    - Codex CLI
+    - IDE integrations
+    - Codex web
+    - GitHub integrations
+    - Developer APIs / SDKs where supported
 
 - **Positioning**:
-  - A shift from “code assistant” → **autonomous software engineering agent**  
-  - Competes with tools like Claude Code and GitHub Copilot Agents  
-  - Increasingly integrated into the broader OpenAI ecosystem (ChatGPT + API)
+  - A shift from “code assistant” → **autonomous software engineering agent**
+  - Competes with tools like Claude Code and GitHub Copilot Agents
+  - Increasingly integrated into the broader OpenAI ecosystem through ChatGPT, Codex, and the API platform
 ---
 
 ### Google
@@ -228,18 +239,20 @@ Google is a powerhouse in AI research and infrastructure, building the Gemini fa
 - **[Google Gemini](https://gemini.google.com/)** - Google’s main conversational interface for interacting with its latest AI models.
 
 - **Flagship Models**:
-  - **Gemini 3** – Google’s current top model family for reasoning, planning, coding, and multimodal tasks.
-  - **Gemini 3.1 Pro** – Higher-end version for complex workflows, stronger reasoning, and demanding real-world tasks.
-  - **Gemini 3 Flash** – Faster, lighter model optimized for speed and everyday use.
+  - **Gemini 3.5 Flash** – Google’s current stable Gemini 3.5 model for agentic tasks, coding, reasoning, and fast multimodal workflows.
+  - **Gemini 3.1 Pro** – Higher-end Pro model for complex workflows, stronger reasoning, and demanding real-world tasks.
+  - **Gemini 3 Flash** – Fast frontier model optimized for speed, cost-efficiency, and everyday use.
+  - **Gemini 3.1 Flash-Lite** – Lightweight model optimized for high-volume and cost-sensitive use.
   - **Gemini 3.1 Flash Live** – Built for more natural real-time audio and live multimodal interaction.
 
 - **Creative Models**:
-  - **Veo 3 / 3.1** – Google’s current video generation models, with stronger control, better consistency, and native audio support.
-  - **Imagen 4** – Google’s latest image generation family, focused on higher quality, stronger prompt adherence, and fast / ultra variants.
-  - **Lyria 3 / Lyria 3 Pro** – Google’s latest generative music models for creating custom tracks and soundtracks.
+  - **Veo 3.1** – Google’s current video generation model family, with stronger control, better consistency, and native audio support.
+  - **Imagen 4 / Nano Banana Pro / Nano Banana 2** – Google’s current image generation and editing models, focused on quality, speed, prompt adherence, and higher-end visual creation.
+  - **Lyria 3 / Lyria 3 Pro / Lyria 3 Clip** – Google’s latest generative music models for creating custom tracks, loops, previews, and soundtracks.
 
 - **Open / Local Models**:
   - **Gemma 4** – Google’s newest open model family, built for advanced reasoning and agentic workflows, and designed to run well on consumer GPUs.
+  - **Gemma 4 12B** – Mid-sized multimodal Gemma model designed for local and laptop-friendly agentic workflows.
   - **Gemma 3 / 3n** – Earlier lightweight open models still relevant for efficient and local-first deployments.
   - **FunctionGemma / ShieldGemma / EmbeddingGemma** – Specialized open models for tool use, safety classification, and embeddings.
 
@@ -252,7 +265,6 @@ Google is a powerhouse in AI research and infrastructure, building the Gemini fa
 - **Developer Platform**:
   - **[Vertex AI](https://cloud.google.com/vertex-ai)** - Google Cloud’s enterprise AI platform for accessing Gemini, Imagen, Veo, Gemma, embeddings, and broader MLOps tooling.
   - **Google AI Studio** - Lightweight environment for quickly testing Gemini and other Google models.
-
 ---
 ## xAI Grok 
 [🔝 Back to Top](#top)
@@ -270,26 +282,42 @@ xAI develops the Grok family of models and multimodal systems, with a focus on r
 
 ### Models
 
-- **Grok 4.2 (latest API models)** — Current flagship generation  
+- **Grok 4.3** — Current flagship API model  
+  - Model name:
+    - `grok-4.3`
+  - Supports **text + image input**, configurable reasoning, function calling, structured outputs, and agentic tool use  
+  - Up to **1M token context**  
+  - Recommended default model for most API workloads  
+
+- **Grok 4.20 API variants** — Current specialized API model variants  
   - Includes:
-    - `grok-4.2-0309-reasoning`  
-    - `grok-4.2-0309-non-reasoning`  
-    - `grok-4.2-0309-multi-agent-0309`  
+    - `grok-4.20-0309-reasoning`  
+    - `grok-4.20-0309-non-reasoning`  
+    - `grok-4.20-multi-agent-0309`  
   - Supports **reasoning, non-reasoning, and multi-agent modes**  
-  - Up to **~2M token context**  
-  - Designed for coding, math, and complex workflows  
+  - Up to **1M token context**  
+  - Designed for coding, math, agents, and complex workflows  
 
-- **Grok 4 Heavy** — Advanced variant  
+- **Grok Build 0.1** — Coding model / agent system  
+  - Model name:
+    - `grok-build-0.1`
+  - Built for agentic coding workflows  
+  - Powers Grok Build CLI and developer workflows  
+  - Up to **256k token context**  
+
+- **Grok 4 Heavy** — Advanced consumer variant  
   - Uses **multi-agent parallel reasoning** for harder problems  
-  - Highest capability tier (via subscription tiers)  
+  - Highest capability tier in Grok subscription plans  
 
-- **Grok 4.1 Fast variants** — Optimized models  
+- **Grok 4.1 Fast variants** — Previous fast API generation  
   - `grok-4-1-fast-reasoning`  
   - `grok-4-1-fast-non-reasoning`  
-  - Designed for **low latency and cost-sensitive workloads**  
+  - Previously optimized for **low latency and cost-sensitive workloads**  
+  - Retired API slugs now redirect to Grok 4.3  
 
 - **Grok 3** — Previous generation  
   - Introduced DeepSearch, Think mode, and large-scale training  
+  - Retired API slug now redirects to Grok 4.3  
 
 - **Grok 1** — Open-weight release  
   - ~314B MoE base model  
@@ -301,43 +329,56 @@ xAI develops the Grok family of models and multimodal systems, with a focus on r
 
 - **Grok Imagine** — Image + video generation system  
   - Models:
-    - `grok-imagine-image` ($0.02 / image)  
-    - `grok-imagine-image-pro` ($0.07 / image)  
-    - `grok-imagine-video` ($0.05 / second)  
+    - `grok-imagine-image`  
+    - `grok-imagine-image-quality`  
+    - `grok-imagine-video`  
+    - `grok-imagine-video-1.5-preview`  
   - Supports generation + editing workflows  
   - Available via API and Grok interface  
 
-- **Aurora** — Internal multimodal model  
-  - Powers image + video generation  
-  - Focus on photorealism + multimodal input  
+- **Aurora** — Earlier image-generation model  
+  - Autoregressive image model previously used for Grok image generation  
+  - Focused on photorealism and multimodal input  
+  - Superseded by Grok Imagine for current image / video API workflows  
 
 ---
 
 ### Agent & Platform Capabilities
 
-- **Real-time data integration** — Native access to live web + X data  
-- **Agent workflows** — Tool use, browsing, multi-step execution  
-- **Multi-agent systems** — Exposed via `multi-agent` model variants  
+- **Real-time data integration** — Native access to live web + X data through search tools  
+- **Agent workflows** — Tool use, browsing, code execution, and multi-step execution  
+- **Multi-agent systems** — Exposed through Grok Heavy and `multi-agent` model variants  
+- **Grok Build CLI** — Terminal-based coding agent for software engineering workflows  
 - **Tooling**:
   - Web search  
+  - X search  
   - Code execution  
   - Retrieval / document processing  
+  - Remote MCP tools  
 
 ---
 
 ### API Pricing (USD, official)
 
-- **Grok 4.2 (all variants)**:
-  - **$2.00 / 1M input tokens**  
-  - **$6.00 / 1M output tokens**  
+- **Grok 4.3 / Grok 4.20 variants**:
+  - **$1.25 / 1M input tokens**  
+  - **$0.20 / 1M cached input tokens**  
+  - **$2.50 / 1M output tokens**  
 
-- **Grok 4.1 Fast**:
-  - **$0.20 / 1M input**  
-  - **$0.50 / 1M output**  
+- **Grok Build 0.1**:
+  - **$1.00 / 1M input tokens**  
+  - **$0.20 / 1M cached input tokens**  
+  - **$2.00 / 1M output tokens**  
+
+- **Grok Imagine**:
+  - Image generation from **$0.02 / image**  
+  - Higher-quality image generation up to **$0.07 / image**  
+  - Video generation from **$0.05 / second** depending on model and resolution  
 
 - **Voice / Audio**:
-  - Voice Agent API — ~$0.05 / min (~$3/hour)  
-  - Text-to-Speech — ~$4.20 / 1M characters  
+  - Voice Agent API — **$0.05 / min** (~$3/hour)  
+  - Text-to-Speech — **$15.00 / 1M characters**  
+  - Speech-to-Text — from **$0.10 / hour**  
 
 ---
 
@@ -346,22 +387,25 @@ xAI develops the Grok family of models and multimodal systems, with a focus on r
 - **Free tier**
   - Limited queries and features  
 
+- **SuperGrok Lite**
+  - Lower-cost standalone Grok plan  
+
 - **SuperGrok (~$30/month)**
   - Full Grok access  
   - Higher limits and priority usage  
 
-- **SuperGrok Heavy (~$300/month)**
+- **SuperGrok Heavy**
   - Access to **Grok Heavy (multi-agent)**  
   - Maximum limits and advanced features  
 
 - **X Premium (~$8/month)**
-  - Limited Grok access  
+  - Enhanced Grok access bundled with X features  
 
 - **X Premium+ (~$40/month)**
-  - Full Grok access bundled with X features  
+  - Higher Grok access bundled with X features  
 
 - **Grok Business**
-  - Team-based access (seat pricing)  
+  - Team-based access and admin controls  
 
 - **Enterprise**
   - Custom pricing / deployment  
@@ -382,35 +426,35 @@ Anthropic focuses on building reliable, interpretable, and safety-aligned AI sys
 - **[Claude.ai](https://claude.ai/)** - The main interface for interacting with Claude models, supporting chat, documents, coding, and agent-style workflows.
 
 - **Current Models (Primary)**:
-  - **Claude Opus 4.7** – Anthropic’s most capable public model, designed for advanced coding, agent workflows, and long-running task execution.
-  - **Claude Opus 4.6** – Most capable model for deep reasoning, coding, and long-running agent workflows  
-  - **Claude Sonnet 4.6** – Default model balancing performance, speed, and cost  
-  - **Claude Haiku 4.5** – Fastest model optimized for quick responses and high-throughput tasks  
+  - **Claude Opus 4.8** – Anthropic’s most capable public model, designed for complex reasoning, advanced coding, agent workflows, and long-running task execution.
+  - **Claude Sonnet 4.6** – Default model balancing performance, speed, intelligence, and cost.
+  - **Claude Haiku 4.5** – Fastest model optimized for quick responses and high-throughput tasks.
 
 - **Still Available / Selectable Models**:
-  - **Claude Opus 4.5** – Previous flagship, still available for compatibility and specific workloads  
-  - **Claude Sonnet 4.5** – Earlier balanced model, widely used in production systems  
-  - **Claude Opus 3** – Legacy high-capability model, still accessible in some environments  
+  - **Claude Opus 4.7** – Previous flagship, still available for compatibility and specific workloads.
+  - **Claude Opus 4.6** – Earlier Opus model for deep reasoning, coding, and long-running agent workflows.
+  - **Claude Opus 4.5** – Previous flagship, still available for compatibility and specific workloads.
+  - **Claude Sonnet 4.5** – Earlier balanced model, widely used in production systems.
 
 - **Capabilities**:
-  - **Up to ~1M token context window** – Enables processing of very large documents, codebases, and multi-step workflows  
-  - **Extended thinking mode** – Optional deeper reasoning for complex tasks  
-  - **Agent workflows** – Designed for multi-step execution, tool use, and long-running processes  
+  - **Up to ~1M token context window** – Enables processing of very large documents, codebases, and multi-step workflows.
+  - **Extended / adaptive thinking** – Optional deeper reasoning and effort control for complex tasks.
+  - **Agent workflows** – Designed for multi-step execution, tool use, and long-running processes.
 
 - **Model Structure**:
-  - **Opus** – Maximum capability and reasoning depth  
-  - **Sonnet** – Balanced performance and efficiency  
-  - **Haiku** – Speed and low latency  
+  - **Opus** – Maximum capability and reasoning depth.
+  - **Sonnet** – Balanced performance and efficiency.
+  - **Haiku** – Speed and low latency.
 
-- **Next-Generation (Restricted)**:
-  - **Claude Mythos** – Internal / restricted model tier beyond Opus  
-  - Not publicly released due to safety concerns  
-  - Reported to significantly exceed current models in reasoning, coding, and vulnerability discovery  
+- **Next-Generation / Restricted**:
+  - **Claude Mythos Preview** – Invitation-only research preview model for defensive cybersecurity workflows.
+  - Part of Anthropic’s Project Glasswing.
+  - No public self-serve access.
 
 - **Key Differentiators**:
-  - **Constitutional AI** – Safety-first training approach  
-  - **Industry-leading long context** – Strong performance on large inputs  
-  - **Enterprise reliability** – Consistent, structured outputs for real-world workflows  
+  - **Constitutional AI** – Safety-first training approach.
+  - **Industry-leading long context** – Strong performance on large inputs.
+  - **Enterprise reliability** – Consistent, structured outputs for real-world workflows.
 
 ### Claude Code
 
@@ -422,44 +466,44 @@ Anthropic focuses on building reliable, interpretable, and safety-aligned AI sys
 
 Claude Code is Anthropic’s agentic coding system designed to handle full software engineering workflows. Unlike traditional code assistants, it operates directly inside your development environment and can execute multi-step tasks autonomously.
 
-- **[Claude Code](https://claude.com/product/claude-code)** – AI coding agent that works in your terminal, IDE, or cloud environment.
+- **[Claude Code](https://claude.com/product/claude-code)** – AI coding agent that works in your terminal, IDE, desktop app, or browser.
 
 - **Core Models**:
-  - Built on **Claude Opus 4.6**, **Sonnet 4.6**, and **Haiku 4.5** depending on task complexity and performance needs 
+  - Uses Claude model-family aliases such as **Opus**, **Sonnet**, and **Haiku**, resolving to the latest available models depending on configuration and task needs.
 
 - **Capabilities**:
-  - **Full codebase understanding** – Reads and maps entire repositories automatically
-  - **Multi-file editing** – Makes coordinated changes across large codebases  
-  - **Autonomous workflows** – Can implement features, fix bugs, and handle tasks end-to-end
-  - **Command execution** – Runs terminal commands, scripts, and developer tools 
-  - **Tool integration** – Works with Git, CI/CD, databases, and external services 
-  - **Parallel agents** – Supports multi-agent workflows (e.g. automated code review systems)
+  - **Full codebase understanding** – Reads and maps entire repositories automatically.
+  - **Multi-file editing** – Makes coordinated changes across large codebases.
+  - **Autonomous workflows** – Can implement features, fix bugs, and handle tasks end-to-end.
+  - **Command execution** – Runs terminal commands, scripts, and developer tools.
+  - **Tool integration** – Works with Git, CI/CD, databases, and external services.
+  - **Parallel agents** – Supports multi-agent workflows and background agents.
 
 - **Interfaces & Usage**:
-  - Terminal (primary interface)  
-  - VS Code / JetBrains integrations  
-  - Web interface  
-  - Slack / team workflows 
+  - Terminal (primary interface)
+  - VS Code / JetBrains integrations
+  - Desktop app
+  - Web interface
+  - Slack / team workflows
 
 - **Agent System**:
-  - Uses **tool-based execution** (files, shell, APIs, web)  
-  - Supports **long-running tasks and multi-step reasoning**  
-  - Can operate with **memory/context across workflows**  
+  - Uses **tool-based execution** (files, shell, APIs, web).
+  - Supports **long-running tasks and multi-step reasoning**.
+  - Can operate with **memory/context across workflows**.
 
 - **Platform Features**:
-  - **Code Review (multi-agent)** – Automatically reviews pull requests using parallel agents  
-  - **GitHub / GitLab integration** – Reads issues, writes code, and opens PRs  
-  - **Configurable agent behavior** – Supports custom “skills” and workflows  
+  - **Code Review / CI workflows** – Automates pull request review and issue triage through GitHub Actions or GitLab CI/CD.
+  - **GitHub / GitLab integration** – Reads issues, writes code, and opens PRs.
+  - **Configurable agent behavior** – Supports custom instructions, skills, hooks, and workflows.
 
 - **Positioning**:
-  - A shift from “code assistant” → **autonomous software engineering agent**  
+  - A shift from “code assistant” → **autonomous software engineering agent**.
   - Competes directly with:
-    - OpenAI Codex  
-    - Cursor (agent mode)  
-    - GitHub Copilot Agents  
-  - Particularly strong in **long-context coding and large codebase understanding**
+    - OpenAI Codex
+    - Cursor (agent mode)
+    - GitHub Copilot Agents
+  - Particularly strong in **long-context coding and large codebase understanding**.
 ---
-
 ### Meta AI
 [🔝 Back to Top](#top)
 
@@ -474,16 +518,17 @@ Meta is a leading force in open-weight AI, focused on making powerful foundation
 - **[Meta Llama](https://ai.meta.com/llama/)** - Official hub for Llama models, research, and releases.
 
 - **Flagship Models (Current)**:
-  - **Llama 3.1** – Current production-grade model family with strong performance in reasoning, coding, and multilingual tasks  
-  - **Llama 3.1 405B** – Meta’s largest open-weight model, competitive with top proprietary models  
-  - **Llama 3.1 70B / 8B** – Smaller variants optimized for performance vs efficiency trade-offs  
+  - **Llama 4 Scout** – Current open-weight multimodal model optimized for efficiency, long context, and broad deployment  
+  - **Llama 4 Maverick** – Current higher-capability open-weight multimodal model for reasoning, coding, and assistant-style use  
+  - **Llama 4 Behemoth** – Previewed large teacher model used to improve the Llama 4 family  
+  - **Llama 3.3 70B** – Strong previous-generation text model offering performance close to larger Llama 3.1 models at lower serving cost  
 
 - **Multimodal Models**:
-  - **Llama 3.2 Vision** – Adds image understanding capabilities on top of the Llama architecture  
-  - *(Meta is actively expanding multimodal support, but text models remain the primary focus)*  
+  - **Llama 4 Scout / Maverick** – Native multimodal models supporting text and image understanding  
+  - **Llama 3.2 Vision** – Earlier vision-capable Llama model family, still relevant for image understanding workflows  
 
 - **Specialized Models**:
-  - **Code Llama (legacy)** – Earlier coding-focused models, still used but largely superseded by newer Llama 3.x models  
+  - **Code Llama (legacy)** – Earlier coding-focused models, still used but largely superseded by newer Llama 3.x / 4.x models  
   - **Instruct / Chat variants** – Fine-tuned versions for conversational and task-oriented use  
 
 - **Open-Weight Strategy**:
@@ -502,7 +547,6 @@ Meta is a leading force in open-weight AI, focused on making powerful foundation
 - **Meta AI Assistant**:
   - **[Meta AI](https://www.meta.ai/)** – Integrated assistant across WhatsApp, Instagram, Messenger, and web  
   - Powered by latest Llama models and Meta’s internal systems  
-
 ---
 
 ### Mistral AI
@@ -519,31 +563,34 @@ Based in Paris 🇪🇺, Mistral AI is a leading European AI company focused on 
 - **[Le Chat](https://chat.mistral.ai/)** - Mistral’s official conversational interface.
 
 - **Flagship Models (Current)**:
-  - **Mistral Large 3** – State-of-the-art open-weight flagship model with multimodal capabilities, mixture-of-experts architecture, and strong reasoning performance  
-  - **Mistral Medium 3.x** – Frontier-class model optimized for enterprise use with strong performance at lower cost  
-  - **Mistral Small 3.x / 4** – Efficient general-purpose models combining reasoning, instruction-following, and coding  
+  - **Mistral Medium 3.5** – Current flagship model for instruction-following, reasoning, coding, long-horizon agents, and enterprise workflows  
+  - **Mistral Large 3** – Open-weight flagship model with multimodal capabilities, mixture-of-experts architecture, and strong multilingual performance  
+  - **Mistral Small 4** – Efficient hybrid model combining instruction-following, reasoning, coding, and multimodal capabilities  
 
 - **Open / Edge Models (Ministral)**:
   - **Ministral 3 (3B / 8B / 14B)** – Lightweight multimodal models designed for local deployment and edge devices  
-  - Strong focus on running efficiently on consumer hardware and embedded systems  
+  - Strong focus on running efficiently on consumer hardware, embedded systems, and self-hosted deployments  
 
 - **Reasoning Models (Magistral)**:
-  - **Magistral Medium / Small** – Dedicated reasoning models designed for chain-of-thought and structured problem solving  
+  - **Magistral Medium / Small** – Dedicated reasoning models designed for structured problem solving and deeper reasoning workflows  
 
 - **Coding Models**:
   - **Codestral** – Core code generation and completion model  
-  - **Devstral 2** – Agentic coding model designed for multi-step software engineering tasks  
+  - **Codestral 25.08** – Updated coding model for enterprise code completion and developer workflows  
+  - **Devstral 2** – Frontier agentic coding model designed for multi-step software engineering tasks  
 
 - **Audio & Multimodal**:
-  - **Voxtral** – Speech understanding and transcription models (including realtime variants)  
-  - **OCR models** – Document understanding and structured extraction  
+  - **Voxtral** – Speech understanding and transcription models  
+  - **Voxtral TTS** – Text-to-speech model with multilingual support and voice generation capabilities  
+  - **OCR 3** – Document understanding, OCR, and structured extraction model  
 
 - **Older / Still Used Models**:
   - **Mixtral (8x7B / 8x22B)** – Earlier MoE models, still widely used but no longer flagship  
   - **Mistral 7B** – Legacy lightweight model, now mostly replaced by newer small models  
 
 - **Platform & Ecosystem**:
-  - **La Plateforme (API)** – Full developer platform for building agents and applications  
+  - **Mistral AI Studio / API** – Developer platform for building agents, applications, and model-based workflows  
+  - **Mistral Vibe** – Agentic workspace for long-horizon productivity and coding workflows  
   - Strong support for:
     - Hugging Face  
     - Self-hosted inference (vLLM, TGI, Ollama)  
@@ -552,8 +599,9 @@ Based in Paris 🇪🇺, Mistral AI is a leading European AI company focused on 
 - **Key Strengths**:
   - **Efficiency-first engineering** – High performance per compute cost  
   - **Open-weight leadership in Europe** – Major alternative to US/China AI providers  
-  - **Full-stack expansion** – Now covers text, code, audio, vision, and agents  
+  - **Full-stack expansion** – Now covers text, code, audio, vision, documents, and agents  
 ---
+
 ### Perplexity
 
 <p>
@@ -569,7 +617,7 @@ Perplexity is an AI-based search and research platform that combines large langu
 - **Models (Sonar family)**:
   - **Sonar** – Default model for search-based queries
   - **Sonar Pro** – Higher-depth retrieval and synthesis
-  - **Sonar Reasoning** – Optimized for multi-step reasoning tasks
+  - **Sonar Reasoning Pro** – Optimized for multi-step reasoning tasks
   - **Sonar Deep Research** – Designed for longer, multi-source analysis and report generation
   - And many more from other providers integrated in their system
 
@@ -581,22 +629,24 @@ Perplexity is an AI-based search and research platform that combines large langu
   - Routing across multiple underlying models  
 
 - **Agent / Computer features**:
+  - **Comet** – AI browser with assistant features for browsing, summarizing, email, shopping, and web tasks  
+  - **Computer** – Agentic assistant for longer workflows, browser automation, background tasks, and connected apps  
   - Supports tool usage and multi-step workflows  
-  - “Computer” / agent systems can run longer tasks, interact with web tools, and execute research loops  
   - Includes logging, control, and interruption mechanisms  
 
 - **API / Platform**:
-  - Sonar API for web-grounded responses  
-  - OpenAI-compatible endpoints  
+  - **Sonar API** for web-grounded responses  
+  - **Agent API** for model routing, tools, structured outputs, and OpenAI-compatible workflows  
+  - **Search API** for ranked web search results  
+  - **Embeddings API** for text embeddings  
   - Supports streaming, structured outputs, and tool usage  
 
 - **Access**:
   - Free tier with limited usage  
   - Pro tier (~$20/month) with higher limits and advanced models  
-  - Higher tiers for extended usage and advanced features  
-
+  - Max tier for heavier usage, advanced agent features, and early access  
+  - Enterprise tiers for teams, admin controls, security, and higher limits  
 ---
-
 ## 🇨🇳 Leading Chinese AI Models
 [🔝 Back to Top](#top)
 
@@ -616,25 +666,31 @@ Developed by Alibaba Cloud, Qwen spans consumer chat, commercial APIs, open-weig
 
 - **[Qwen Chat](https://chat.qwenlm.ai/)** – Main interface for interacting with Qwen models.
 - **Commercial / API models**:
-  - **[qwen-max](https://www.alibabacloud.com/help/en/model-studio/model-pricing)** – High-end general model
-  - **[qwen3-max](https://www.alibabacloud.com/help/en/model-studio/model-pricing)** – Newer reasoning-capable model with thinking and non-thinking modes
+  - **[qwen3.6-max-preview](https://www.alibabacloud.com/help/en/model-studio/models)** – Highest-end Qwen model for reasoning-heavy and complex agent workloads
+  - **[qwen3.6-plus](https://www.alibabacloud.com/help/en/model-studio/models)** – Current recommended flagship-style model with 1M context, tool use, coding, and multimodal support
+  - **[qwen3.6-flash](https://www.alibabacloud.com/help/en/model-studio/models)** – Lower-cost model with near-flagship capabilities and 1M context
+  - **[qwen3.5-plus](https://www.alibabacloud.com/help/en/model-studio/model-pricing)** – Earlier high-capability multimodal model, still available
   - **[qwen-plus](https://www.alibabacloud.com/help/en/model-studio/model-pricing)** – Balanced production model
   - **[qwen-flash](https://www.alibabacloud.com/help/en/model-studio/model-pricing)** / **[qwen3.5-flash](https://www.alibabacloud.com/help/en/model-studio/model-pricing)** – Lower-cost / faster models
 - **Open-weight models**:
   - **[Qwen3](https://github.com/QwenLM/Qwen3)**
-  - **[Qwen3.5](https://github.com/QwenLM/Qwen3.5)**
   - **[Qwen2.5](https://qwenlm.github.io/blog/qwen2.5/)**
 - **Specialized models**:
   - **[Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)** – Coding-focused family
   - **[Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)** – Vision-language models
   - **[Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni)** – Unified multimodal family
+  - **[Qwen3.5-Omni](https://www.alibabacloud.com/help/en/model-studio/model-pricing)** – Newer multimodal / realtime model line, with preview models temporarily free for model invocation
   - **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** – Speech / voice generation
 - **API Pricing (USD, official)**:
-  - **qwen-max** – **$1.60 / 1M input**, **$6.40 / 1M output**
-  - **qwen3-max** – tiered by input size; in Alibaba Cloud’s Chinese Mainland pricing it starts at **$0.359 / 1M input** and **$1.434 / 1M output** for the first 32K tokens, then rises for larger requests
-  - **qwen-plus** – in EU / Hong Kong deployment it starts at **$0.40 / 1M input**, **$1.20 / 1M thinking output**, **$4.00 / 1M non-thinking output**
-  - **qwen-flash** – **$0.05 / 1M input**, **$0.40 / 1M output** up to 256K input, then **$0.25 / 1M input**, **$2.00 / 1M output** above that
-  - **qwen3.5-flash** – starts at **$0.029 / 1M input**, **$0.287 / 1M output** for the first 128K
+  - **qwen3.6-max-preview** – tiered pricing; starts around **$1.20 / 1M input**, **$6.00 / 1M output** for smaller requests
+  - **qwen3.5-plus** – global pricing starts at **$0.115 / 1M input**, **$0.688 / 1M output**
+  - **qwen-plus** – EU / Hong Kong deployment starts at **$0.40 / 1M input**, **$1.20 / 1M thinking output**, **$4.00 / 1M non-thinking output**
+  - **qwen3.5-flash** – starts at **$0.029 / 1M input**, **$0.287 / 1M output** for requests up to 128K tokens
+  - **qwen-flash** – global pricing starts at **$0.05 / 1M input**, **$0.40 / 1M output** up to 256K input
+  - **qwen3.5-omni-plus / flash** – preview model invocation is temporarily free, but tool calling may still incur fees
+- **Plans / subscriptions**:
+  - **Model Studio Coding Plan Pro** – **$50/month**, includes access to selected coding / agent models including Qwen, Kimi, GLM, and MiniMax models
+  - **Qwen Code OAuth** – Qwen documentation states users can get **1,000 free calls per day** to Qwen3.6-Plus through Qwen Code OAuth
 
 ---
 
@@ -646,24 +702,33 @@ Developed by Alibaba Cloud, Qwen spans consumer chat, commercial APIs, open-weig
   </a>
 </p>
 
-DeepSeek focuses on low-cost reasoning and strong developer adoption, with a simple public API surface and major open-weight releases.
+DeepSeek focuses on very low-cost reasoning and strong developer adoption, with a simple public API surface and major open-weight releases.
 
 - **[DeepSeek Platform](https://platform.deepseek.com/)** – API and playground
 - **Core API models**:
-  - **[deepseek-chat](https://api-docs.deepseek.com/quick_start/pricing)** – currently mapped to **DeepSeek-V3.2** non-thinking mode
-  - **[deepseek-reasoner](https://api-docs.deepseek.com/quick_start/pricing)** – currently mapped to **DeepSeek-V3.2** thinking mode
+  - **[deepseek-v4-flash](https://api-docs.deepseek.com/quick_start/pricing)** – cheaper V4 model, supports thinking and non-thinking modes
+  - **[deepseek-v4-pro](https://api-docs.deepseek.com/quick_start/pricing)** – stronger V4 model, now priced much lower after the V4-Pro price cut
+  - **deepseek-chat** – legacy alias currently mapped to **DeepSeek-V4-Flash non-thinking mode**
+  - **deepseek-reasoner** – legacy alias currently mapped to **DeepSeek-V4-Flash thinking mode**
 - **Open / research models**:
   - **[DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)**
   - **[DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)**
   - **[DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)**
   - **[Janus / Janus-Pro](https://github.com/deepseek-ai/Janus)**
 - **API Pricing (USD, official)**:
-  - **Input (cache hit)** – **$0.028 / 1M tokens**
-  - **Input (cache miss)** – **$0.28 / 1M tokens**
-  - **Output** – **$0.42 / 1M tokens**
+  - **deepseek-v4-flash**:
+    - **Input cache hit** – **$0.0028 / 1M tokens**
+    - **Input cache miss** – **$0.14 / 1M tokens**
+    - **Output** – **$0.28 / 1M tokens**
+  - **deepseek-v4-pro**:
+    - **Input cache hit** – **$0.003625 / 1M tokens**
+    - **Input cache miss** – **$0.435 / 1M tokens**
+    - **Output** – **$0.87 / 1M tokens**
+  - **deepseek-v4-pro pricing now reflects the major 75% price reduction**
 - **Capabilities**:
-  - **128K context** on the public API endpoints
-  - Thinking mode, tool calls, JSON output, and OpenAI-compatible API usage
+  - **1M context** on current public API endpoints
+  - Up to **384K max output**
+  - Thinking mode, tool calls, JSON output, prefix completion, FIM completion, context caching, and OpenAI / Anthropic-compatible API usage
 - **Plans / subscriptions**:
   - **No subscription tiers**
   - **No tiered pricing plans**
@@ -671,6 +736,7 @@ DeepSeek focuses on low-cost reasoning and strong developer adoption, with a sim
 - **Positioning**:
   - One of the cheapest serious APIs on the market
   - Especially attractive for reasoning, coding, and cost-sensitive agent workflows
+  - Current V4 pricing is aggressive enough that DeepSeek is now one of the main pressure points in global API pricing
 
 ---
 
@@ -687,53 +753,143 @@ Kimi (Moonshot AI) focuses on long-context work, coding, multimodal input, and a
 - **[Kimi](https://www.kimi.com/)** – Main consumer interface
 - **[Kimi API Platform](https://platform.kimi.ai/)** – Developer platform
 - **Current models**:
-  - **[kimi-k2.5](https://platform.kimi.ai/docs/pricing/chat-k25)** – flagship multimodal model
-  - **[kimi-k2-0905-preview](https://platform.kimi.ai/docs/pricing/chat-k2)** – latest K2 preview
-  - **[kimi-k2-thinking](https://platform.kimi.ai/docs/pricing/chat-k2)** – reasoning / thinking variant
+  - **[kimi-k2.6](https://platform.kimi.ai/docs/pricing/chat-k26)** – latest Kimi model with stronger long-context coding and agent stability
+  - **[kimi-k2.5](https://platform.kimi.ai/docs/pricing/chat-k25)** – flagship multimodal model with vision, thinking / non-thinking modes, and agent support
   - **[moonshot-v1](https://platform.kimi.ai/docs/pricing/chat-v1)** – older general-purpose family
+- **Older / legacy models**:
+  - **kimi-k2-0905-preview**
+  - **kimi-k2-turbo-preview**
+  - **kimi-k2-thinking**
+  - These are now less central than K2.5 / K2.6 for current usage
 - **API Pricing (USD, official)**:
+  - **kimi-k2.6** – **$0.16 / 1M input (cache hit)**, **$0.95 / 1M input (cache miss)**, **$4.00 / 1M output**
   - **kimi-k2.5** – **$0.10 / 1M input (cache hit)**, **$0.60 / 1M input (cache miss)**, **$3.00 / 1M output**
-  - **kimi-k2-0905-preview** – **$0.15 / 1M input (cache hit)**, **$0.60 / 1M input (cache miss)**, **$2.50 / 1M output**
-  - **kimi-k2-turbo-preview** – **$0.15 / 1M input (cache hit)**, **$1.15 / 1M input (cache miss)**, **$8.00 / 1M output**
-  - **kimi-k2-thinking** – **$0.15 / 1M input (cache hit)**, **$0.60 / 1M input (cache miss)**, **$2.50 / 1M output**
   - **moonshot-v1-8k** – **$0.20 / 1M input**, **$2.00 / 1M output**
   - **moonshot-v1-32k** – **$1.00 / 1M input**, **$3.00 / 1M output**
   - **moonshot-v1-128k** – **$2.00 / 1M input**, **$5.00 / 1M output**
   - **[Web search tool](https://platform.kimi.ai/docs/pricing/tools)** – **$0.005 per successful tool call**
+  - **Batch API** – cheaper batch pricing available for K2.5 / K2.6
 - **Capabilities**:
-  - **262,144-token context** on K2.5 and newer K2 variants
-  - Tool calls, JSON mode, internet search, and agent-style workflows
+  - **256K context** on K2.5 / K2.6
+  - Tool calls, JSON mode, automatic context caching, internet search, multimodal input, and agent-style workflows
 - **Plans / subscriptions**:
-  - **[Kimi Membership](https://www.kimi.com/membership/pricing)** – official paid membership page
-  - A public Kimi promo/rules page currently shows **Moderato Membership at $19/month**, billed monthly, with API usage excluded and benefits including deep research, agent runs, and weekly Kimi Code quota
-  - **[Kimi Code](https://www.kimi.com/code)** is a membership benefit; its docs state quota is included with membership and no separate fee is charged
+  - **[Kimi Membership](https://www.kimi.com/membership/pricing)** – official paid membership page with multiple tiers
+  - **[Kimi Code](https://www.kimi.com/code)** is a membership benefit; its docs state quota is shared with Kimi membership
   - **[Kimi Business](https://platform.kimi.ai/docs/pricing/faq)** exists for enterprise users via contact sales
   - **API access** is recharge-based; **minimum recharge is $1**
+  - When cumulative recharge reaches **$5**, Kimi currently grants a **$5 voucher**
 - **Positioning**:
   - Strong for long-context work, coding, multimodal tasks, and agent workflows
   - More productized than many rival model providers
+  - K2.6 makes Kimi more relevant again for coding and long-running agent workflows
 
 ---
 
-### GLM (ChatGLM / Zhipu)
+### GLM / Z.AI / ChatGLM
 
 <p>
   <a href="https://chatglm.cn/" target="_blank">
   </a>
 </p>
 
-GLM is Zhipu’s model family, aimed at reasoning, coding, agents, and enterprise deployments.
+GLM is Zhipu / Z.AI’s model family, aimed at reasoning, coding, agents, and enterprise deployments.
 
 - **[ChatGLM](https://chatglm.cn/)** – Main consumer interface
-- **[BigModel](https://bigmodel.cn/)** – API / platform
+- **[Z.AI](https://z.ai/)** – International-facing GLM assistant and developer ecosystem
+- **[BigModel](https://bigmodel.cn/)** – China API / platform
+- **[Z.AI Developer Platform](https://docs.z.ai/)** – International API documentation
 - **Current models**:
-  - **[GLM-5.1](https://bigmodel.cn/)** – current flagship branding
-  - **[GLM-5](https://bigmodel.cn/pricing)** – flagship API model
-  - **[GLM-5-Turbo](https://bigmodel.cn/pricing)** – cheaper API variant
-- **API Pricing (official pricing page, CNY; approx USD at ~¥6.83 per $1)**:
-  - **GLM-5** – **¥4 / 1M input**, **¥18 / 1M output** (about **$0.59 in / $2.64 out**)
-  - **GLM-5-Turbo** – **¥5 / 1M input**, **¥22 / 1M output** (about **$0.73 in / $3.22 out**)
+  - **[GLM-5.1](https://github.com/zai-org/GLM-5)** – current flagship model for agentic engineering and stronger coding workflows
+  - **[GLM-5](https://github.com/zai-org/GLM-5)** – open-weight flagship foundation model for long-horizon agentic tasks
+  - **GLM-5-Turbo** – faster commercial API variant
+  - **GLM-5V-Turbo** – vision-capable Turbo variant
+  - **GLM-4.7 / GLM-4.7-FlashX** – cheaper previous-generation production models
+  - **GLM-4.7-Flash / GLM-4.5-Flash** – free API models on Z.AI’s pricing page
+- **API Pricing (USD, official Z.AI pricing)**:
+  - **GLM-5.1** – **$1.40 / 1M input**, **$0.26 / 1M cached input**, **$4.40 / 1M output**
+  - **GLM-5** – **$1.00 / 1M input**, **$0.20 / 1M cached input**, **$3.20 / 1M output**
+  - **GLM-5-Turbo** – **$1.20 / 1M input**, **$0.24 / 1M cached input**, **$4.00 / 1M output**
+  - **GLM-4.7** – **$0.60 / 1M input**, **$0.11 / 1M cached input**, **$2.20 / 1M output**
+  - **GLM-4.7-FlashX** – **$0.07 / 1M input**, **$0.01 / 1M cached input**, **$0.40 / 1M output**
+  - **GLM-4.7-Flash** – **Free**
+  - **GLM-4.5-Flash** – **Free**
+- **API Pricing (official BigModel China pricing, CNY; approx USD varies by exchange rate)**:
+  - **GLM-5.1** – starts at **¥6 / 1M input**, **¥24 / 1M output**
+  - **GLM-5** – starts at **¥4 / 1M input**, **¥18 / 1M output**
+  - **GLM-5-Turbo** – starts at **¥5 / 1M input**, **¥22 / 1M output**
+- **Capabilities**:
+  - Around **200K context** on GLM-5 class models
+  - Tool calling, structured output, thinking modes, context caching, coding, and long-horizon agent execution
+  - GLM-5 / 5.1 weights are available through Hugging Face / ModelScope
+- **Plans / subscriptions**:
+  - **GLM Coding Plan** – subscription access for coding tools and agent workflows
+  - Supports usage through tools such as Claude Code-style setups, Cline, Kilo Code, OpenCode, Cursor-style workflows, and MCP integrations
+- **Positioning**:
+  - One of the strongest Chinese open-weight coding / agent model families
+  - Very aggressive pricing at the low end due to free Flash models and cheap FlashX pricing
+  - Particularly relevant for agentic coding and long-running development tasks
 
+---
+
+### MiniMax
+
+<p>
+  <a href="https://www.minimax.io/" target="_blank">
+  </a>
+</p>
+
+MiniMax develops multimodal foundation models with a strong focus on coding, agents, long context, audio, video, and consumer products such as Hailuo.
+
+- **[MiniMax](https://www.minimax.io/)** – Main company site
+- **[MiniMax API Platform](https://platform.minimax.io/)** – Developer platform
+- **Current models**:
+  - **MiniMax-M2.5** – Current flagship text model for coding, agents, search, tool use, and office workflows
+  - **MiniMax-M2.5-highspeed** – Faster variant with the same core capability profile
+  - **MiniMax-M2.1 / M2** – Earlier coding / agent models
+  - **Hailuo** – MiniMax video generation product family
+- **API Pricing (USD, official)**:
+  - **MiniMax-M2.5** – **$0.30 / 1M input**, **$1.20 / 1M output**, **$0.03 / 1M prompt-cache read**, **$0.375 / 1M prompt-cache write**
+  - **MiniMax-M2.5-highspeed** – **$0.60 / 1M input**, **$2.40 / 1M output**, **$0.03 / 1M prompt-cache read**, **$0.375 / 1M prompt-cache write**
+- **Plans / subscriptions**:
+  - **Plus** – **$20/month**
+  - **Max** – **$50/month**
+  - **Ultra** – **$120/month**
+  - Token plans cover eligible API Platform resources and are aimed at agent, coding, and multimodal workflows
+- **Capabilities**:
+  - Long-context coding and agent workflows
+  - Tool use, prompt caching, search-oriented workflows, and high-throughput coding tasks
+- **Positioning**:
+  - Extremely cost-aggressive for coding and agent workflows
+  - One of the Chinese providers pushing “frontier-ish” model usage toward very low per-task costs
+
+---
+
+### Baidu ERNIE
+
+<p>
+  <a href="https://ernie.baidu.com/" target="_blank">
+  </a>
+</p>
+
+Baidu’s ERNIE family powers Baidu’s consumer assistant and Qianfan enterprise platform, with strong Chinese-language, multimodal, and reasoning-focused model lines.
+
+- **[ERNIE](https://ernie.baidu.com/)** – Main consumer / model site
+- **[Baidu Qianfan](https://intl.cloud.baidu.com/en/doc/qianfan/s/Jm8r1826a-intl-en)** – Enterprise API / model platform
+- **Current models**:
+  - **ERNIE 5.1** – Newer ERNIE generation focused on lower inference cost and strong reasoning / writing performance
+  - **ERNIE 5.0** – Native omni-modal foundation model
+  - **ERNIE X1 / X1.1** – Reasoning-focused model line
+  - **ERNIE 4.5** – Earlier open / production model family
+  - **ERNIE-Image** – Open image generation model line
+- **API Pricing (USD, official Qianfan international page where listed)**:
+  - **ERNIE 5.0** – **$1.40 / 1M input**, **$5.60 / 1M output**
+  - **DeepSeek-V3.2 via Qianfan** – **$0.50 / 1M input**, **$0.50 / 1M cache hit**, **$1.50 / 1M output**
+- **Capabilities**:
+  - Text generation, deep thinking, visual understanding, OCR, structured output, function calling, and dialogue continuation
+- **Positioning**:
+  - Major Chinese incumbent model ecosystem
+  - Strong domestic platform integration through Baidu Cloud / Qianfan
+  - Less frictionless internationally than Qwen, DeepSeek, Kimi, GLM, or MiniMax, but important enough to track
 
 ---
 
@@ -744,18 +900,38 @@ GLM is Zhipu’s model family, aimed at reasoning, coding, agents, and enterpris
   </a>
 </p>
 
-Hunyuan is Tencent’s model platform, spanning text generation, search-enabled APIs, and broader multimodal tooling.
+Hunyuan is Tencent’s model platform, spanning text generation, reasoning, translation, OCR, 3D, video, world models, and broader multimodal tooling.
 
 - **[Hunyuan](https://hunyuan.tencent.com/)** – Main product site
 - **[Tencent HY / Hunyuan docs](https://www.tencentcloud.com/document/product/1284/75530)** – API overview
+- **[Tencent Hunyuan GitHub](https://github.com/Tencent-Hunyuan)** – Open model repositories
 - **Current direction**:
-  - Tencent positions Hunyuan as a large-scale model platform with text generation, search integration, and broader multimodal tooling
+  - Tencent positions Hunyuan as a large-scale model platform with text generation, search integration, reasoning, and broader multimodal tooling
+  - **Hunyuan-T1** is Tencent’s reasoning model line
+  - **Hunyuan TurboS** is part of Tencent’s fast-thinking / hybrid architecture direction
   - Tencent also ships related products like **[Hunyuan 3D](https://3d-models.hunyuan.tencent.com/)**
+- **Open / specialized models**:
+  - **Hunyuan-Large** – Open MoE language model family
+  - **HunyuanOCR** – OCR / document understanding
+  - **Hy-MT / Hy-MT2** – Machine translation models
+  - **Hunyuan 3D / Hunyuan 3D Global** – 3D asset generation
+  - **HY-World / HunyuanWorld** – 3D / world-model research line
+  - **HY-Motion** – 3D human motion / character animation generation
+- **Pricing / access notes**:
+  - Tencent Cloud pricing varies by product and region
+  - Hunyuan 3D Global has offered daily free generations for users and free credits for enterprise API users
+  - For exact production API costs, Tencent Cloud pricing pages should be checked directly before usage
+- **Positioning**:
+  - Less simple as a general LLM API than DeepSeek / Qwen / Kimi / GLM
+  - Very important in multimodal, 3D, OCR, translation, and Tencent ecosystem integrations
 
 
 ---
 
+
 ---
+
+
 
 
 ## 🪦 AI Graveyard
@@ -830,101 +1006,6 @@ Beyond the GitHub pack, major cloud providers have their own programs for studen
   - **Badges**: Earn digital badges to showcase your skills.
 
   ***
-
-## 🆕 New and Emerging AI Tools
-
-[🔝 Back to Top](#top)
-
-This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
-
-- **[Clawdbot/Moltbot (clawd.bot)](https://clawd.bot/)** - A self-hosted AI agent that connects to messaging apps (e.g., Telegram/Discord) and can be extended with skills to automate personal workflows like notes, reminders, and task triage.
-- **[Figure AI](https://www.figure.ai/)** - (USA) A robotics company building general-purpose humanoid robots. Backed by major tech players like OpenAI and Microsoft, they are at the forefront of AI embodiment.
-- **[Cognition Labs](https://www.cognition-labs.com/)** - (USA) Creators of **Devin**, the first AI software engineer agent, designed to autonomously handle complex coding tasks from start to finish.
-- **[Luma Labs](https://lumalabs.ai/dream-machine)** - (USA) Creator of **Dream Machine**, a publicly accessible and highly popular text-to-video model that generates high-quality, coherent video clips.
-- **[Pika](https://pika.art/)** - (USA) A creative AI video platform that allows users to generate and edit videos in various styles from text and images. A direct competitor to Runway and Luma Labs.
-- **[ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/)** - (EU) Generate 3D models from text prompts or a single image, with downloadable 3D output for creative and production workflows.
-- **[ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/)** - (EU) Generate printable 3D bust models from a single portrait photo in a browser-based workflow.
-- **[ElevenLabs](https://elevenlabs.io/)** - (UK/USA) The market leader in realistic AI voice generation, speech synthesis, and voice cloning. Their technology is known for its incredible quality and emotional range.
-- **[Leonardo Ai](https://leonardo.ai/)** - (UK) A full-stack platform for generating game assets, concept art, and other artistic visuals, offering fine-tuned models and a suite of creative tools.
-- **[Phind](https://www.phind.com/)** - (USA) An AI search engine specifically for developers that provides direct answers with code examples and context from across the web.
-- **[Ideogram](https://ideogram.ai/)** - (USA/Canada) A powerful AI image generator that excels at rendering coherent and creative text within the images it creates, often surpassing other models in typography.
-- **[AssemblyAI](https://www.assemblyai.com/)** - (USA) A leading API company for advanced Speech-to-Text, offering highly accurate transcription, summarization, and audio intelligence.
-- **[Ollama](https://ollama.com/)** - (USA) While an open-source project, it has become the standard for running and managing open-source LLMs like Llama 4 and Mistral locally on your own machine.
-- **[Haiper](https://haiper.ai/)** - (UK) An AI video generation tool focused on creating high-quality, engaging content with ease, quickly emerging as a strong competitor in the space.
-- **[CAJAL / PaperClaw](https://github.com/Agnuxo1/CAJAL)** - (Spain/International) Local AI for scientific paper generation with specialized 4B and 9B models. Features GGUF quantization, Ollama compatibility, and ranked #3 on scientific writing benchmarks. Open-source and designed for offline academic writing workflows.
-- **[Magic.dev](https://magic.dev/)** - (USA) A startup building an AI "coworker" for software engineers, designed to handle complex coding and engineering tasks.
-- **[Adapt or Die](https://adaptordie.io)** - (UK) Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop.
-- **[AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs)** - 196 production-ready frameworks for AI engineering: multi-agent orchestration, MCP server configs, vibe coding workflows, RAG pipelines, and agentic deployment guides. 97 free samples available.
-- **[Overloop CLI](https://github.com/sortlist/overloop-cli)** - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
-- **[Signals CLI](https://github.com/sortlist/signals-cli)** - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
-- **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
-- **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
-- **[Qwen](https://chat.qwenlm.ai/)** - Alibaba’s **LLM series**, featuring **Qwen-72B**, **Qwen-14B**, and smaller variants optimized for **local inference**. Supports **multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.
-- **[Replit](https://replit.com/)** - An AI-enhanced online **coding environment** with **Ghostwriter**, an **AI-powered coding assistant** for real-time **code suggestions, debugging, and completion**. Supports **multi-language development** in an interactive web-based IDE.
-- **[Cursor](https://www.cursor.com/)** - A **VS Code-inspired** AI-powered code editor that provides **real-time code suggestions, error detection, debugging assistance, and AI-generated explanations**. Built for **AI-first software development**.
-- **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** - A repository that offers tools to create deepfake videos using live camera input, providing real-time face-swapping capabilities.
-- **[Meta LLaMA 3.1 Models](https://github.com/meta-llama/llama-models)** - Official repository to use and implement LLaMA 3.1 models, Meta's state-of-the-art large language models.
-- **[Agent Zero](https://github.com/frdel/agent-zero)** - A repository for creating and managing autonomous AI agents with customizable goals and tasks.
-- **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)** - A user-friendly web interface for running and interacting with text generation models, supporting a variety of models and configurations.
-- **[LM Studio](https://lmstudio.ai/)** - An AI platform providing a range of tools for language model fine-tuning, deployment, and usage.
-- **[Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)** - A repository for generating animations and high-quality visuals using stable diffusion models.
-- **[Stability AI](https://stability.ai/)** - The official website and hub for Stability AI, which offers a variety of AI-driven tools and models, particularly in image generation.
-- **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - A popular web-based interface for running Stable Diffusion models, offering extensive features and customization options.
-- **[new.website](https://new.website)** - AI-powered website creation platform that builds beautiful websites in minutes with built-in forms, analytics, SEO optimization, and scalable hosting.
-- **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
-- **[Dream Machine](https://lumalabs.ai/dream-machine)** – Free and public **text-to-video model** from Luma AI. Create high-quality, coherent video clips from simple text or image prompts.
-- **[Metorial](https://metorial.com)** - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
-- **[RegexAI](https://regexai-six.vercel.app/)** - An AI-powered regex pattern generator that creates regular expressions from plain English descriptions with instant testing.
-- **[CronAI](https://cronai-nu.vercel.app/)** - An AI-powered cron expression generator that converts natural language scheduling descriptions into valid cron syntax instantly.
-- **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
-- [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background.
-- **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
-  - Features include: real-time web access, custom threads, file + URL analysis, and pro-level citation support.
-  - **Pro plan** offers Claude 4, GPT-5, and other premium model access.
-
-- **[Runway ML](https://runwayml.com/)** - A creative suite for generating, editing, and manipulating media using AI, popular for video and content creation.
-- **[Deep Dream Generator](https://deepdreamgenerator.com/)** - An online tool for creating surreal images using deep neural networks, allowing for unique and artistic effects.
-- **[Synthesia](https://www.synthesia.io/)** - AI video creation platform that allows you to create professional videos with AI avatars, perfect for business presentations.
-- **[Tome AI](https://beta.tome.app/)** - AI-powered storytelling tool that helps in creating dynamic narratives with text, images, and video integrations.
-- **[Pictory](https://pictory.ai/)** - AI tool that converts long-form content, like blog posts, into engaging short-form videos.
-- **[Descript](https://www.descript.com/)** - An AI-driven tool for audio and video editing, known for its powerful transcription and editing capabilities.
-- **[Rephrase.ai](https://www.rephrase.ai/)** - AI-powered platform for creating hyper-personalized videos using deepfake technology, primarily used in marketing.
-- **[Lumen5](https://lumen5.com/)** - A video creation tool that uses AI to transform blog posts and articles into engaging videos automatically.
-- **[Murph AI](https://www.murph.ai/)** - An AI-powered voiceover tool that provides realistic voices for videos, podcasts, and presentations.
-- **[Beautiful.ai](https://www.beautiful.ai/)** - An AI-powered presentation tool that automates the design process, helping you create beautiful slides effortlessly.
-- **[CopySmith](https://www.copysmith.ai/)** - An AI tool focused on generating high-quality marketing copy, ad campaigns, and product descriptions.
-- **[Notion AI](https://www.notion.so/product/ai)** - AI-powered writing assistant integrated into Notion, enhancing productivity by helping with content creation and organization.
-- **[Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)** - AI tool by MyHeritage that animates old photos, bringing historical family images to life.
-- **[Scribe AI](https://scribehow.com/)** - An AI tool that automatically generates process documentation, making it easier to create SOPs and training materials.
-- **[D-ID](https://www.d-id.com/)** - A creative AI tool specializing in creating animated videos and images from still photos using advanced deep learning techniques.
-- **[Regie.ai](https://www.regie.ai/)** - AI writing tool specifically designed for sales teams to automate and enhance email campaigns and sales communications.
-- **[Pixray](https://pixray.github.io/)** - A text-to-image AI generator that offers customization and unique art styles, perfect for artists and creators.
-- **[Scenario GG](https://www.scenario.gg/)** - AI platform tailored for game developers to create custom assets and environments using generative models.
-- **[Durable](https://durable.co/)** - AI-powered website builder that can create a functional website in under a minute, focusing on simplicity and speed.
-- **[Typeface](https://typeface.ai/)** - An AI-driven branding and design tool that helps create unique fonts and typographic designs.
-- **[BrightBot](https://brightbot.com/)** - AI chatbot builder for customer support and engagement, offering deep customization and integration options.
-- **[Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/)** - While not new, it's a powerful Python library for web scraping that has gained renewed interest due to AI-driven data processing needs.
-- **[Riverside.fm](https://riverside.fm/)** - AI-powered platform for recording studio-quality podcasts and videos remotely, with features like real-time transcriptions and easy editing.
-- **[Suno](https://suno.com/)** - A cutting-edge AI tool focused on transforming music creation with advanced deep learning models for audio generation and enhancement.
-- **[AI or Not](https://www.aiornot.com/)** - An AI-driven tool that helps users determine whether a given piece of content was created by a human or an AI, enhancing transparency in content creation.
-- - **[Onranko](https://www.onranko.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
-- **[Udio](https://www.udio.com/)** - An AI-powered platform designed to simplify and innovate audio editing and production, making high-quality audio accessible to everyone.
-- **[Taskade](https://github.com/taskade/taskade)** - Open-source AI-native workspace to build apps, deploy AI agents, and automate workflows.
-- **[AI Boost](https://boost.pictures/)** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
-- **[Serplux](https://serplux.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
-- **[Waldium](https://waldium.com)** - AI-powered blogs to help ChatGPT/Claude/Perplexity cite your product.
-- **[RankingRider](https://www.rankingrider.com)** - AI-powered bulk SEO optimization for Shopify products via CSV.
-- **[LLM Optimizer](https://llmopt.metavert.io)** - AI brand visibility tool (like SEO for LLMs, or GEO). Measures how ChatGPT, Claude, Gemini, and Perplexity cite and recommend your brand with composite AI Visibility Scores, per-dimension analysis, and prioritized optimization recommendations.
-- **[GEOScore](https://geoscoreai.com)** - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks for generative engine optimization (GEO).
-- **[AuditZap](https://auditzap.io/)** - AI-powered website audit tool that runs 24 automated checks across SEO, performance, and site health, then generates code-level fix instructions ranked by revenue impact.
-- Cited By AI® - Block-level AI citation auditing platform using the Citation Probability Score® (CPS®) framework. Scores content across 5 pillars to predict citation probability in ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews. Free CPS® Lite checker via MCP. - [citedbyai.info](https://citedbyai.info)
-- **[Evaligo](https://www.evaligo.com)** - Visual no-code AI workflow builder for SEO, marketing, and sales teams. Drag-and-drop agentic AI workflows with 100+ templates, prompt testing across GPT/Claude/Gemini, and one-click deployment as APIs or embeddable apps. Free tier available.
-- **[DoaCam](https://doacam.com)** - AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers every conversation. Runs in browser.
-- **[AgentReady](https://agentready.site)** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable recommendations, industry benchmarks, and a free public API for AI agent compatibility scoring.
-- **[KeepRule](https://keeprule.com)** - AI-powered investment discipline platform that tracks principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis, psychological tests, and personalized investment coaching.
-- **[toprank](https://github.com/nowork-studio/toprank)** - Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Pulls real Google Search Console, PageSpeed Insights, and Google Ads API data, audits traffic and wasted ad spend, rewrites meta tags, generates JSON-LD schema markup, and ships the fixes directly to source or CMS (WordPress, Strapi, Contentful, Ghost).
-- **[HandyAI](https://handyai.tools)** – Free single-purpose tools for LLM developers: a token counter and an API cost calculator across Claude, GPT, and Gemini. Runs client-side, no signup.
-- **[AnySlide](https://anyslide.app)** - AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.
 
 ---
 
@@ -1048,7 +1129,6 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Repurpose.io](https://repurpose.io/) - AI for content repurposing.
 - [Copy.ai](https://www.copy.ai/) - AI for copywriting.
 - [You.com](https://you.com/) - AI-powered search engine.
-- [Promo.com](https://promo.com/) - AI tool for video creation.
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
 - [Wave.video](https://wave.video/) - AI for video marketing.
 - [RoamAround.io](https://www.roamaround.io/) - AI for travel planning.
@@ -1304,10 +1384,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 14. **Panda 5** - News reader with AI-curated content.
 15. **Clever Ads** - AI-driven advertising insights.
 16. **Gorgias Templates** - Automated email templates.
-17. **SummarizeBot** - AI-powered text summarization.
-18. **ChatGPT for Google** - Integrate ChatGPT in Google searches.
-19. **Almighty** - AI-driven productivity booster.
-20. **SentiSum Insights** - AI sentiment analysis for customer feedback.
+
 
 ---
 
@@ -1701,7 +1778,6 @@ Discover the power of AI in music with these tools designed for generating, comp
 - [Audiolabs](https://audiolabs-erlangen.de) - AI and music research.
 - [SOUNDRAW](https://soundraw.io) - AI music composition for videos.
 - [Lumen5](https://lumen5.com) - AI-driven music video maker.
-- [Suede](https://suedeai.ai) - AI music and video generation with automatic on-chain IP registration — create a track, own it instantly, earn from it automatically. No label, no middleman.
 - [AceTagGen](https://acetaggen.com) - Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno's 200-char Style limit. Includes example library and quality score.
 - [HookGenius](https://hookgenius.app) - AI lyrics and style prompt generator for Suno. Produces copy-paste-ready hooks, song structures, and genre-tuned style tags with artist-style references.
 
@@ -1932,7 +2008,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.
 ---
 
-## 🛠️ REPOS
+## 🛠️ GITHUB REPOS
 
 ---
 
@@ -2042,7 +2118,98 @@ This section covers some of the most advanced software platforms for working wit
 - [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
 
 ---
-## New Github Projects
+## Unsorted category
+This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
+
+- **[Figure AI](https://www.figure.ai/)** - (USA) A robotics company building general-purpose humanoid robots. Backed by major tech players like OpenAI and Microsoft, they are at the forefront of AI embodiment.
+- **[Cognition Labs](https://www.cognition-labs.com/)** - (USA) Creators of **Devin**, the first AI software engineer agent, designed to autonomously handle complex coding tasks from start to finish.
+- **[Luma Labs](https://lumalabs.ai/dream-machine)** - (USA) Creator of **Dream Machine**, a publicly accessible and highly popular text-to-video model that generates high-quality, coherent video clips.
+- **[Pika](https://pika.art/)** - (USA) A creative AI video platform that allows users to generate and edit videos in various styles from text and images. A direct competitor to Runway and Luma Labs.
+- **[ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/)** - (EU) Generate 3D models from text prompts or a single image, with downloadable 3D output for creative and production workflows.
+- **[ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/)** - (EU) Generate printable 3D bust models from a single portrait photo in a browser-based workflow.
+- **[ElevenLabs](https://elevenlabs.io/)** - (UK/USA) The market leader in realistic AI voice generation, speech synthesis, and voice cloning. Their technology is known for its incredible quality and emotional range.
+- **[Leonardo Ai](https://leonardo.ai/)** - (UK) A full-stack platform for generating game assets, concept art, and other artistic visuals, offering fine-tuned models and a suite of creative tools.
+- **[Phind](https://www.phind.com/)** - (USA) An AI search engine specifically for developers that provides direct answers with code examples and context from across the web.
+- **[Ideogram](https://ideogram.ai/)** - (USA/Canada) A powerful AI image generator that excels at rendering coherent and creative text within the images it creates, often surpassing other models in typography.
+- **[AssemblyAI](https://www.assemblyai.com/)** - (USA) A leading API company for advanced Speech-to-Text, offering highly accurate transcription, summarization, and audio intelligence.
+- **[Ollama](https://ollama.com/)** - (USA) While an open-source project, it has become the standard for running and managing open-source LLMs like Llama 4 and Mistral locally on your own machine.
+- **[Haiper](https://haiper.ai/)** - (UK) An AI video generation tool focused on creating high-quality, engaging content with ease, quickly emerging as a strong competitor in the space.
+- **[CAJAL / PaperClaw](https://github.com/Agnuxo1/CAJAL)** - (Spain/International) Local AI for scientific paper generation with specialized 4B and 9B models. Features GGUF quantization, Ollama compatibility, and ranked #3 on scientific writing benchmarks. Open-source and designed for offline academic writing workflows.
+- **[Magic.dev](https://magic.dev/)** - (USA) A startup building an AI "coworker" for software engineers, designed to handle complex coding and engineering tasks.
+- **[Adapt or Die](https://adaptordie.io)** - (UK) Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop.
+- **[AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs)** - 196 production-ready frameworks for AI engineering: multi-agent orchestration, MCP server configs, vibe coding workflows, RAG pipelines, and agentic deployment guides. 97 free samples available.
+- **[Overloop CLI](https://github.com/sortlist/overloop-cli)** - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
+- **[Signals CLI](https://github.com/sortlist/signals-cli)** - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
+- **[Le Chat](https://chat.mistral.ai/)** - Mistral AI’s chatbot powered by **Mixtral-8x7B** and **Mistral 7B**, offering multilingual support and **coding capabilities**. Le Chat is optimized for **code generation, completion, and reasoning**, making it a strong competitor in AI-assisted development.
+- **[DeepSeek](https://deepseek.com/)** - A powerful AI platform offering **open-source LLMs** such as **DeepSeek-V3 (671B)** and **DeepSeek R1 (660B)**, along with **smaller models (1.5B, 7B, 14B)** for local deployment. It also features a **paid API** compatible with OpenAI's format, supporting **streaming and enterprise solutions**.
+- **[Qwen](https://chat.qwenlm.ai/)** - Alibaba’s **LLM series**, featuring **Qwen-72B**, **Qwen-14B**, and smaller variants optimized for **local inference**. Supports **multi-turn chat, code generation, and reasoning**, with API access for enterprise applications.
+- **[Replit](https://replit.com/)** - An AI-enhanced online **coding environment** with **Ghostwriter**, an **AI-powered coding assistant** for real-time **code suggestions, debugging, and completion**. Supports **multi-language development** in an interactive web-based IDE.
+- **[Cursor](https://www.cursor.com/)** - A **VS Code-inspired** AI-powered code editor that provides **real-time code suggestions, error detection, debugging assistance, and AI-generated explanations**. Built for **AI-first software development**.
+- **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** - A repository that offers tools to create deepfake videos using live camera input, providing real-time face-swapping capabilities.
+- **[Meta LLaMA 3.1 Models](https://github.com/meta-llama/llama-models)** - Official repository to use and implement LLaMA 3.1 models, Meta's state-of-the-art large language models.
+- **[Agent Zero](https://github.com/frdel/agent-zero)** - A repository for creating and managing autonomous AI agents with customizable goals and tasks.
+- **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)** - A user-friendly web interface for running and interacting with text generation models, supporting a variety of models and configurations.
+- **[LM Studio](https://lmstudio.ai/)** - An AI platform providing a range of tools for language model fine-tuning, deployment, and usage.
+- **[Deforum Stable Diffusion](https://github.com/deforum-art/deforum-stable-diffusion)** - A repository for generating animations and high-quality visuals using stable diffusion models.
+- **[Stability AI](https://stability.ai/)** - The official website and hub for Stability AI, which offers a variety of AI-driven tools and models, particularly in image generation.
+- **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - A popular web-based interface for running Stable Diffusion models, offering extensive features and customization options.
+- **[new.website](https://new.website)** - AI-powered website creation platform that builds beautiful websites in minutes with built-in forms, analytics, SEO optimization, and scalable hosting.
+- **[Perplexity AI](https://www.perplexity.ai/)** - A powerful AI tool for question answering and information retrieval, offering interactive and accurate results.
+- **[Dream Machine](https://lumalabs.ai/dream-machine)** – Free and public **text-to-video model** from Luma AI. Create high-quality, coherent video clips from simple text or image prompts.
+- **[Metorial](https://metorial.com)** - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
+- **[RegexAI](https://regexai-six.vercel.app/)** - An AI-powered regex pattern generator that creates regular expressions from plain English descriptions with instant testing.
+- **[CronAI](https://cronai-nu.vercel.app/)** - An AI-powered cron expression generator that converts natural language scheduling descriptions into valid cron syntax instantly.
+- **[MidJourney](https://midjourney.com/)** – One of the most advanced tools for **AI-generated artistic images**, accessible via their site and Discord. Known for its unique stylization and creativity.
+- [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background.
+- **[Perplexity AI](https://www.perplexity.ai/)** – AI-powered **search and research assistant** offering accurate answers with cited sources. Ideal for knowledge exploration, technical lookups, and learning.
+  - Features include: real-time web access, custom threads, file + URL analysis, and pro-level citation support.
+  - **Pro plan** offers Claude 4, GPT-5, and other premium model access.
+
+- **[Runway ML](https://runwayml.com/)** - A creative suite for generating, editing, and manipulating media using AI, popular for video and content creation.
+- **[Deep Dream Generator](https://deepdreamgenerator.com/)** - An online tool for creating surreal images using deep neural networks, allowing for unique and artistic effects.
+- **[Synthesia](https://www.synthesia.io/)** - AI video creation platform that allows you to create professional videos with AI avatars, perfect for business presentations.
+- **[Tome AI](https://beta.tome.app/)** - AI-powered storytelling tool that helps in creating dynamic narratives with text, images, and video integrations.
+- **[Pictory](https://pictory.ai/)** - AI tool that converts long-form content, like blog posts, into engaging short-form videos.
+- **[Descript](https://www.descript.com/)** - An AI-driven tool for audio and video editing, known for its powerful transcription and editing capabilities.
+- **[Rephrase.ai](https://www.rephrase.ai/)** - AI-powered platform for creating hyper-personalized videos using deepfake technology, primarily used in marketing.
+- **[Lumen5](https://lumen5.com/)** - A video creation tool that uses AI to transform blog posts and articles into engaging videos automatically.
+- **[Murph AI](https://www.murph.ai/)** - An AI-powered voiceover tool that provides realistic voices for videos, podcasts, and presentations.
+- **[Beautiful.ai](https://www.beautiful.ai/)** - An AI-powered presentation tool that automates the design process, helping you create beautiful slides effortlessly.
+- **[CopySmith](https://www.copysmith.ai/)** - An AI tool focused on generating high-quality marketing copy, ad campaigns, and product descriptions.
+- **[Notion AI](https://www.notion.so/product/ai)** - AI-powered writing assistant integrated into Notion, enhancing productivity by helping with content creation and organization.
+- **[Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)** - AI tool by MyHeritage that animates old photos, bringing historical family images to life.
+- **[Scribe AI](https://scribehow.com/)** - An AI tool that automatically generates process documentation, making it easier to create SOPs and training materials.
+- **[D-ID](https://www.d-id.com/)** - A creative AI tool specializing in creating animated videos and images from still photos using advanced deep learning techniques.
+- **[Regie.ai](https://www.regie.ai/)** - AI writing tool specifically designed for sales teams to automate and enhance email campaigns and sales communications.
+- **[Pixray](https://pixray.github.io/)** - A text-to-image AI generator that offers customization and unique art styles, perfect for artists and creators.
+- **[Scenario GG](https://www.scenario.gg/)** - AI platform tailored for game developers to create custom assets and environments using generative models.
+- **[Durable](https://durable.co/)** - AI-powered website builder that can create a functional website in under a minute, focusing on simplicity and speed.
+- **[Typeface](https://typeface.ai/)** - An AI-driven branding and design tool that helps create unique fonts and typographic designs.
+- **[BrightBot](https://brightbot.com/)** - AI chatbot builder for customer support and engagement, offering deep customization and integration options.
+- **[Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/)** - While not new, it's a powerful Python library for web scraping that has gained renewed interest due to AI-driven data processing needs.
+- **[Riverside.fm](https://riverside.fm/)** - AI-powered platform for recording studio-quality podcasts and videos remotely, with features like real-time transcriptions and easy editing.
+- **[Suno](https://suno.com/)** - A cutting-edge AI tool focused on transforming music creation with advanced deep learning models for audio generation and enhancement.
+- **[AI or Not](https://www.aiornot.com/)** - An AI-driven tool that helps users determine whether a given piece of content was created by a human or an AI, enhancing transparency in content creation.
+- - **[Onranko](https://www.onranko.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
+- **[Udio](https://www.udio.com/)** - An AI-powered platform designed to simplify and innovate audio editing and production, making high-quality audio accessible to everyone.
+- **[Taskade](https://github.com/taskade/taskade)** - Open-source AI-native workspace to build apps, deploy AI agents, and automate workflows.
+- **[AI Boost](https://boost.pictures/)** - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
+- **[Serplux](https://serplux.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
+- **[Waldium](https://waldium.com)** - AI-powered blogs to help ChatGPT/Claude/Perplexity cite your product.
+- **[RankingRider](https://www.rankingrider.com)** - AI-powered bulk SEO optimization for Shopify products via CSV.
+- **[LLM Optimizer](https://llmopt.metavert.io)** - AI brand visibility tool (like SEO for LLMs, or GEO). Measures how ChatGPT, Claude, Gemini, and Perplexity cite and recommend your brand with composite AI Visibility Scores, per-dimension analysis, and prioritized optimization recommendations.
+- **[GEOScore](https://geoscoreai.com)** - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks for generative engine optimization (GEO).
+- **[AuditZap](https://auditzap.io/)** - AI-powered website audit tool that runs 24 automated checks across SEO, performance, and site health, then generates code-level fix instructions ranked by revenue impact.
+- Cited By AI® - Block-level AI citation auditing platform using the Citation Probability Score® (CPS®) framework. Scores content across 5 pillars to predict citation probability in ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews. Free CPS® Lite checker via MCP. - [citedbyai.info](https://citedbyai.info)
+- **[Evaligo](https://www.evaligo.com)** - Visual no-code AI workflow builder for SEO, marketing, and sales teams. Drag-and-drop agentic AI workflows with 100+ templates, prompt testing across GPT/Claude/Gemini, and one-click deployment as APIs or embeddable apps. Free tier available.
+- **[DoaCam](https://doacam.com)** - AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers every conversation. Runs in browser.
+- **[AgentReady](https://agentready.site)** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable recommendations, industry benchmarks, and a free public API for AI agent compatibility scoring.
+- **[KeepRule](https://keeprule.com)** - AI-powered investment discipline platform that tracks principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis, psychological tests, and personalized investment coaching.
+- **[toprank](https://github.com/nowork-studio/toprank)** - Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Pulls real Google Search Console, PageSpeed Insights, and Google Ads API data, audits traffic and wasted ad spend, rewrites meta tags, generates JSON-LD schema markup, and ships the fixes directly to source or CMS (WordPress, Strapi, Contentful, Ghost).
+- **[HandyAI](https://handyai.tools)** – Free single-purpose tools for LLM developers: a token counter and an API cost calculator across Claude, GPT, and Gemini. Runs client-side, no signup.
+- **[AnySlide](https://anyslide.app)** - AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.
+
+
 ---
 <p align="center">
   <a href="https://www.star-history.com/?repos=eudk/awesome-ai-tools&type=date&legend=top-left">
