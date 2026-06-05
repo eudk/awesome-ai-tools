@@ -1228,7 +1228,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Resumemind](https://resumemind.com) - An AI-powered resume builder and visual analyzer specifically tailored for software engineers.
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
 - [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
-
+- [CVinSeconds](https://www.cvinseconds.com) - Instantly tailors and optimizes your CV to match any job description using automated high-speed, cost-efficient AI processing.
 
 ---
 
