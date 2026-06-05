@@ -1,49 +1,51 @@
-# Pull Request Guidelines
+Please complete the sections below.
 
-Please complete the sections below. Submissions missing key details may be closed.
+Incomplete, duplicate, or incorrectly formatted submissions may be closed.
 
-> PR reviews may take up to 1 month depending on backlog and activity.  
-> Low-effort or incorrectly formatted submissions may be closed without maintainer edits.
+> PR reviews may take time depending on backlog and activity.
 
----
+# Pull Request
 
-## Submission Summary
+Please fill in the sections below. Incomplete submissions may be closed.
 
-**Tool name:**  
-**URL:**  
+If you're submitting a tool, just replace `[ ]` with `[x]` where applicable.
 
-**Your connection to the tool:**  
-<!-- none / creator / contributor / user / other -->
+## Tool
 
-**AI involvement in this submission:**  
-<!-- none / some assistance / mostly generated -->
+**Name:** :
+**URL:** :
 
----
+### Type
 
-## Details
+* [ ] Website / SaaS
+* [ ] Open-source repository
+* [ ] Self-hosted tool
+* [ ] AI model
+* [ ] Other
 
-### What does it do?
-<!-- Short, clear explanation -->
+### Relationship
 
-### Why should it be included?
-<!-- What makes it useful or different -->
+* [ ] Creator
+* [ ] Contributor
+* [ ] User
+* [ ] Not affiliated
 
-### Is it publicly available and usable right now?
-- [ ] Yes
-- [ ] No
+## Description
 
----
+**What does it do?**
 
-## Final checks
+<!-- Keep short -->
 
-- [ ] I checked for duplicates
-- [ ] I added it to the correct category
-- [ ] I used the required format
-- [ ] The description is short and neutral
+**Why should it be included?**
 
----
+<!-- Optional -->
 
-### Transparency note 
+## Checks
 
-If this submission was prepared using AI tools or automated agents, feel free to mention it briefly.  
-Clear and honest submissions help keep the list high quality.
+* [ ] Publicly available
+* [ ] Working link
+* [ ] Not already listed
+* [ ] Added to the correct category
+* [ ] Description is short and neutral
+
+Thanks for contributing.
