@@ -1241,6 +1241,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Resumemind](https://resumemind.com) - An AI-powered resume builder and visual analyzer specifically tailored for software engineers.
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
 - [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
+- [KDP Readiness Score](https://publishing.co.uk/audit/kdp-readiness/) - Free 60-second pre-flight audit for indie authors. Runs the 30+ technical checks Amazon's KDP review system uses (margins, bleed, font embedding, image DPI, ToC integrity, ISBN match, EPUB validity) and returns a score plus remediation PDF. No signup. Disclosure: submitted by the maker.
 - [Soda](https://getsoda.app) – Knowledge layer for customer-facing teams. A living memory built from every call, app and conversation.
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
