@@ -1705,6 +1705,7 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 25. [Vocova](https://vocova.app) - AI-powered transcription supporting 100+ languages with speaker diarization and bilingual export.
 26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
 27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
+28. [OpenQuack](https://github.com/larryxiao/openquack) - On-device voice dictation for macOS — transcribes a 5-minute clip in 2.8 s; noise-robust, paste at cursor. 99 languages, ~8 MB, no telemetry. MIT.
 
 ---
 
