@@ -33,7 +33,7 @@ This repository focuses on the most relevant systems across:
 - multimodal generation (image, video, audio)
 - AI agents and automation
 - developer platforms and APIs
-- infrastructure and supporting tools
+- infrastructure and supporting tools.
 
 It is designed as a practical resource for developers, professionals, and enthusiasts looking to explore tools, understand the ecosystem, and build real-world AI applications.
 
