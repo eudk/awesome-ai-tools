@@ -1089,6 +1089,8 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 ### Ecosystem & Extensions
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** – Lightweight autonomous agent framework  
 - **[ClawHub](https://github.com/openclaw/clawhub)** — Skill directory  
+- **[openclaw/skills](https://github.com/openclaw/skills)** — Archived skills  
+
 - **[openclaw/lobster](https://github.com/openclaw/lobster)** — Workflow shell / macro engine  
 
 - **[Product Manager Skills](https://github.com/Digidai/product-manager-skills)** — PM-focused skill pack  
@@ -1164,6 +1166,10 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
   - Consumer products: **Hailuo AI (video generation)**, AI chat apps, voice companions  
   - API + platform available for building conversational agents and multimodal applications  
 
+
+- **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.
+
+
 ---
 ## AI Agent Tools
 
@@ -1179,6 +1185,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[Hlido](https://hlido.eu)** — Proof-backed AI agent review desk. Each agent gets a Laddoo Score (0-100), claim-vs-evidence audit, C2PA-signed screenshots, public Hugging Face dataset, and a 9-tool MCP server (`hlido.eu/mcp`) for agent trust checks.
 - **[Not Human Search](https://nothumansearch.ai)** — Agent-first search engine indexing 8,000+ MCP servers and other agentically-readable sites, ranked across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Queryable via MCP (`nothumansearch.ai/mcp`), REST API, or browser. Includes `verify_mcp` live JSON-RPC probe tool. MIT.
 - **[AI Dev Jobs](https://aidevboard.com)** — Structured data on 8,400+ active AI/ML engineering jobs from 580 ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, etc.). Free REST API + MCP server at `aidevboard.com/mcp`. Useful for agents doing AI job market research or helping users find roles.
+- **[X Twitter Scraper](https://github.com/Xquik-dev/x-twitter-scraper)** - Agent skill and MCP server for tweet search, user lookup, follower export, media download, webhooks, and confirmation-gated X actions. MIT.
 - **[nhs-score-check-action](https://github.com/unitedideas/nhs-score-check-action)** — GitHub Action that fetches your site's agentic readiness score via Not Human Search and fails CI if the score drops. Protects against regressions in your agent-facing surface. MIT.
 - **[Mira](https://github.com/vwww-droid/Mira)** — AI-assisted runtime protection analysis platform for third-party Android and iOS apps, enabling agents to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 ---
