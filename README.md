@@ -1064,6 +1064,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Iteration Layer](https://iterationlayer.com) - Composable content processing APIs for document extraction, image transformation, and image, document & sheet generation.
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
+- [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
 
 ---
 ## 🦞 OpenClaw Ecosystem
