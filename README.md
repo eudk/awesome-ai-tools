@@ -11,6 +11,7 @@
   <img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="AI Image" width="400"/>
 </p>
 
+
 <p align="center">
   <a href="https://chat.openai.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png" alt="ChatGPT Logo" width="70"/>
@@ -1229,6 +1230,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
+- [Lynote AI Humanize Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanization toolkit for rewriting AI drafts into natural, human-like writing. Full free web version: https://lynote.ai/ai-humanizer
 - [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) – AI-powered generator for Claude agent system prompts using a 3-step OpenRouter pipeline
 - [SocialBu](https://socialbu.com/) – AI-powered social media management platform for scheduling, publishing, monitoring, and automating across X, Instagram, LinkedIn, Facebook, TikTok, and more
 - [AI for Database](https://aifordatabase.com) – Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
