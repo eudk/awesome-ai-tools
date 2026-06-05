@@ -1064,6 +1064,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Iteration Layer](https://iterationlayer.com) - Composable content processing APIs for document extraction, image transformation, and image, document & sheet generation.
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
+- [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
 
 ---
 ## 🦞 OpenClaw Ecosystem
@@ -1088,8 +1089,8 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 ### Ecosystem & Extensions
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** – Lightweight autonomous agent framework  
 - **[ClawHub](https://github.com/openclaw/clawhub)** — Skill directory  
-- **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.
 - **[openclaw/skills](https://github.com/openclaw/skills)** — Archived skills  
+
 - **[openclaw/lobster](https://github.com/openclaw/lobster)** — Workflow shell / macro engine  
 
 - **[Product Manager Skills](https://github.com/Digidai/product-manager-skills)** — PM-focused skill pack  
@@ -1165,10 +1166,15 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
   - Consumer products: **Hailuo AI (video generation)**, AI chat apps, voice companions  
   - API + platform available for building conversational agents and multimodal applications  
 
+
+- **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.
+
+
 ---
 ## AI Agent Tools
 
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)** — High-performance local inference engine for LLMs and multimodal models, supporting CPU/GPU execution, quantization, and broad model compatibility.
+- **[lucinate](https://github.com/lucinate-ai/lucinate)** — Go-based terminal-native TUI chat client for interacting with AI agents via OpenClaw gateways, Hermes profiles, and OpenAI-compatible endpoints. Features streaming responses, markdown rendering, tool call cards, local skills, cron management, session browsing, and multi-agent support. MIT. → [Website](https://lucinate.ai) · [Homebrew](https://github.com/lucinate-ai/tap)
 - **[agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)** — Collection of prompt patterns, experiments, and research around agentic AI workflows and prompting strategies.
 - **[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official plugin resources and examples for extending Claude-based workflows.
 - **[superpowers](https://github.com/obra/superpowers)** — Tooling for giving AI systems richer capabilities and more flexible action patterns in practical workflows.
@@ -1229,6 +1235,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Resumemind](https://resumemind.com) - An AI-powered resume builder and visual analyzer specifically tailored for software engineers.
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool for transforming text, documents, and research into structured visual mind maps for idea organization, content planning, and knowledge management.
 - [AI Dictation](https://aidictation.com/) - macOS speech-to-text app with auto-switching offline/online recognition and AI-based grammar and filler-word cleanup.
+- [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
 
 
 ---
@@ -1708,6 +1715,7 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 25. [Vocova](https://vocova.app) - AI-powered transcription supporting 100+ languages with speaker diarization and bilingual export.
 26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
 27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
+28. [OpenQuack](https://github.com/larryxiao/openquack) - On-device voice dictation for macOS — transcribes a 5-minute clip in 2.8 s; noise-robust, paste at cursor. 99 languages, ~8 MB, no telemetry. MIT.
 
 ---
 
@@ -1868,6 +1876,7 @@ A selection of platforms offering API integration for various AI applications an
 - [onUI](https://github.com/onllm-dev/onUI) - Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. Works with Claude Code, Cursor, Windsurf, Copilot. Chrome, Edge, Firefox. Free, GPL-3.0.
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) - VS Code extension that bridges mobile devices to Google's Antigravity IDE (a Claude-powered VS Code fork). Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [HeyTensor](https://heytensor.com) - Free browser-based PyTorch tensor shape calculator with 22 tools. Computes shapes through Conv, Linear, LSTM, and Transformer layers without running code. Includes architecture presets (LeNet, ResNet block, Transformer encoder) and a "paste error" mode for parsing PyTorch RuntimeErrors.
+- [OpenRabbit](https://github.com/aryanbrite/openrabbit) - Free, open-source, self-hosted AI GitHub PR reviewer that runs entirely in GitHub Actions.
 
 ---
 
@@ -1885,11 +1894,13 @@ A selection of platforms offering API integration for various AI applications an
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [BlackVault](https://github.com/venkat22022202/black-vault) - Open-source proxy gateway for AI API keys. Generate proxy tokens for agents — BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.
 - [LochBot](https://lochbot.com) - Free browser-based prompt injection vulnerability checker. Analyzes LLM system prompts against 31 attack patterns (jailbreaks, role override, data exfiltration) and returns a security score with remediation guidance. No signup, runs client-side.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Open-source local TUI observability for AI coding agents. Tracks cost, tokens, latency, failures, health, anomalies, reports, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
 - [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Open-source Windows tray app for real-time Claude Code usage monitoring. Tracks per-session tokens, cost, context window, and 5h/1w rate limits from local JSONL session files and Claude Code's statusLine hook.
 - [AIWatch](https://ai-watch.dev) - Open-source real-time status dashboard for 30 AI services (Claude, OpenAI, Gemini, Mistral, Groq, and more). AI-powered incident analysis via hybrid Gemma 4 + Claude Sonnet, early detection vs official status pages, reliability scoring, Discord/Slack webhooks. Stack: Cloudflare Workers + KV + Workers AI.
 - [Embedding Similarity Calculator](https://uatgpt.com/tools/embedding-similarity/) - Compute cosine, dot, Euclidean, Manhattan, and Hamming similarity between two vectors, with ANN algorithm recommendation (FLAT / HNSW / IVF+PQ) matched to corpus scale and recall targets.
 - [Credyt](https://credyt.ai) - Real-time monetization infrastructure for AI-native products. Credyt combines cost and profitability observabilty with usage-based monetization and a managed customer billing UX.
 - [KubeStellar Console](https://github.com/kubestellar/console) - Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) that enables AI coding agents to query and manage clusters via natural language. Integrates with 20+ CNCF projects for AI-assisted operations across edge and cloud.
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.
 ---
 
 ## 🛠️ REPOS
@@ -1987,10 +1998,12 @@ This section covers some of the most advanced software platforms for working wit
 - **[StackBuilt](https://stackbuilt.co)** - Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work.
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
 - **[Slate](https://slateup.ai)** – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
+- **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
 
 ---
 ## SEO related tools
 - If your tool is related to SEO feel free to insert it here
+- **[Parse](https://parse.gl/)** - AI visibility analytics for tracking brand mentions, competitors, and cited sources across ChatGPT and Google AI Overviews.
 - **[PromptEden](https://www.prompteden.com)** - AEO (Answer Engine Optimization) monitoring. Tracks how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead, across 9+ AI platforms refreshed daily.
 
 - [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
