@@ -1263,6 +1263,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ---
 ## AI Agent Tools
 
+- **[nobulex](https://github.com/arian-gogani/nobulex)** — Cryptographic receipt layer for AI agents. Ed25519-signed, JCS-canonical, hash-chained receipts for every agent action. Independently verifiable without operator trust — any auditor with the public key can verify offline with no service dependency. LangChain, CrewAI, and Dify integrations. EU AI Act Article 12 compliance export. `pip install nobulex`. MIT. → [nobulex.com](https://nobulex.com)
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)** — High-performance local inference engine for LLMs and multimodal models, supporting CPU/GPU execution, quantization, and broad model compatibility.
 - **[lucinate](https://github.com/lucinate-ai/lucinate)** — Go-based terminal-native TUI chat client for interacting with AI agents via OpenClaw gateways, Hermes profiles, and OpenAI-compatible endpoints. Features streaming responses, markdown rendering, tool call cards, local skills, cron management, session browsing, and multi-agent support. MIT. → [Website](https://lucinate.ai) · [Homebrew](https://github.com/lucinate-ai/tap)
 - **[agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)** — Collection of prompt patterns, experiments, and research around agentic AI workflows and prompting strategies.
