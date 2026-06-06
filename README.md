@@ -1257,6 +1257,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
   - API + platform available for building conversational agents and multimodal applications  
 
 
+- **[Taskade](https://docs.taskade.com)** — AI-native productivity and agent orchestration platform. API-first developer documentation covering REST v1/v2, MCP protocol integration, autonomous agent workflows, and deployment tutorials. Includes Genesis app builder, AI agents framework, and workflow automation infrastructure.
+
 - **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.
 
 
