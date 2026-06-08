@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [ProposalCraft](https://github.com/jabbawocky/proposalcraft) - MCP server that drafts freelance client proposals in your voice, learned from your past winning work. Runs locally via Claude Desktop — no API key, no cloud, nothing leaves your machine. Free tier: 5 proposals/month.
 
 
 
