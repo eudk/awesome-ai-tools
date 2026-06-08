@@ -1090,6 +1090,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Perplexity AI Query Assistant](https://www.perplexity.ai/) - Interactive tool for AI-driven question answering and information retrieval.
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers.
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
+- [RunAPI MCP Server](https://github.com/runapi-ai/mcp) - Unified API and MCP server for 130+ AI models (image, video, music, audio, LLM) from 18 providers. Free catalog tools for model discovery and pricing; one key for media generation and LLM chat via `npx @runapi.ai/mcp`.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns (sycophantic openers, filler phrases, em-dash overuse) from text files and stdin. Pass through code blocks and URLs unchanged. `npm install -g unslop`.
