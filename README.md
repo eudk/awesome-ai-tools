@@ -1849,6 +1849,7 @@ AI tools for enhancing media quality, such as upscaling images or videos, and sp
 18. [Neural Love](https://neural.love) - AI for video and photo enhancement.
 19. [AVCLabs Video Enhancer AI](https://www.avclabs.com/video-enhancer-ai) - Improve video quality using AI.
 20. [Cre8tiveAI](https://cre8tiveai.com) - AI for image quality enhancement.
+21. [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Cleanup AI-generated pixel art (free & open source).
 
 ---
 
