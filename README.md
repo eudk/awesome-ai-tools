@@ -1913,6 +1913,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 24. [Generrated](https://generrated.com/) - A platform for exploring and creating AI-generated art.
 25. [Artist refference Spreadsheet](https://docs.google.com/spreadsheets/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/edit#gid=0) - A comprehensive Google Spreadsheet with refferences of artist styles
 26. [Midjourney Sref](https://sref-midjourney.com/) - A huge collection of 4700+ sref codes for Midjourney.
+27. [ImaginPrompt](https://imaginprompt.com) - A free multilingual AI tool suite to reverse-engineer any image into optimized Midjourney, DALL-E, and Stable Diffusion text prompts.
 
 ---
 
