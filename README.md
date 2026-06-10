@@ -1982,6 +1982,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) - VS Code extension that bridges mobile devices to Google's Antigravity IDE (a Claude-powered VS Code fork). Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [HeyTensor](https://heytensor.com) - Free browser-based PyTorch tensor shape calculator with 22 tools. Computes shapes through Conv, Linear, LSTM, and Transformer layers without running code. Includes architecture presets (LeNet, ResNet block, Transformer encoder) and a "paste error" mode for parsing PyTorch RuntimeErrors.
 - [OpenRabbit](https://github.com/aryanbrite/openrabbit) - Free, open-source, self-hosted AI GitHub PR reviewer that runs entirely in GitHub Actions.
+- [Cate](https://cate.cero-ai.com) - Open source desktop IDE on an infinite zoomable canvas. Arrange editors, terminals, browsers, and Claude Code agent panels in spatial workspaces instead of tabs. Electron, MIT licensed, runs on macOS, Windows, and Linux.
 
 ---
 
