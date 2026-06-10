@@ -1323,6 +1323,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - [LocalePack](https://localepack.app/) - AI-powered locale file translator for browser extensions, Next.js, i18next, and vue-i18n. Translates into 52 languages with placeholders and nested structure preserved. Pay once, no subscription.
 - [AgentDesk](https://agentdesk-inky.vercel.app) - Pre-built AI agents for professional services firms. Automates client intake, proposal generation, and executive reports using Claude.
+- [CreatorSkills](https://creatorskills.co) - Marketplace for AI skills (SKILL.md format) built for content creators — covers YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Compatible with Claude, ChatGPT, and 20+ AI platforms.
 - [LearnClash](https://learnclash.com) - AI-powered 1v1 quiz duels on any topic with ELO rankings and spaced repetition. Free, no ads.
 - [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalised 7-day menus based on dietary needs, cuisine preferences, and grocery budget.
 - [StoryRoute](https://storyroute.netlify.app) - AI-powered GPS audio tour guide that generates real-time location-aware travel narratives as you explore cities. Free to use.
