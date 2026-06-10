@@ -1095,6 +1095,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns (sycophantic openers, filler phrases, em-dash overuse) from text files and stdin. Pass through code blocks and URLs unchanged. `npm install -g unslop`.
 - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
+- [World-Meeting](https://world-meeting.app/ai-meeting-translator) - Browser-based video meetings with real-time voice translation, translated voice, live subtitles, and guest links.
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
 - [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - Free CLAUDE.md, Cursor rules, and PRP templates that make AI coding assistants actually useful. 5 ready-to-use template packs for common project types.
