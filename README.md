@@ -1663,6 +1663,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
     - Many public “Seedance” sites are wrappers, not official endpoints
 
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
+- [ImagineClip](https://imagineclip.com?ref=eudk-awesome-ai-tools) - AI video generator for short clips, avatar videos, stylized scenes, and social-ready videos from prompts, images, and effects.
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
