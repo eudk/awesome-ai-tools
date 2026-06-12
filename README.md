@@ -1702,6 +1702,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [SubLingo](https://sublingo.cc) - Free in-browser AI translator for SRT and VTT subtitles into 100+ languages, keeping every timecode exact, with extra subtitle tools (convert, timing shift, FPS, cleanup) and no signup.
 
 ---
 
