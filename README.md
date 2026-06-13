@@ -1089,6 +1089,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
 - [Perplexity AI Query Assistant](https://www.perplexity.ai/) - Interactive tool for AI-driven question answering and information retrieval.
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers.
+- [Prismix AI Hub](https://prismix.dev) - Real-time status monitoring for 75+ AI services (OpenAI, Anthropic, Google, Cursor, GitHub Copilot, Mistral, xAI, and more), curated news from 70+ AI sources, and a directory of 500+ MCP servers. Free status dashboard, embeddable badges, email/webhook alerts. No signup needed to browse.
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
