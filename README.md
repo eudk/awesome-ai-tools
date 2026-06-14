@@ -1702,6 +1702,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Open-source renderer for 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. AI-driven: paste your script into Claude Code / Cursor / Codex, MCP server hands the model tools to write the scene spec and render the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
 
 ---
 
