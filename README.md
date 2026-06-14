@@ -1081,6 +1081,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 
 [🔝 Back to Top](#top)
 
+- [Albis](https://www.albis.news/?utm_source=github&utm_medium=public_catalog&utm_campaign=awesome_ai_tools_eudk) - AI-assisted public news discovery tool for comparing global coverage gaps, framing differences, and stories your usual feed may have missed.
 - **[Archivarix Tube Search](https://tube.archivarix.net)**: Search engine over ~1.5 billion archived YouTube videos including deleted, private, or region-blocked content. Uses LLMs to generate detailed video summaries and auto-transcribe videos without captions. Free anonymous tier; MCP server available for AI assistants.
 - **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
 - **[AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/)**: Managed AI assistant service for small businesses that executes work autonomously - handles calls, emails, reports, bookings. Integrates with business tools, learns workflows, runs 24/7.
