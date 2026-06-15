@@ -2115,6 +2115,7 @@ This section covers some of the most advanced software platforms for working wit
 ---
 ## SEO related tools
 - If your tool is related to SEO feel free to insert it here
+- **[TubePilot](https://creators.panshi.io)** - AI copilot for YouTube creators: an SEO scorecard from your real search-term traffic, plus per-video reviews, channel strategy, topic ideas and AI thumbnail critique — all from your own channel data (read-only, official YouTube API, never scrapes others).
 - **[Parse](https://parse.gl/)** - AI visibility analytics for tracking brand mentions, competitors, and cited sources across ChatGPT and Google AI Overviews.
 - **[PromptEden](https://www.prompteden.com)** - AEO (Answer Engine Optimization) monitoring. Tracks how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead, across 9+ AI platforms refreshed daily.
 
