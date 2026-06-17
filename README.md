@@ -1958,6 +1958,7 @@ A selection of platforms offering API integration for various AI applications an
 - [GoCodeo](https://www.gocodeo.com/) - AI agent for building full-stack apps in minutes.
 - [JetBrains Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) - AI-assisted code completion for Kotlin multiplatform development.
 - [MyVibe](https://www.myvibe.so) - Instant deployment for AI-coded projects via Claude Code.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - AI web tool that turns Roblox Studio UI prompts into menus, HUDs, shop screens, and Lua starter code.
 - [AppDeploy](https://appdeploy.ai) - Describe what you want to build to your favorite AI assistant, such as ChatGPT, Claude, or any other MCP client. AppDeploy deploys it, handles the frontend and backend services, and gives you a live URL.
 - [Tabnine](https://www.tabnine.com/) - AI code completion assistant for software developers, supporting multiple languages and IDEs.
 - [Kite](https://www.kite.com/) - AI coding assistant offering line-of-code completions and documentation.
