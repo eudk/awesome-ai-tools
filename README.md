@@ -1337,6 +1337,10 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 
 
+### Writing assistants
+
+- [patina](https://github.com/devswha/patina) - Multilingual CLI and agent skill that audits and rewrites AI-sounding writing patterns while preserving meaning.
+
 ---
 
 # 💾 GPU Rental Services for Large Language Models
