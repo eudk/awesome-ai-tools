@@ -1295,6 +1295,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Kaggle](https://www.kaggle.com/) - Data Science and ML Platform
 - [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
 - [OpenAI](https://openai.com/) - AI Research and Applications
+- [Satcove](https://satcove.com/) - Multi-AI Consensus Engine (queries six models, one verdict)
 - [Algorithmia](https://algorithmia.com/) - AI Model Deployment
 - [MonkeyLearn](https://monkeylearn.com/) - Text Analysis with AI
 - [Rasa](https://rasa.com/) - Open Source Chatbot Framework
