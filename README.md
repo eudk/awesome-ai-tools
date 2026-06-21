@@ -1624,6 +1624,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 [🔝 Back to Top](#top)
 
 - [Build Club](https://www.buildclub.ai) - Global AI community and education platform
+- [intheloop](https://intheloop.wexare.com) - Community for AI founders and developers to share links, discuss, and vote on tech content. Multilingual (en/es/pt).
 
 ---
 
