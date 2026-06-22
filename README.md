@@ -1223,6 +1223,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
 
+- **[LoopTroop](https://github.com/looptroop-ai/LoopTroop)** — Local-first open-source GUI app that orchestrates an LLM Council through Ralph Loops and Context Engineering to autonomously run full-lifecycle coding tickets. Multiple models plan via anonymous voting, work is split into atomic Beads in isolated git worktrees, and Ralph Loops retry failures with fresh context. Runs on OpenCode, supports any model. MIT. → [Website](https://www.looptroop.ovh/)
+
 ### General-Purpose Agent Frameworks
 
 - **[OpenManus](https://github.com/FoundationAgents/OpenManus)** — Open-source framework for building general AI agents, created by the MetaGPT team as a fully open alternative to the invite-only Manus platform. Supports multi-agent flows, browser, shell, code execution, and web search. Also see **[OpenManus-RL](https://github.com/FoundationAgents/OpenManus)** for RL-based agent fine-tuning (GRPO). MIT.
