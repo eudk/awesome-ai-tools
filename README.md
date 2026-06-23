@@ -1632,6 +1632,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 [🔝 Back to Top](#top)
 
 - [Comicory](https://www.comicory.com) - AI comic generator that produces multi-panel stories with character consistency across frames.
+- [Auferet](https://auferet.com/) - AI game master for interactive solo text adventures and tabletop-style RPGs, with persistent story memory and your own uploaded lore.
 
 ---
 
