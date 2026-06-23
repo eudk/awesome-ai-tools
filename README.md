@@ -1550,6 +1550,8 @@ The following are online platforms where you can rent GPU resources, ideal for r
 38. **[TensorFlow Playground](https://playground.tensorflow.org/)**
 39. **[Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)**
 40. **[AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)**
+41. **[Legendary Life Simulators](https://ordinarymantrying.com/tools/)** — Play as Mandela, Curie, Jobs, Musk, Buffett and 7 others. Face their real pivotal decisions blind — built with Claude, zero backend.
+42. **[Mandarin Flashcards (HSK 1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards/)** — 400 Mandarin vocabulary cards with spaced repetition in a single HTML file. Open source.
 
 ---
 
