@@ -1643,6 +1643,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 
 
 - **[Seedance 2.0 (ByteDance)](https://seed.bytedance.com/en/seedance)** — Multimodal AI video generation model (text, image, video, audio)
+- **[Sparkiz.ai](https://sparkiz.ai)** - Turn a product link into a ready-to-launch AI video ad with avatars, voiceover and captions in under 60 seconds.
   - Supports **multi-shot cinematic video generation with native audio and scene control**
   - Designed for **high-quality, controllable video workflows (Sora / Veo competitor)**  
 
