@@ -1946,7 +1946,8 @@ A selection of platforms offering API integration for various AI applications an
 20. [ChatterOn](https://chatteron.io) - AI chatbot building platform with API.
 21. [YobiYoba](https://www.yobiyoba.com/en/) - The Yobiyoba API provides automatic transcription, real-time processing, audio-text alignment, and lexicon enhancement to enrich your audio transcriptions.
 22. [SkillBoss](https://skillboss.co) - Unified API gateway for 100+ AI models (Claude, GPT, Gemini, DeepSeek) plus image/video generation, payments, and infrastructure services. OpenAI-compatible.
-23. Many others support API integration too
+23. [Prism API](https://558686.xyz) - Independent OpenAI-compatible AI API gateway with low-cost GPT-5.5 access, crypto-friendly recharge/voucher options, quota controls, and GPT/Claude/Gemini/Antigravity model families.
+24. Many others support API integration too
 
 ---
 
