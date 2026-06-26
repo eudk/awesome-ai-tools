@@ -1662,6 +1662,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
     - Not fully open globally (limited rollout / controlled access)
     - Many public “Seedance” sites are wrappers, not official endpoints
 
+- [Vibe Creating](https://github.com/Alisa0808/vibe-creating-skill) - Open-source bilingual (EN/中文) Claude Agent Skill that rewrites a rough idea or over-specified shot script into a model-ready text-to-video prompt (Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu). Free, MIT.
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
