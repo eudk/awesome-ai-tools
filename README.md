@@ -1299,6 +1299,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [MonkeyLearn](https://monkeylearn.com/) - Text Analysis with AI
 - [Rasa](https://rasa.com/) - Open Source Chatbot Framework
 - [Dialogflow](https://cloud.google.com/dialogflow) - Google's Chatbot Platform
+- [Neuron](https://neuron.ng) - AI-powered WhatsApp chatbot platform with MCP tools, knowledge bases, campaigns, and multi-model support.
 - [Otter.ai](https://otter.ai/) - AI-Powered Note Taking
 - [Monday.com](https://monday.com/) - Work Operating System
 - [RescueTime](https://www.rescuetime.com/) - Time Management
