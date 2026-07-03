@@ -1303,6 +1303,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Monday.com](https://monday.com/) - Work Operating System
 - [RescueTime](https://www.rescuetime.com/) - Time Management
 - [Kitmul](https://kitmul.com) - 100+ Free AI-Powered Browser Tools (PDF, Image, Video, Text, Developer utilities). Privacy-first, no signup required.
+- [AI Money Stack](https://duct-tape2.github.io/ai-money-stack/) - Local-first tools for ranking revenue ideas, reviewing PRs, and filtering paid OSS bounty candidates.
 - [Todoist](https://todoist.com/) - Task Management
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
