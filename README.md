@@ -1304,6 +1304,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [RescueTime](https://www.rescuetime.com/) - Time Management
 - [Kitmul](https://kitmul.com) - 100+ Free AI-Powered Browser Tools (PDF, Image, Video, Text, Developer utilities). Privacy-first, no signup required.
 - [Todoist](https://todoist.com/) - Task Management
+- [Tudo](https://blynkai.app/tudo/) - AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans.
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
 - [Canva](https://www.canva.com/) - Easy Graphic Design
