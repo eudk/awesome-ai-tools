@@ -1,5 +1,7 @@
 [![Awesome](https://img.shields.io/badge/Awesome-AI-000000.svg?logo=github&labelColor=24292e)](#)
 ![GitHub Stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 ![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
 ![GitHub Contributors](https://img.shields.io/github/contributors/eudk/awesome-ai-tools)
 ![Last Commit](https://img.shields.io/github/last-commit/eudk/awesome-ai-tools)
