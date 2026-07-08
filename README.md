@@ -101,6 +101,7 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 | [AI for Photo Editing](#ai-tools-for-photo-editing)                               | AI tools designed for professional photo editing.                             |
 | [🖼️ Image Prompting Tools](#tools-for-better-image-prompting)                     | Tools to create better prompts for image generation models.                   |
 | [API Integration Sites](#sites-with-api-integration)                              | Websites offering API integrations for AI models.                             |
+- **[GoldBean](https://github.com/wuzenghai616-lang/goldbean)** - Pay-per-use AI API gateway with x402 USDC micropayments. Access Baidu AI (OCR, TTS, ASR, Translation, LLM, Image Recognition) globally — no Chinese phone number required. MCP compatible.
 | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants)      | Tools for coding and compiling with AI assistance.                            |
 | [🛠️ LLM Ops](#llm-ops)                                                            | Operations and infrastructure for large language models.                      |
 | [🛠️ Consumer AI Hardware](#consumer-ai-hardware)                                  | Hardware designed for running AI applications at home.                        |
