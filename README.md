@@ -1237,6 +1237,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** — Multi-agent orchestrator for CLI coding agents (Claude Code, Codex CLI, Gemini CLI, and 34 more). Deterministic Python scheduler, first-class MCP server, file-based state, quality gates, cost tracking. Apache-2.0.
 
+- **[AgentBox](https://github.com/madarco/agentbox)** — Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM — local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean). Sub-1s checkpoints, per-box browser/VS Code/shells, git creds kept on host. MIT.
+
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating teams of specialized AI agents. Role-based agents collaborate on complex tasks. $20M+ in VC funding. Apache-2.0.
 
 - **[LangChain](https://github.com/langchain-ai/langchain)** — One of the most widely used frameworks for building LLM-powered agents and chains. Extensive integrations. Raised $125M at $1.25B valuation (Oct 2025). MIT.
