@@ -1317,6 +1317,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
 - [Lynote AI Humanize Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanization toolkit for rewriting AI drafts into natural, human-like writing. Full free web version: https://lynote.ai/ai-humanizer
+- [patina](https://github.com/devswha/patina) - Multilingual CLI and agent skill that audits and rewrites AI-sounding writing patterns while preserving meaning.
 - [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) – AI-powered generator for Claude agent system prompts using a 3-step OpenRouter pipeline
 - [SocialBu](https://socialbu.com/) – AI-powered social media management platform for scheduling, publishing, monitoring, and automating across X, Instagram, LinkedIn, Facebook, TikTok, and more
 - [AI for Database](https://aifordatabase.com) – Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
@@ -1334,7 +1335,6 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
-
 
 
 ---
