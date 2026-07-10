@@ -2100,6 +2100,8 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[Cerebras-GPT](https://www.cerebras.net/)** - Cerebras Systems provides open-source GPT models optimized for their AI-specific hardware. While designed for large-scale deployment, Cerebras-GPT models can also be run on specific compatible local setups, making it suitable for research or enterprise applications.
 
+- **[Off Grid AI Desktop](https://getoffgridai.co/desktop)** - Private, local-first macOS desktop app that runs LLM chat, image generation, whisper dictation, and personal-memory RAG fully on-device via llama.cpp; open source (AGPL-3.0).
+
 
 ## AI Tool Resources & Directories
 
