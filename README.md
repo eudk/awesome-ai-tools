@@ -1151,6 +1151,11 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
+- [Free AI Chat](https://zalt.me/tools/free-ai-chat-online) - Chat with an AI in your browser. 100% private, unlimited, no sign-up.
+- [AI Text Humanizer](https://zalt.me/tools/ai-humanizer) - Rewrite AI-generated text into a natural human style. In-browser, no account.
+- [Text Summarizer](https://zalt.me/tools/text-summarizer) - Summarize long text locally. Nothing is uploaded.
+- [Background Remover](https://zalt.me/tools/background-remover) - Remove image backgrounds in your browser. Nothing is uploaded.
+- [AI Image Upscaler](https://zalt.me/tools/image-upscaler) - Upscale and enhance images 2x locally, no upload.
 
 ---
 ## 🦞 OpenClaw Ecosystem
