@@ -1946,7 +1946,8 @@ A selection of platforms offering API integration for various AI applications an
 20. [ChatterOn](https://chatteron.io) - AI chatbot building platform with API.
 21. [YobiYoba](https://www.yobiyoba.com/en/) - The Yobiyoba API provides automatic transcription, real-time processing, audio-text alignment, and lexicon enhancement to enrich your audio transcriptions.
 22. [SkillBoss](https://skillboss.co) - Unified API gateway for 100+ AI models (Claude, GPT, Gemini, DeepSeek) plus image/video generation, payments, and infrastructure services. OpenAI-compatible.
-23. Many others support API integration too
+23. [DaoXE](https://daoxe.com/?utm_source=github&utm_medium=directory&utm_campaign=awesome_ai_tools_eudk) - Multi-model API gateway with OpenAI Chat Completions, OpenAI Responses, and Anthropic Messages compatible endpoints; not available in mainland China.
+24. Many others support API integration too
 
 ---
 
