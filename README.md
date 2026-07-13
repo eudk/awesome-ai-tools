@@ -1664,6 +1664,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
+- [Vox Director](https://github.com/Alisa0808/vox-director) - Open-source agent skill that turns one topic into a finished Vox-style paper-collage explainer/ad video (script, collage art, motion, voice-over, music, captions); runs on Atlas Cloud + ffmpeg, works with Claude Code & Codex.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
 - [Pictory](https://pictory.ai) - AI-powered video editing and creation.
