@@ -1284,6 +1284,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ---
 ## 🆕 Additional AI and Productivity Tools
 
+- **[Commandra](https://commandra.io)** – AI-powered CRM for home service contractors. Automates lead response (60-second auto-reply), follow-up sequences for dead quotes, review request automation, scheduling, and invoicing. Built by a contractor.
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
