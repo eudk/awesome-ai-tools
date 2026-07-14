@@ -1662,6 +1662,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
     - Not fully open globally (limited rollout / controlled access)
     - Many public “Seedance” sites are wrappers, not official endpoints
 
+- [iLoveVideoEditor](https://ilovevideoeditor.com) - Motion design engine for automated video production: 249 templates, JSON-to-MP4 API, SDKs, and AI agents via MCP.
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
