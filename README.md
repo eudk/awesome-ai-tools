@@ -1247,6 +1247,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[Mastra](https://github.com/mastra-ai/mastra)** — TypeScript-native AI agent framework for web developers. Workflow automation with typed tools and integrations. MIT.
 
+- **[Heym](https://github.com/heymrun/heym)** — Source-available, self-hosted visual platform for multi-agent orchestration with RAG, MCP, human-in-the-loop controls, evals, and tracing. MIT + Commons Clause.
+
 - **[Kimi Claw](https://www.kimi.com/bot)** - OpenClaw is an AI assistant with personality and memory. Kimi deploys it to the cloud for you in one click—no complex setup, online 24/7.
 
 - **[MiniMax](https://www.minimaxi.com/)** — Full-stack AI platform focused on multimodal agents and consumer-scale deployment  
