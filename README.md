@@ -1294,6 +1294,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Google AI](https://ai.google/) - Google's AI Research and Tools
 - [Kaggle](https://www.kaggle.com/) - Data Science and ML Platform
 - [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
+- [DDScore](https://www.ddscore.ai/) - AI-assisted first-pass due diligence for private-company materials, with a 0–100 score and written report across 12 dimensions.
 - [OpenAI](https://openai.com/) - AI Research and Applications
 - [Algorithmia](https://algorithmia.com/) - AI Model Deployment
 - [MonkeyLearn](https://monkeylearn.com/) - Text Analysis with AI
