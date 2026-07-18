@@ -1309,6 +1309,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Canva](https://www.canva.com/) - Easy Graphic Design
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered visual mind mapping
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
+- [AI Nexus](https://ainexustools.online) - Independent reviews and comparisons of AI writing, coding, video, and voice tools, with dedicated India pricing breakdowns.
 - [Instafill.ai](https://instafill.ai) – AI PDF Form Filler
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
