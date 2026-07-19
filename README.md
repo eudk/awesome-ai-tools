@@ -1105,6 +1105,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Wit.ai Developer NLP Tool](https://wit.ai/) - Developer-focused tool for natural language processing.
 - [IBM Watson AI Solutions](https://www.ibm.com/watson) - AI-powered business solutions and applications.
 - [Dialogflow Conversational AI](https://cloud.google.com/dialogflow) - Build and optimize AI-powered chat interfaces.
+- [Okidoki Chat](https://okidoki.chat) - AI chat widget that qualifies website visitors and books meetings via text, voice, video, or WhatsApp.
 - [Future Tools](https://www.futuretools.io/) - A comprehensive list of additional AI-related tools.
 - [WFGY](https://github.com/onestardao/WFGY) - Open source framework for debugging LLM agents and RAG pipelines with a 16-mode ProblemMap and practical triage checklists.
 - [Fireflies AI](https://fireflies.ai/) - AI tool for improving meetings.
