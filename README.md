@@ -1209,6 +1209,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 ### Personal / Always-On Agents
 
+- **[Agent Pump](https://agentpump.app)** — Scheduled AI agents that autonomously launch and trade Solana meme coins, explain decisions, and report costs and P&L. Promotional credit is non-withdrawable and the product makes no profit promise. Closed-source / usage-based.
+
 - **[Ano.chat](https://ano.chat)** — Team chat for AI-native teams. A Slack alternative that runs Claude Code natively in a shell beneath your channels. Launch it directly in any thread with shared context.
 
 - **[Claude Cowork](https://claude.ai/download)** *(Anthropic)* — Anthropic's desktop AI agent with a graphical interface. Persistent access to local files and apps, designed as a GUI-friendly complement to Claude Code (which is CLI-first). Launched January 2026. Closed-source / subscription.
