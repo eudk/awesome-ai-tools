@@ -1132,6 +1132,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
 - [Wave.video](https://wave.video/) - AI for video marketing.
 - [RoamAround.io](https://www.roamaround.io/) - AI for travel planning.
+- [Travvy](https://gettravvy.com/es/?src=awesome-ai-tools-jul23) - AI travel planner for iOS and Android that creates itineraries and self-guided tours in Spanish and other supported languages.
 - [Codeium](https://codeium.com/) - AI for coding assistance.
 - [Jenni.ai](https://jenni.ai) - AI writing tool designed primarily for students, facilitating swift and efficient content creation.
 - [HeyGen.com](https://heygen.com) - Effortlessly produce studio-quality videos with AI-generated avatars and voices.
