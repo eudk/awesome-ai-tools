@@ -1209,6 +1209,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 ### Personal / Always-On Agents
 
+- **[VAND](https://vand.space/local-personal-ai)** — Local-first personal AI for Windows that builds memory from the user's journal, habits, health, goals, and conversations while keeping personal data in an AES-256-GCM-encrypted file on the user's computer. No account or subscription; 14-day full trial, then a one-time lifetime license. Closed-source. → [Releases](https://github.com/quentinthegoat/vand-releases)
+
 - **[Ano.chat](https://ano.chat)** — Team chat for AI-native teams. A Slack alternative that runs Claude Code natively in a shell beneath your channels. Launch it directly in any thread with shared context.
 
 - **[Claude Cowork](https://claude.ai/download)** *(Anthropic)* — Anthropic's desktop AI agent with a graphical interface. Persistent access to local files and apps, designed as a GUI-friendly complement to Claude Code (which is CLI-first). Launched January 2026. Closed-source / subscription.
