@@ -1338,6 +1338,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 
 ---
+- [FN2](https://fn2.ai) - AI market analyst for investors: daily briefings, research, and scheduled monitoring agents
 
 # 💾 GPU Rental Services for Large Language Models
 
