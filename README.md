@@ -1297,6 +1297,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [OpenAI](https://openai.com/) - AI Research and Applications
 - [Algorithmia](https://algorithmia.com/) - AI Model Deployment
 - [MonkeyLearn](https://monkeylearn.com/) - Text Analysis with AI
+- [Does My Text Sound AI?](https://parweb.github.io/sounds-ai/) - Offline checker scoring text against ~60 AI-writing tells
+- [Landing Copy Grader](https://parweb.github.io/landing-copy-grader/) - Scores landing page hero copy 0-100 for AI-writing tells
 - [Rasa](https://rasa.com/) - Open Source Chatbot Framework
 - [Dialogflow](https://cloud.google.com/dialogflow) - Google's Chatbot Platform
 - [Otter.ai](https://otter.ai/) - AI-Powered Note Taking
