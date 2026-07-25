@@ -1334,6 +1334,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [Image Describer](https://imagedescriber.dev) - Generates descriptions of uploaded images for accessibility and content workflows.
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Generates Vedic birth charts and related chart interpretations.
 
 
 
@@ -1849,6 +1851,7 @@ AI tools for enhancing media quality, such as upscaling images or videos, and sp
 18. [Neural Love](https://neural.love) - AI for video and photo enhancement.
 19. [AVCLabs Video Enhancer AI](https://www.avclabs.com/video-enhancer-ai) - Improve video quality using AI.
 20. [Cre8tiveAI](https://cre8tiveai.com) - AI for image quality enhancement.
+21. [Video Upscaler](https://videoupscaler.video) - Browser-based AI video upscaling and enhancement.
 
 ---
 
@@ -1880,6 +1883,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
 21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
 22. [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
+23. [Blur Background](https://blurbackground.vip) - Blur image backgrounds automatically in the browser.
 
 ---
 
