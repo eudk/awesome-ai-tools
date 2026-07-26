@@ -1148,6 +1148,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Lervos](https://lervos.com) - AI-powered proposal assistant for freelancers, built on Hono, Cloudflare Workers, and D1.
 - [Domain Generator](https://freedomaingenerator.com/) - Free AI domain generator with availability check and price comparison
 - [Iteration Layer](https://iterationlayer.com) - Composable content processing APIs for document extraction, image transformation, and image, document & sheet generation.
+- [Free AI Directory CN](https://www.qaz5678.xyz/) - Free Chinese directory for daily AI news, trending projects, free model links, and source-backed Codex/Claude Code relay information.
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
