@@ -1322,7 +1322,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [AI for Database](https://aifordatabase.com) – Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 
 - [LocalePack](https://localepack.app/) - AI-powered locale file translator for browser extensions, Next.js, i18next, and vue-i18n. Translates into 52 languages with placeholders and nested structure preserved. Pay once, no subscription.
-[DevProjex](https://github.com/Avazbek22/DevProjex) — Open-source cross-platform GUI and CLI for selecting project files and exporting structured, token-counted context for AI assistants, with Smart Ignore, preview, and multiple output formats.
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - Open-source cross-platform GUI and CLI for selecting project files and exporting structured, token-counted context for AI assistants, with Smart Ignore, preview, and multiple output formats.
 - [AgentDesk](https://agentdesk-inky.vercel.app) - Pre-built AI agents for professional services firms. Automates client intake, proposal generation, and executive reports using Claude.
 - [LearnClash](https://learnclash.com) - AI-powered 1v1 quiz duels on any topic with ELO rankings and spaced repetition. Free, no ads.
 - [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalised 7-day menus based on dietary needs, cuisine preferences, and grocery budget.
