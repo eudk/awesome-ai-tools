@@ -30,6 +30,7 @@
 Welcome to a curated collection of tools, models, and platforms across the rapidly evolving landscape of artificial intelligence (AI) and machine learning (ML). This repository has been actively maintained since 2023 and aims to provide a reliable, up-to-date reference for the AI ecosystem.
 
 This repository focuses on the most relevant systems across:
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - large language models (LLMs)
 - multimodal generation (image, video, audio)
 - AI agents and automation
