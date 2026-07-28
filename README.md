@@ -1121,6 +1121,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Phrasly AI](https://phrasly.ai/) - AI tool to humanize text.
 - [Generated Photos](https://generated.photos/) - AI for generating human-like images.
 - [Scribble Diffusion](https://scribblediffusion.com/) - AI that generates images from drawings.
+- [GPT Image 2](https://gptimage2.asia/) - AI image generation and editing tool for marketing, ecommerce, social media, and branded visuals.
 - [Jasper AI](https://www.jasper.ai/) - Broad AI tool for various applications.
 - [AI for Biz](https://aiforbiz.co/) - Helps find AI use cases for businesses.
 - [Breeze AI](https://breeze.ai/) - AI for marketing.
