@@ -1603,6 +1603,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered virtual staging for real estate listings
 - [MyPicNow](https://www.mypicnow.com) - Generate studio-quality AI headshots of yourself. Perfect for LinkedIn, dating apps, and professional use.
 - [Nsketch AI](https://nsketch.ai) - AI image and video generation platform with 20+ models and ready-made templates for creators.
+- [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video routes, prompts, reference inputs, options, task status, and downloadable outputs before API integration.
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
