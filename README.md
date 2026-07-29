@@ -1632,6 +1632,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 [🔝 Back to Top](#top)
 
 - [Comicory](https://www.comicory.com) - AI comic generator that produces multi-panel stories with character consistency across frames.
+- [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - AI story generator for customizable genres, tones, characters, plots, and lengths.
 
 ---
 
