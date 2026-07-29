@@ -1081,6 +1081,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 
 [🔝 Back to Top](#top)
 
+- [AI Wallpaper](https://aiwallpaper.me) - Live Wallpaper generator that creates static wallpapers or short MP4/WebM motion loops from text prompts or uploaded images.
 - **[Archivarix Tube Search](https://tube.archivarix.net)**: Search engine over ~1.5 billion archived YouTube videos including deleted, private, or region-blocked content. Uses LLMs to generate detailed video summaries and auto-transcribe videos without captions. Free anonymous tier; MCP server available for AI assistants.
 - **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
 - **[AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/)**: Managed AI assistant service for small businesses that executes work autonomously - handles calls, emails, reports, bookings. Integrates with business tools, learns workflows, runs 24/7.
