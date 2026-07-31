@@ -1286,6 +1286,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 [🔝 Back to Top](#top)
 
+- [Jobloo](https://jobloo.co) – AI-powered job application platform that automatically tailors resumes for each job description and submits to Workday, Greenhouse, Lever, and LinkedIn Easy Apply.
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
