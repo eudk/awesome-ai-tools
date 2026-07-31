@@ -67,6 +67,7 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 </a>
 <br><br>
 
+- [TranslateScan](https://translatescan.com) - AI translator for scanned PDFs, photos, and documents preserving original layout.
 ## 🔗 Navigation Table
 
 | Category                                                                          | Description                                                                   |
