@@ -1680,6 +1680,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Fliki](https://fliki.ai) - Turn text to speech videos.
 - [Hour One](https://www.hourone.ai) - AI characters for video generation.
 - [InVideo](https://invideo.io) - Online video creator with AI.
+- [VideoGen](https://videogen.io/ai-video-generator) - AI video generator that turns prompts, scripts, and articles into finished videos with voiceover, subtitles, and b-roll (Sora, Veo, Kling models).
 - [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - [AI Video Maker](https://www.animaker.com/ai-video-maker) - Animaker’s AI video maker.
 - [Vimeo Create](https://vimeo.com/create) - AI-driven video creation.
