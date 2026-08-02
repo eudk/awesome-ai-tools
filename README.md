@@ -1128,6 +1128,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Pictory AI](https://pictory.ai/) - AI tool for video creation.
 - [Repurpose.io](https://repurpose.io/) - AI for content repurposing.
 - [Copy.ai](https://www.copy.ai/) - AI for copywriting.
+- [ListingAI](https://lijustin655.github.io/f1-listingai/) - Free AI listing generator for Amazon & TikTok Shop sellers. Generates optimized title, bullets, and description in 30 seconds.
 - [You.com](https://you.com/) - AI-powered search engine.
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
 - [Wave.video](https://wave.video/) - AI for video marketing.
