@@ -1674,6 +1674,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Elai.io](https://elai.io) - AI video builder with custom avatars.
 - [AI Video Enhancer](https://topazlabs.com/video-enhance-ai) - Enhance video quality using AI.
 - [GlitchAI](https://glitchai.com) - AI for video glitch effects.
+- [TubeTube](https://www.tubetube.io) - Turn lyrics or a story into a finished long-form video with consistent characters.
 - [Kapwing AI Video Editor](https://www.kapwing.com) - Online AI video editor.
 - [Video Background Remover](https://videobackgroundremover.org) - Dedicated tool to remove video backgrounds without a green screen, with free no-watermark exports.
 - [Veed.io](https://www.veed.io) - AI video editing and subtitles.
