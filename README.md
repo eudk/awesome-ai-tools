@@ -1605,6 +1605,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Nsketch AI](https://nsketch.ai) - AI image and video generation platform with 20+ models and ready-made templates for creators.
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
+- [Rao Edits](https://raoedits.top/) - Browser-based AI image generation and reference-image editing for social, product, and creative assets.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 
 
