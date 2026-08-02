@@ -1153,6 +1153,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
 
 ---
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 ## 🦞 OpenClaw Ecosystem
 [🔝 Back to Top](#top)
 
