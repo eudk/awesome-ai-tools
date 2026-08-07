@@ -1666,6 +1666,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Real-time AI face swapping, outfit transformation, and visual restyling through a web experience and Windows client, with virtual-camera output for compatible apps.
 - [Pictory](https://pictory.ai) - AI-powered video editing and creation.
 - [Lumen5](https://lumen5.com) - AI-driven video maker for businesses.
 - [Descript](https://www.descript.com) - Video editing and transcription.
