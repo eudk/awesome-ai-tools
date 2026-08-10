@@ -1284,6 +1284,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ---
 ## 🆕 Additional AI and Productivity Tools
 
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA and related compliance frameworks. Free tools: https://www.ismscopilot.com/resources
+
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
