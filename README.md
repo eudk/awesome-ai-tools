@@ -1,4 +1,5 @@
-[![Awesome](https://img.shields.io/badge/Awesome-AI-000000.svg?logo=github&labelColor=24292e)](#)
+# Image Generation Tools[![Awesome](https://img.shields.io/badge/Awesome-AI-000000.svg?logo=github&labelColor=24292e)](#)
+
 ![GitHub Stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
 ![GitHub Contributors](https://img.shields.io/github/contributors/eudk/awesome-ai-tools)
@@ -1554,6 +1555,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 ---
 
 # Image Generation Tools
+  - [Nano Banana](https://nanobanana.live/) - Browser-based AI image generation and editing tool.
 
 [🔝 Back to Top](#top)
 
