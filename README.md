@@ -1233,6 +1233,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[ai-manus](https://github.com/Simpleyyt/ai-manus)** — Self-hostable Manus-style agent with sandboxed Docker environments, Terminal/Browser/File/Search tools, MCP integration, and optional OpenClaw (Claw) integration for one-click deployment.
 
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** — Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a 5-layer local memory. No account or API key required to install. macOS, Linux, and Windows. MIT. → [Website](https://atomicagent.io) · [Docs](https://atomicagent.io/docs) · [Discord](https://discord.gg/Us7qXtDGw) · [X](https://x.com/atomicagent_io)
+
 ### Multi-Agent / Orchestration Frameworks
 
 - **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** — Multi-agent orchestrator for CLI coding agents (Claude Code, Codex CLI, Gemini CLI, and 34 more). Deterministic Python scheduler, first-class MCP server, file-based state, quality gates, cost tracking. Apache-2.0.
@@ -2099,6 +2101,8 @@ This section covers some of the most advanced software platforms for working wit
 - **[Flan-T5](https://github.com/google-research/t5x)** - A variant of Google’s T5 model, fine-tuned with instruction-based learning (Flan). Flan-T5 is popular in the open-source community for various natural language processing tasks, and it can be deployed on local hardware for private usage.
 
 - **[Cerebras-GPT](https://www.cerebras.net/)** - Cerebras Systems provides open-source GPT models optimized for their AI-specific hardware. While designed for large-scale deployment, Cerebras-GPT models can also be run on specific compatible local setups, making it suitable for research or enterprise applications.
+
+- **[Atomic Agent](https://atomicagent.io/)** - A local-first CLI and TUI agent that runs open-weight models entirely on your own machine through a llama.cpp fork, with no account or API key required to install. It ships with 56 built-in tools (browser, filesystem, git, memory, and vision), MCP support, and a 5-layer local memory, and runs on macOS, Linux, and Windows. Open-source under the MIT license.
 
 
 ## AI Tool Resources & Directories
