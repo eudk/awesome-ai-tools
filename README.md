@@ -1119,6 +1119,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Palette FM](https://palette.fm/) - AI for color management on images.
 - [HeyGen](https://www.heygen.com/) - AI platform for video generation.
 - [Phrasly AI](https://phrasly.ai/) - AI tool to humanize text.
+- [Mydentify AI Watermark and Claude Checker](https://mydentify.com/tools/ai-watermark-detector) - Free browser-only checker that reports observable Unicode artifacts and non-conclusive style clues in pasted text; it does not claim to verify a private statistical watermark or authorship.
 - [Generated Photos](https://generated.photos/) - AI for generating human-like images.
 - [Scribble Diffusion](https://scribblediffusion.com/) - AI that generates images from drawings.
 - [Jasper AI](https://www.jasper.ai/) - Broad AI tool for various applications.
