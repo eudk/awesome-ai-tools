@@ -1099,6 +1099,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
 - [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - Free CLAUDE.md, Cursor rules, and PRP templates that make AI coding assistants actually useful. 5 ready-to-use template packs for common project types.
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - Any URL to clean markdown for LLMs. Free API, no signup required. Strips JS/CSS and outputs LLM-ready content.
+- [Mydentify AI Watermark Detector](https://mydentify.com/tools/ai-watermark-detector) - Checks pasted text for observable Unicode watermark signals and non-conclusive style clues; it cannot prove authorship.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
 - [Hugging Face NLP & Model Hub](https://huggingface.co/) - Extensive repository of NLP models and datasets.
 - [Algorithmia AI Model Deployment](https://algorithmia.com/) - Platform for scalable AI and machine learning model deployment.
