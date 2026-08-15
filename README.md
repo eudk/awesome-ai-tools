@@ -2215,7 +2215,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 
 ---
 <p align="center">
-  <a href="https://www.star-history.com/?repos=eudk/awesome-ai-tools&type=date&legend=top-left">
-    <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
+  <a href="https://star-history.dera.page/#eudk/awesome-ai-tools&type=date&legend=top-left">
+    <img src="https://star-history.dera.page/svg?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
