@@ -645,7 +645,13 @@ Perplexity is an AI-based search and research platform that combines large langu
   - Free tier with limited usage  
   - Pro tier (~$20/month) with higher limits and advanced models  
   - Max tier for heavier usage, advanced agent features, and early access  
-  - Enterprise tiers for teams, admin controls, security, and higher limits  
+  - Enterprise tiers for teams, admin controls, security, and higher limits
+
+### Name Not Found
+
+[🔝 Back to Top](#top)
+
+- **[Name Not Found](https://namenotfound.ai/)** — Private AI systems with hosted access, private deployment, and custom implementation; public model releases include NNF-EAM, Nexum, Nomos, Nightlight, and Nucleus-Resynthesis for long-context, agentic, orchestration, security, and scientific workloads.
 ---
 ## 🇨🇳 Leading Chinese AI Models
 [🔝 Back to Top](#top)
