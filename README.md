@@ -1565,6 +1565,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
+- [Krealize](https://krealize.app/) - Native macOS app for local Krea 2 image generation on Apple silicon using MLX.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [CivitAI](https://civitai.com/models) - Platform offering various AI models including image generators. Works very well with midjourney
 - [DeepArt](https://deepart.io) - Turns your photos into artworks using AI.
