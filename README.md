@@ -2120,6 +2120,8 @@ This section covers some of the most advanced software platforms for working wit
 
 - [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
 
+- **[TrackAIMentions](https://trackaimentions.com/ai-visibility-checker)** - Free report-first checker that samples ChatGPT-style answers and Perplexity visibility to show whether a brand or its competitors are organically recommended.
+
 ---
 ## Unsorted category
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
