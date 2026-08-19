@@ -1334,7 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
-- [tokensto.cash](https://tokensto.cash) - Turn leftover OpenRouter / OpenAI / Anthropic credits into USDC by listing capacity on Surplus Intelligence. Auto-undercuts the live book. Cash out via Revolut, Monzo, Chime, or Zelle.
+- [tokensto.cash](https://tokensto.cash) - Turn leftover OpenRouter / OpenAI / Anthropic credits into USDC by listing capacity on Surplus Intelligence. Auto-undercuts the live book. Cash out via Revolut, Monzo, Chime, Zelle, Venmo, Cash App, Wise, or PayPal (Verify required for the last four).
 
 
 
