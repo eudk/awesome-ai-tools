@@ -1880,6 +1880,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
 21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
 22. [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
+23. [DressMeAI](https://dressmeai.com/?utm_source=github&utm_medium=referral&utm_campaign=first_10_paid_users&utm_content=eudk_awesome_ai_tools) - AI virtual try-on that combines a person photo and clothing image to preview an outfit online.
 
 ---
 
