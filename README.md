@@ -1332,6 +1332,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [KDP Readiness Score](https://publishing.co.uk/audit/kdp-readiness/) - Free 60-second pre-flight audit for indie authors. Runs the 30+ technical checks Amazon's KDP review system uses (margins, bleed, font embedding, image DPI, ToC integrity, ISBN match, EPUB validity) and returns a score plus remediation PDF. No signup. Disclosure: submitted by the maker.
 - [Soda](https://getsoda.app) – Knowledge layer for customer-facing teams. A living memory built from every call, app and conversation.
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
+- [English Speaking App](https://englishspeakingapp.com/english-speaking-practice?utm_source=github&utm_medium=referral&utm_campaign=first_10_paid_users&utm_content=eudk_awesome_ai_tools) - AI English speaking practice for interviews, meetings, and everyday conversations, with a free 30-second speaking test and immediate feedback.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
 
