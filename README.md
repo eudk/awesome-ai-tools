@@ -1284,6 +1284,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ---
 ## 🆕 Additional AI and Productivity Tools
 
+- [AI Marker](https://markaimedia.com) - EU AI Act Article 50 labels, machine-readable marking and audit-ready evidence for AI content — in all 24 EU languages.
+
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
