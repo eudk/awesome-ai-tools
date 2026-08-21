@@ -194,6 +194,7 @@ A leading AI company focused on advanced multimodal and agent-based systems. Ope
 OpenAI Codex is an agent-based coding system built on top of the latest GPT-5 model family. It has evolved from a code-generation model into a full software engineering platform capable of writing, editing, running, and reviewing code autonomously.
 
 - **[Codex](https://openai.com/codex)** - OpenAI’s platform for agentic coding workflows and automated software development tasks.
+- **[Codex Theme Builder](https://codextheme.tools)** - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
 
 - **Core Models**:
   - **GPT-5.3-Codex** – Advanced Codex-native agentic coding model for software engineering, terminal use, and broader computer-based workflows
