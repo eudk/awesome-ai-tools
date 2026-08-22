@@ -1151,7 +1151,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
-
+- [PetScan AI](https://petscanai.net) - Free, anonymous AI screening tool for exotic pet health risks (reptiles, birds, amphibians, small mammals); upload a photo for an instant red/yellow/green triage. Not a diagnosis. Available in 27 languages.
 ---
 ## 🦞 OpenClaw Ecosystem
 [🔝 Back to Top](#top)
