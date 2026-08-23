@@ -1740,6 +1740,7 @@ Explore AI in the realm of sound with these innovative tools designed for sound 
 - [Loudly](https://loudly.com) - AI music studio and sound library.
 - [Audiolabs](https://audiolabs-erlangen.de) - AI and sound research lab.
 - [AI Music Generator](https://www.aimusicgenerator.com) - Generate music tracks with AI.
+- [AudioCraft](https://audiocraft.app/) - AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
 - [SOUNDRAW](https://soundraw.io) - AI music composition for creators.
 
 ---
