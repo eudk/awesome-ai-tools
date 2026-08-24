@@ -2211,6 +2211,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[toprank](https://github.com/nowork-studio/toprank)** - Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Pulls real Google Search Console, PageSpeed Insights, and Google Ads API data, audits traffic and wasted ad spend, rewrites meta tags, generates JSON-LD schema markup, and ships the fixes directly to source or CMS (WordPress, Strapi, Contentful, Ghost).
 - **[HandyAI](https://handyai.tools)** – Free single-purpose tools for LLM developers: a token counter and an API cost calculator across Claude, GPT, and Gemini. Runs client-side, no signup.
 - **[AnySlide](https://anyslide.app)** - AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.
+- **[Spur AI](https://www.trispur.com/)** - AI LinkedIn post and carousel generator for B2B consultants, coaches, and agency owners. Free browser tools with no signup, plus a public REST API and an MCP server for AI agents.
 
 
 ---
