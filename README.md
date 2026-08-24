@@ -1151,6 +1151,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
+- [AI Subscription Usage](https://github.com/billwonghk/ai-subscription-usage) - Open-source macOS/Windows menu bar app that reads local usage logs for ChatGPT, Claude, Gemini, and Grok, then compares the real API-equivalent value against what you actually pay for each subscription. Runs entirely on-device, no API key or account login required.
 
 ---
 ## 🦞 OpenClaw Ecosystem
