@@ -1282,6 +1282,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[invisible-playwright](https://github.com/feder-cr/invisible_playwright)** — Python wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement for vanilla Playwright Firefox, returns a native Playwright Browser. Anti-fingerprinting at the C++ source level (Canvas, WebGL, AudioContext, Fonts, WebRTC, Timezone, DevTools detection). Useful when AI agents need anti-detect web access. MIT.
 - **[agent-qa](https://github.com/vostride/agent-qa)** — Self-improving agentic QA harness with memory for natural-language web and mobile test execution.
 ---
+- **[_done](https://underscoredone.com/)** - Pay-per-use x402 APIs that extend AI agents with real-world actions they cannot perform alone.
 ## 🆕 Additional AI and Productivity Tools
 
 [🔝 Back to Top](#top)
