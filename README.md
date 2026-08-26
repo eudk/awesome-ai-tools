@@ -2111,6 +2111,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
+- **[STACKELIER](https://stackelier.com/)** - Evidence-based private AI stack finder that matches professional use cases, privacy requirements and hardware to verified local/self-hosted configurations.
 
 ---
 ## SEO related tools
