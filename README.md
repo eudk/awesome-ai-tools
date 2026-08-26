@@ -1606,6 +1606,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
+- [lora.pro](https://lora.pro) - Preset library on top of Gemini 3 Pro Image, Seedream 4.5 and GPT Image 2 — upload a photo, pick a style, the face is preserved.
 
 
 ---
