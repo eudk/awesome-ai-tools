@@ -2130,6 +2130,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Pika](https://pika.art/)** - (USA) A creative AI video platform that allows users to generate and edit videos in various styles from text and images. A direct competitor to Runway and Luma Labs.
 - **[ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/)** - (EU) Generate 3D models from text prompts or a single image, with downloadable 3D output for creative and production workflows.
 - **[ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/)** - (EU) Generate printable 3D bust models from a single portrait photo in a browser-based workflow.
+- **[Luphra](https://www.luphra.com/)** - (NL/EU) Prompt-to-matter: turn text prompts and sketches into editable 3D and manufacturable physical products, starting with 3D printables.
 - **[ElevenLabs](https://elevenlabs.io/)** - (UK/USA) The market leader in realistic AI voice generation, speech synthesis, and voice cloning. Their technology is known for its incredible quality and emotional range.
 - **[Leonardo Ai](https://leonardo.ai/)** - (UK) A full-stack platform for generating game assets, concept art, and other artistic visuals, offering fine-tuned models and a suite of creative tools.
 - **[Phind](https://www.phind.com/)** - (USA) An AI search engine specifically for developers that provides direct answers with code examples and context from across the web.
