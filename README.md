@@ -2009,6 +2009,7 @@ A selection of platforms offering API integration for various AI applications an
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock).
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.
+- [APICostCalc](https://apicostcalc.com) - Compare per-token pricing across 387+ LLM models, then estimate real monthly costs for a chatbot, RAG pipeline, or AI agent by usage volume instead of just per-token price. No signup, calculations run client-side.
 ---
 
 ## 🛠️ GITHUB REPOS
