@@ -1314,6 +1314,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [SummaryTube.com](https://summarytube.com) – AI Youtube Video Summarizer
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
+- [InnerCanvas](https://innercanvas.app) - AI-guided drawing reflection reports for private self-awareness and journaling.
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
 - [Lynote AI Humanize Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanization toolkit for rewriting AI drafts into natural, human-like writing. Full free web version: https://lynote.ai/ai-humanizer
