@@ -1092,6 +1092,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
+- [Consensus Room](https://consensusroom.com) - Multi-LLM debate panel: submit a question and multiple models (Claude, GPT, Gemini, Grok and others) debate it independently, critique each other, and a moderator model returns a synthesis with consensus scores. Panel API for developers.
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns (sycophantic openers, filler phrases, em-dash overuse) from text files and stdin. Pass through code blocks and URLs unchanged. `npm install -g unslop`.
 - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
