@@ -2111,6 +2111,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
+- **[AI Tools Radar](https://ppop123.github.io/ai-tools-radar/)** - Local-first dashboard for exploring AI-tool traffic estimates, growth trends, and backlink-source snapshots; third-party estimates for research use.
 
 ---
 ## SEO related tools
