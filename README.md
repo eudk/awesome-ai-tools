@@ -1260,6 +1260,9 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.
 
 
+- **[YYLO](https://github.com/yylo-dev/yylo)** — Command-line orchestrator that runs AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel across isolated git worktrees, tracked on a Kanban board with review gates and typed merge/release flows. Install via npm (`@yylo/cli`). MIT.
+
+
 ---
 ## AI Agent Tools
 
