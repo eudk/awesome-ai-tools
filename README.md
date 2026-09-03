@@ -1369,6 +1369,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 
 [🔝 Back to Top](#top)
 
+- [awesome-ai-tools-china](https://github.com/qngsvip/awesome-ai-tools-china) — Curated directory of 569 Chinese AI tools covering chat, image, video, code, office, and more.
 ## AI-Focused Extensions
 
 1. **Grammarly** - AI-powered writing assistant.
