@@ -1335,6 +1335,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
 
+- [Proofite](https://proofite.com) - Turns newsletters, RSS feeds, web searches, X profiles and saved links into one AI-written daily briefing you can read or listen to as a podcast, with a live voice anchor you can interrupt to ask questions. Disclosure: submitted by the maker.
+
 
 
 ---
