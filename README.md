@@ -1222,6 +1222,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[Sistava](https://sistava.com)** — AI agent orchestration platform for deploying and operating multiple AI agents that run your business across sales, marketing, finance, and customer support. Reachable through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks. Each agent ships with full computer use on your own OS (screen vision, file access, browser automation, terminal execution, app control). Built on knowledge-graph memory, durable execution, layered guardrails, and full observability. Closed-source / subscription.
 
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
+- **[ENZO](https://github.com/theguysudo/ENZO)** — Self-hosted BYOK AI workspace: multi-provider chat (Groq, OpenRouter, NVIDIA, Hugging Face, Google AI), agents with scheduled runs, and skills like Gmail, Google Calendar, and web search. Provider keys are sealed client-side with AES-256-GCM and no middleman service is involved. Apache-2.0, Docker deployment. → [Demo](https://enzo-hub.duckdns.org)
 
 ### General-Purpose Agent Frameworks
 
