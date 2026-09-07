@@ -1306,6 +1306,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Todoist](https://todoist.com/) - Task Management
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
+- [IELTS Writing Practice](https://ieltswritingpractice.app/) - Free IELTS question bank and timed practice, with paid AI scores and criterion-specific writing feedback.
 - [Canva](https://www.canva.com/) - Easy Graphic Design
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered visual mind mapping
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
