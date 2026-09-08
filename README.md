@@ -1677,6 +1677,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Kapwing AI Video Editor](https://www.kapwing.com) - Online AI video editor.
 - [Video Background Remover](https://videobackgroundremover.org) - Dedicated tool to remove video backgrounds without a green screen, with free no-watermark exports.
 - [Veed.io](https://www.veed.io) - AI video editing and subtitles.
+- [Clyps](https://clyps.ai) - Finds highlights in long recordings with AI and lets users edit transcripts, captions, and framing before exporting short videos.
 - [Fliki](https://fliki.ai) - Turn text to speech videos.
 - [Hour One](https://www.hourone.ai) - AI characters for video generation.
 - [InVideo](https://invideo.io) - Online video creator with AI.
