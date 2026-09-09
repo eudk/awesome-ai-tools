@@ -1425,6 +1425,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **[Data Science Central](https://www.datasciencecentral.com/)**
 19. **[The AI Blog by Microsoft](https://blogs.microsoft.com/ai/)**
 20. **[DeepMind Blog](https://deepmind.com/blog)**
+21. **[AIGuideDZ](https://aiguidedz.com/)** - Plain-English AI tutorials and tool comparisons (ChatGPT, Claude, Gemini, DeepSeek) aimed at students and beginners, plus a free interactive quiz that recommends the right AI tool for your specific task.
 
 ---
 
