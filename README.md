@@ -504,6 +504,8 @@ Claude Code is Anthropic’s agentic coding system designed to handle full softw
     - GitHub Copilot Agents
   - Particularly strong in **long-context coding and large codebase understanding**.
 ---
+- [Zambo](https://github.com/zambodotdev/zambo-mcp) - Open-source MCP server: 120 native tools, 17 products, MIT. Free 20 calls/tool/day, no account.
+
 ### Meta AI
 [🔝 Back to Top](#top)
 
