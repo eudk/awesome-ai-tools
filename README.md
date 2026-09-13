@@ -1151,6 +1151,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
+- [Poket Dev](https://poketdev.com) - Unlimited software development subscription; one active request delivered at a time, Python-first scope (AI/ML, backends, automation, data engineering, cloud/DevOps).
 
 ---
 ## 🦞 OpenClaw Ecosystem
