@@ -1562,6 +1562,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 </p>
 
 This list highlights a selection of image generation tools, featuring advanced AI technologies such as Stable Diffusion, MidJourney, and DALL-E 3, among others. These tools offer a range of functionalities, from creating artistic visuals to generating realistic images.
+- [Crevisto](https://crevisto.com) - 100 niche AI image tools (action figures, Ghibli style, LinkedIn avatars, logo maker, photo restoration). CLI + REST API. BYOK with OpenRouter.
 
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
