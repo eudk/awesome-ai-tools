@@ -1223,6 +1223,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
 
+- **[Solgrok](https://lmajster.github.io/sgrok/)** — Autonomous Solana creator-ops AI agent that runs 24/7 to promote $SGROK, claim creator fees, and sweep rewards. Live on Bags.fm. → [GitHub](https://github.com/LMajster/sgrok) · [Bags](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS)
+
 ### General-Purpose Agent Frameworks
 
 - **[OpenManus](https://github.com/FoundationAgents/OpenManus)** — Open-source framework for building general AI agents, created by the MetaGPT team as a fully open alternative to the invite-only Manus platform. Supports multi-agent flows, browser, shell, code execution, and web search. Also see **[OpenManus-RL](https://github.com/FoundationAgents/OpenManus)** for RL-based agent fine-tuning (GRPO). MIT.
