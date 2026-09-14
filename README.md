@@ -2219,3 +2219,5 @@ This section introduces the latest AI tools that are gaining popularity and have
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
+
+- [iLook](https://www.ilook.fit/) - Free AI-powered visual analysis for image-based style and appearance insights, with clear reports and practical recommendations.
