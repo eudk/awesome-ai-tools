@@ -1286,6 +1286,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 [🔝 Back to Top](#top)
 
+- [Mika](https://mktskill.com/en/) - Marketing workspace for source-based research and content drafts, with human review, revision and export.
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
