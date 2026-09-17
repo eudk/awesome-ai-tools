@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [Altyst](https://altyst.ai) - Commercial real estate underwriting. Reads an offering memorandum, rent roll, or T-12 and builds a live, editable financial model with DCF, IRR, debt sizing, an equity waterfall, and sensitivities, exportable to Excel, PDF, and PowerPoint. Paid, from $12/month. Ten free calculators at https://altyst.ai/tools, no account required.
 
 
 
