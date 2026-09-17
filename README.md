@@ -1303,6 +1303,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Monday.com](https://monday.com/) - Work Operating System
 - [RescueTime](https://www.rescuetime.com/) - Time Management
 - [Kitmul](https://kitmul.com) - 100+ Free AI-Powered Browser Tools (PDF, Image, Video, Text, Developer utilities). Privacy-first, no signup required.
+- [NextReset](https://nextreset.ai/) - Free, no-signup reference for source-linked Codex reset announcements, a local browser timer, and official OpenAI and Anthropic service updates.
 - [Todoist](https://todoist.com/) - Task Management
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
