@@ -1311,6 +1311,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
 - [Instafill.ai](https://instafill.ai) – AI PDF Form Filler
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
+- [Musuw](https://musuw.com) - AI knowledge base for documents, webpages, and notes, with cited answers, a wiki, and a knowledge graph.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [SummaryTube.com](https://summarytube.com) – AI Youtube Video Summarizer
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
