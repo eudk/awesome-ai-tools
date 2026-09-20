@@ -1640,6 +1640,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 [🔝 Back to Top](#top)
 
 This list includes a range of tools for AI-powered video generation, offering capabilities from video editing to creating entirely new video content with AI.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose, edit and generate videos from editable plan.json timelines.
 
 
 - **[Seedance 2.0 (ByteDance)](https://seed.bytedance.com/en/seedance)** — Multimodal AI video generation model (text, image, video, audio)
