@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [GTD Brain](https://gtdbrain.com/connect?source=awesome-ai-tools-eudk) - Getting Things Done task manager with a hosted MCP server, so ChatGPT, Claude, Gemini CLI, Codex and Cursor can capture, organize and review your tasks. Web, Android, iOS, browser, VS Code, Obsidian and Telegram clients. Closed-source / subscription with a free allowance.
 
 
 
