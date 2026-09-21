@@ -1665,6 +1665,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
+- [Magic Hour](https://magichour.ai/) - AI video creation platform for text-to-video, image-to-video, lip sync, face swap, and video editing.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
 - [Pictory](https://pictory.ai) - AI-powered video editing and creation.
 - [Lumen5](https://lumen5.com) - AI-driven video maker for businesses.
