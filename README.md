@@ -40,6 +40,7 @@ It is designed as a practical resource for developers, professionals, and enthus
 
 ### A Living, Community-Driven Guide
 
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
 This is a dynamic resource, continuously updated to reflect the fast-moving AI landscape. It is curated through community contributions, ongoing research, and iterative cleanup to maintain a high-signal and relevant collection.
 
 **Please Note:**
