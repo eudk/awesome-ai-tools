@@ -1702,6 +1702,11 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [Video to Subtitles](https://videotext.io/video-to-subtitles) - Full caption generation hub: upload a video for timed SRT/VTT output, then fix, translate, or burn captions in the same workflow.
+- [Translate Subtitles](https://videotext.io/translate-subtitles) - Free online SRT/VTT subtitle translator supporting 70+ languages with every cue timestamp preserved on download.
+- [Fix Subtitles](https://videotext.io/fix-subtitles) - Auto-corrects overlapping timestamps, long lines, CPS/reading-speed issues, and SRT/VTT formatting errors with instant download.
+- [Burn Subtitles](https://videotext.io/burn-subtitles) - Hardcodes SRT/VTT captions permanently into MP4 video — ideal for Instagram, TikTok, and players without native caption support.
+- [Compress Video](https://videotext.io/compress-video) - Free online video compressor with light, medium, and heavy settings to shrink file size for faster sharing and uploads.
 
 ---
 
@@ -1820,6 +1825,9 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
 27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
 28. [OpenQuack](https://github.com/larryxiao/openquack) - On-device voice dictation for macOS — transcribes a 5-minute clip in 2.8 s; noise-robust, paste at cursor. 99 languages, ~8 MB, no telemetry. MIT.
+29. [Video to Transcript](https://videotext.io/video-to-transcript) - Free AI video transcription with 98.5% word accuracy using Whisper large-v3; upload MP4/MOV/WebM/MKV and get a transcript, SRT/VTT, AI summary, and chapters in one pass.
+30. [Guideline Format](https://videotext.io/guideline-format) - Auto-formats raw transcripts to Rev, GoTranscript, TranscribeMe, or Scribie style guides — verbatim rules, speaker labels, punctuation, and QA compliance scoring, exported client-ready.
+31. [Voice Recorder](https://videotext.io/voice-recorder) - In-browser voice-to-text recorder — speak and get text instantly with no video upload required, privacy-first with files deleted after processing.
 
 ---
 
