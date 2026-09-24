@@ -1849,6 +1849,7 @@ AI tools for enhancing media quality, such as upscaling images or videos, and sp
 18. [Neural Love](https://neural.love) - AI for video and photo enhancement.
 19. [AVCLabs Video Enhancer AI](https://www.avclabs.com/video-enhancer-ai) - Improve video quality using AI.
 20. [Cre8tiveAI](https://cre8tiveai.com) - AI for image quality enhancement.
+21. [UpRes](https://upres.ai) - AI image and video upscaler up to 8K resolution with 14 specialized models, developer REST API, batch processing, and MCP server.
 
 ---
 
