@@ -1566,6 +1566,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
+- [Raphael](https://raphael.app) - Free AI image generator for text-to-image, editing, and creative workflows in the browser.
 - [CivitAI](https://civitai.com/models) - Platform offering various AI models including image generators. Works very well with midjourney
 - [DeepArt](https://deepart.io) - Turns your photos into artworks using AI.
 - [Deep Dream Generator](https://deepdreamgenerator.com) - AI-based deep learning tool for artistic image transformation.
