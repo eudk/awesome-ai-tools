@@ -1335,7 +1335,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn,
 - X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
-- [OffLadder](https://offladder.com) - Free career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+. 
+- [OffLadder](https://offladder.com) - Freemium career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+. 
 
 
 
