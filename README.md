@@ -1333,7 +1333,9 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Soda](https://getsoda.app) – Knowledge layer for customer-facing teams. A living memory built from every call, app and conversation.
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
-- [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn,
+- X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [OffLadder](https://offladder.com) - Freemium career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+. 
 
 
 
