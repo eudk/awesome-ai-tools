@@ -1568,7 +1568,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [CivitAI](https://civitai.com/models) - Platform offering various AI models including image generators. Works very well with midjourney
 - [DeepArt](https://deepart.io) - Turns your photos into artworks using AI.
-- [Muse Me](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site) - Turns one authorized photo into original anime-style social avatars, with no sign-up and one free result. Disclosure: submitted by the maker.
+- [Muse Me](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/?source=github&campaign=directory&content=awesome_ai_pr_670) - Turns one authorized photo into original anime-style social avatars, with no sign-up and one free result. Disclosure: submitted by the maker.
 - [Deep Dream Generator](https://deepdreamgenerator.com) - AI-based deep learning tool for artistic image transformation.
 - [Artbreeder](https://artbreeder.com) - Collaborative AI tool for creating and editing images.
 - [RunwayML](https://runwayml.com) - Creative toolkit powered by machine learning.
