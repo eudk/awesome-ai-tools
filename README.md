@@ -1631,6 +1631,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 
 [🔝 Back to Top](#top)
 
+- [kdpbook.io](https://kdpbook.io) - AI book studio that writes and illustrates comics, picture books and coloring books with consistent characters, then exports Amazon KDP print and Kindle files.
 - [Comicory](https://www.comicory.com) - AI comic generator that produces multi-panel stories with character consistency across frames.
 
 ---
