@@ -2009,6 +2009,7 @@ A selection of platforms offering API integration for various AI applications an
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock).
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.
+- [ModelVRAM](https://modelvram.com/) - Free browser-based calculator for the GPU memory an LLM needs to run or fine-tune (weights, KV cache and overhead), using each model's config from Hugging Face. Checked against 20 public llama.cpp and vLLM logs.
 ---
 
 ## 🛠️ GITHUB REPOS
