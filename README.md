@@ -1293,6 +1293,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/) - Microsoft's AI Platform
 - [Google AI](https://ai.google/) - Google's AI Research and Tools
 - [Kaggle](https://www.kaggle.com/) - Data Science and ML Platform
+- - [AI Stackroom](https://mehranbaig309-jpg.github.io/) - Curated directory of AI tools for productivity, content creation, image, video, audio, coding, and research.
 - [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
 - [OpenAI](https://openai.com/) - AI Research and Applications
 - [Algorithmia](https://algorithmia.com/) - AI Model Deployment
