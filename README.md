@@ -1653,6 +1653,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
       - Dreamina (creative tools)
     - **API / Hosted access**:
       - [FAL.ai (Seedance 2.0)](https://fal.ai/seedance-2.0)
+      - [KreatorFlow](https://kreatorflow.ai/seedance-api) (official BytePlus partner: Seedance 2.0 studio and REST API)
       - Enterprise / cloud deployments (limited availability)
     - **Third-party integrations**:
       - Artlist AI Toolkit
