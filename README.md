@@ -2076,6 +2076,8 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[Claude](https://claude.ai/)** - Created by Anthropic, Claude is an advanced conversational AI that competes with ChatGPT in natural language understanding and can handle complex queries. Known for its ethical AI framework, Claude offers nuanced, safe, and reliable responses across a wide range of applications.
 
+- **[JARVI3](https://jarvi3.com/)** - Freemium AI chat workspace with scoped deterministic claim-checking tools and evidence receipts.
+
 - **[LM Studio](https://lmstudio.ai/)** - LM Studio provides a versatile environment for fine-tuning, deploying, and using language models. Ideal for developers and researchers, it supports running large language models on local hardware, making it a strong choice for custom model training and deployment without relying on cloud-based solutions.
 
 - **[LLaMA 2](https://ai.facebook.com/llama/)** - Meta’s open-source language model that can be run locally on powerful hardware setups. LLaMA 2 is designed for researchers and developers who need a customizable, open-source solution for tasks like natural language processing, content generation, and research.
