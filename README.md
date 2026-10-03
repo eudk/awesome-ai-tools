@@ -1141,6 +1141,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Convo](https://www.itsconvo.com/) - AI meeting assistant that listens in real time, helps you respond smarter on calls, and automates your follow up workflow.
 - [levity.ai](https://levity.ai) - Automates data entry, rate lookup, and even drafts email responses—all without leaving your inbox.
 - [Logicballs](https://logicballs.com) - An AI-powered writing tool to create any type of content and supercharge your productivity.
+- [AI eBook Pro](https://aiebookpro.com/) - Turn a one-sentence idea into a downloadable ebook (PDF, EPUB, DOCX) with AI-generated content and covers.
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 - [bugfree.ai](https://bugfree.ai/) - bugfree.ai is an advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews.
 - [manifest.build](https://manifest.build/) - The backend AI can generate, developers can trust!
