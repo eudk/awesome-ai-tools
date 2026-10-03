@@ -1259,6 +1259,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and npm package for X/Twitter automation: search tweets and replies, post tweets and replies, export followers, manage media, monitor tweets, webhooks, and giveaway draws. Install with `openclaw plugins install @xquik/tweetclaw`.
 
+- [Tale](https://tale.dev) - Open-source project workspace for teams and AI agents, with manager delegation, persistent sandbox workspaces, and human review of task results.
 
 ---
 ## AI Agent Tools
