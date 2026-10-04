@@ -1996,6 +1996,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Inferable](https://github.com/inferablehq/inferable) - Open-source managed agent runtime for distributed AI agents
 - [Gestell](https://gestell.ai) - Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from all major providers with token counters, cost calculators, and benchmark data.
+- [llmrun](https://llmrun.dev) - Free tool to check which open LLMs fit a given GPU, Apple Silicon Mac or mini PC, with VRAM per quantization and estimated decode speed and time to first token.
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
 - [BlackVault](https://github.com/venkat22022202/black-vault) - Open-source proxy gateway for AI API keys. Generate proxy tokens for agents — BlackVault injects the real key server-side and forwards to OpenAI, Anthropic, Google AI, and Nebius AI. Kill a token for instant revocation.
 - [LochBot](https://lochbot.com) - Free browser-based prompt injection vulnerability checker. Analyzes LLM system prompts against 31 attack patterns (jailbreaks, role override, data exfiltration) and returns a security score with remediation guidance. No signup, runs client-side.
