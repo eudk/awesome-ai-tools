@@ -1285,6 +1285,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ## 🆕 Additional AI and Productivity Tools
 
 [🔝 Back to Top](#top)
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
