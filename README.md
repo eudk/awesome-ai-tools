@@ -1223,6 +1223,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
 
+- **[Syl](https://www.usesyl.com)** — App for building a team of AI teammates. Each teammate gets a job (research, writing, admin, inbox, sales, support), they work together in shared conversations, and each space has an on-demand computer, persistent memory and scheduled routines. Connects to tools via MCP; works on web, desktop and mobile with your own AI provider or pay as you go.
+
 ### General-Purpose Agent Frameworks
 
 - **[OpenManus](https://github.com/FoundationAgents/OpenManus)** — Open-source framework for building general AI agents, created by the MetaGPT team as a fully open alternative to the invite-only Manus platform. Supports multi-agent flows, browser, shell, code execution, and web search. Also see **[OpenManus-RL](https://github.com/FoundationAgents/OpenManus)** for RL-based agent fine-tuning (GRPO). MIT.
