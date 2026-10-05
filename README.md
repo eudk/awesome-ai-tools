@@ -1598,6 +1598,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [NeuralBlender](https://neuralblender.com) - Uses AI to blend images and concepts creatively.
 - [GANSpace](https://github.com/harskish/ganspace) - Discovering interpretable GAN controls.
 - [AI Logo Generator](https://www.ailogogenerator.org) - Free online AI logo creator that generates professional company, business, and brand logos.
+- [InkDoo](https://inkdoo.app) - Paste an article and get a planned set of hand-drawn explainer illustrations starring one consistent character (built-in mascots or your own).
 - [Caricature Maker](https://caricaturemaker.net/) - photo to caricature using AI.
 - [how pretty am I(https://howattractiveami.app/) - How Attractive am I - AI Beauty Score Test
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered virtual staging for real estate listings
