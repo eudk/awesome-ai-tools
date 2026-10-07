@@ -1664,6 +1664,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
+- [ZombieHug](https://aizombie.app) - Turn two photos into a 20-second vertical zombie love-story video. $9.90 / 720p, no subscription.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
 - [Pictory](https://pictory.ai) - AI-powered video editing and creation.
