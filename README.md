@@ -2108,6 +2108,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
 - **[Slate](https://slateup.ai)** – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
 - **[BestAIFor.com](https://bestaifor.com)** - A curated directory of the best AI tools and apps.
+- **[FalcoScan](https://falcoscan.com)** - Directory and market tracker for 7,000+ AI tools across 29 markets, with an AI Graveyard of products verified as shut down or acquired.
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
