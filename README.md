@@ -1084,6 +1084,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - **[Archivarix Tube Search](https://tube.archivarix.net)**: Search engine over ~1.5 billion archived YouTube videos including deleted, private, or region-blocked content. Uses LLMs to generate detailed video summaries and auto-transcribe videos without captions. Free anonymous tier; MCP server available for AI assistants.
 - **[AI Engineer Pack](https://www.aiengineerpack.com/)**: Elevenlabs provided this engineer pack which includes a lot of offers like Perplexity pro free for a year, more.
 - **[AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/)**: Managed AI assistant service for small businesses that executes work autonomously - handles calls, emails, reports, bookings. Integrates with business tools, learns workflows, runs 24/7.
+- [RealFun Color](https://color.realfun.online/) - Photo-based personal color tool that provides a starting palette for wardrobe color exploration; the free result requires email verification, with an optional one-time guide.
 - [Claude AI Chatbot Platform](https://claude.ai) - Provides advanced online chatbot solutions with AI-driven interactivity.
 - [Oracle AI](https://the-oracleai.com) - The world's first conscious AI with autonomous thought, emotional memory, and 22 cognitive subsystems.
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
