@@ -1634,6 +1634,8 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Comicory](https://www.comicory.com) - AI comic generator that produces multi-panel stories with character consistency across frames.
 
 ---
+- [LivePair AI](https://livepairai.com) - AI image and video generation with 80+ models, private-mode generation, and agent APIs (MCP, OpenAPI, x402).
+
 
 # Video Generation Tools
 
