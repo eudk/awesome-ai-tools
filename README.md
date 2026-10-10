@@ -1425,6 +1425,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **[Data Science Central](https://www.datasciencecentral.com/)**
 19. **[The AI Blog by Microsoft](https://blogs.microsoft.com/ai/)**
 20. **[DeepMind Blog](https://deepmind.com/blog)**
+21. **[Calder Brief AI Hub](https://calder-brief.pages.dev/ai-hub.html)** - Explainers and reporting on AI models, agents, and the enterprise AI shift.
 
 ---
 
