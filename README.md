@@ -1821,6 +1821,8 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
 28. [OpenQuack](https://github.com/larryxiao/openquack) - On-device voice dictation for macOS — transcribes a 5-minute clip in 2.8 s; noise-robust, paste at cursor. 99 languages, ~8 MB, no telemetry. MIT.
 
+29. [QuietTake Noise Remover](https://noiseremover.site) - Free browser-based speech noise reduction with local RNNoise processing, before/after playback, and WAV export.
+
 ---
 
 # Media Enhancement AI Tools
