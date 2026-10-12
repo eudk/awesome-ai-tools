@@ -2100,6 +2100,8 @@ This section covers some of the most advanced software platforms for working wit
 
 - **[Cerebras-GPT](https://www.cerebras.net/)** - Cerebras Systems provides open-source GPT models optimized for their AI-specific hardware. While designed for large-scale deployment, Cerebras-GPT models can also be run on specific compatible local setups, making it suitable for research or enterprise applications.
 
+- **[Creatos](https://creatos.io/)** - Desktop app for macOS and Windows with a canvas for PDFs, web pages, YouTube videos and notes. You pick which items go into a question for Claude, GPT, Gemini or a local Ollama model, using your own API keys.
+
 
 ## AI Tool Resources & Directories
 
