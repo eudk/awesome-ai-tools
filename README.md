@@ -1387,6 +1387,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 14. **Panda 5** - News reader with AI-curated content.
 15. **Clever Ads** - AI-driven advertising insights.
 16. **Gorgias Templates** - Automated email templates.
+17. **[Avorythm](https://msmahdinejad.github.io/avorythm/)** - Open-source Chrome extension for AI dubbing and bilingual captions from selected-tab audio using user-provided Gemini API keys, with optional Groq transcription.
 
 
 ---
