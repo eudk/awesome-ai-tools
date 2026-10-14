@@ -1287,6 +1287,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
+- [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업급 만화 번역기는 100개 이상의 언어와 지원되는 모든 번역 언어를 처리하며, 개인의 일괄·맞춤 번역, 스튜디오의 완전한 온라인 Photoshop 편집기, 개인 작업 흐름을 연결하는 API를 제공합니다.
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
 - [IBM Watson](https://www.ibm.com/watson) - AI for Business Solutions
