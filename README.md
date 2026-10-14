@@ -1568,6 +1568,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [CivitAI](https://civitai.com/models) - Platform offering various AI models including image generators. Works very well with midjourney
 - [DeepArt](https://deepart.io) - Turns your photos into artworks using AI.
+- [Muse Studio](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create?utm_source=github&utm_campaign=ad_recovery&utm_content=eudk_directory) - Generates static ad concepts from text, with editable headline, offer and CTA, and PNG export. Limited free beta; one ChatGPT sign-in; no card. Disclosure: submitted by the maker.
 - [Deep Dream Generator](https://deepdreamgenerator.com) - AI-based deep learning tool for artistic image transformation.
 - [Artbreeder](https://artbreeder.com) - Collaborative AI tool for creating and editing images.
 - [RunwayML](https://runwayml.com) - Creative toolkit powered by machine learning.
