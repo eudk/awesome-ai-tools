@@ -1335,6 +1335,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
 
+- [TeleTraff](https://teletraff.com/en) - AI comments, inviting, DM campaigns and AI dialogs with leads for promotion and advertising in Telegram, run from the browser.
+
 
 
 ---
