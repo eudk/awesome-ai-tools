@@ -1368,6 +1368,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 # 🌐 List of Google Chrome Extensions
 
 [🔝 Back to Top](#top)
+- [AI Lab](https://ailab.packscena.com/) - Chinese browser utilities for images, documents, files and text; basic image compression is free, while advanced compression requires sign-in and points.
 
 ## AI-Focused Extensions
 
@@ -1606,6 +1607,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
+- [LogoMovo](https://logomovo.com/) - AI logo generation studio with public references; generation requires sign-in and payment.
 
 
 ---
@@ -1880,6 +1882,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
 21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
 22. [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
+23. [DishVivid](https://dishvivid.com/) - Food-photo editing with free local adjustments and optional AI generation requiring sign-in and an allowance.
 
 ---
 
