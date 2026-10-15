@@ -1334,6 +1334,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [WarmQuant](https://warmquant.com/) - AI writing workspace that turns user-provided notes into editable English drafts with configurable voice and audience; includes a free daily quota and requires login.
+- [WeWorkBuddy](https://weworkbuddy.com/) - AI-topic source research workspace for creators, with private candidates, tasks, timestamped observations and exports; Explorer is free and the displayed Creator tier is in test mode.
 
 
 
@@ -2111,6 +2113,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
+- [Botstest](https://botstest.com/) - Free source-linked directory of robotics and embodied AI hardware, software, models, datasets, benchmarks, companies and research.
 
 ---
 ## SEO related tools
