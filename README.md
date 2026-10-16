@@ -1664,6 +1664,8 @@ This list includes a range of tools for AI-powered video generation, offering ca
 
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
+- [ChatGPT Millionaire AI](https://chatgptmillionaire.cc) - Turn one selfie (or pet photo) into a ~10–13s ChatGPT Millionaire “Get a job.” meme video. Independent fan tool.
+- [Hug In Heaven AI](https://huginheaven.cc) - Turn two photos into a ~12–15s Hug in Heaven stairway reunion memorial video. Independent memorial fan tool (18+).
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
 - [Pictory](https://pictory.ai) - AI-powered video editing and creation.
