@@ -1128,6 +1128,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Pictory AI](https://pictory.ai/) - AI tool for video creation.
 - [Repurpose.io](https://repurpose.io/) - AI for content repurposing.
 - [Copy.ai](https://www.copy.ai/) - AI for copywriting.
+- [Klype](https://klype.ai) - AI for LinkedIn and social posts written in your own measured voice, with checks for AI phrasing and unsourced claims.
 - [You.com](https://you.com/) - AI-powered search engine.
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
 - [Wave.video](https://wave.video/) - AI for video marketing.
