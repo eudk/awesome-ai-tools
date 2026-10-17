@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [IdeaShot](https://ideashot-eight.vercel.app) - Paste one rough idea and get platform-specific drafts for X, Xiaohongshu (小红书) and WeChat Moments plus a reusable AI prompt in one pass. 1 free try, no signup. Disclosure: submitted by the maker.
 
 
 
