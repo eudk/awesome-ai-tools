@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571) - AI wellness companion for iOS: talk things through, log your mood and breathe with guided exercises, in English or Vietnamese.
 
 
 
