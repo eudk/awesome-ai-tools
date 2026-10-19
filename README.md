@@ -2117,6 +2117,7 @@ This section covers some of the most advanced software platforms for working wit
 - If your tool is related to SEO feel free to insert it here
 - **[Parse](https://parse.gl/)** - AI visibility analytics for tracking brand mentions, competitors, and cited sources across ChatGPT and Google AI Overviews.
 - **[PromptEden](https://www.prompteden.com)** - AEO (Answer Engine Optimization) monitoring. Tracks how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead, across 9+ AI platforms refreshed daily.
+- **[Seonix](https://seonix.ai/)** - Automated SEO and GEO platform: audits a site, builds keyword clusters, writes and publishes articles on schedule, and tracks rankings and brand mentions in AI answers. Free audit plan; MCP server for AI agents.
 
 - [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
 
