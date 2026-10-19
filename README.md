@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [Chorus — All AI, One Place](https://play.google.com/store/apps/details?id=com.aihub.app) - Android app for comparing selected AI model replies side by side and organizing related conversations in Projects (package: com.aihub.app).
 
 
 
