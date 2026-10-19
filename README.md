@@ -1601,6 +1601,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Caricature Maker](https://caricaturemaker.net/) - photo to caricature using AI.
 - [how pretty am I(https://howattractiveami.app/) - How Attractive am I - AI Beauty Score Test
 - [AI Virtual Staging](https://www.aivirtualstaging.net/) - AI powered virtual staging for real estate listings
+- [EmptyRoom AI](https://emptyroomai.com) - Furnish vacant listing photos in any style at $4 per room with free restages
 - [MyPicNow](https://www.mypicnow.com) - Generate studio-quality AI headshots of yourself. Perfect for LinkedIn, dating apps, and professional use.
 - [Nsketch AI](https://nsketch.ai) - AI image and video generation platform with 20+ models and ready-made templates for creators.
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
