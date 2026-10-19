@@ -2109,6 +2109,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Slate](https://slateup.ai)** – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
 - **[BestAIFor.com](https://bestaifor.com)** - A curated directory of the best AI tools and apps.
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
+- **[Awesome AI Agents](https://github.com/ianwieds/awesome-ai-agents)** - A curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
 
