@@ -1281,6 +1281,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[Mira](https://github.com/vwww-droid/Mira)** — AI-assisted runtime protection analysis platform for third-party Android and iOS apps, enabling agents to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 - **[invisible-playwright](https://github.com/feder-cr/invisible_playwright)** — Python wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement for vanilla Playwright Firefox, returns a native Playwright Browser. Anti-fingerprinting at the C++ source level (Canvas, WebGL, AudioContext, Fonts, WebRTC, Timezone, DevTools detection). Useful when AI agents need anti-detect web access. MIT.
 - **[agent-qa](https://github.com/vostride/agent-qa)** — Self-improving agentic QA harness with memory for natural-language web and mobile test execution.
+- **[Vectoree](https://vectoree.ai)** — Backend for coding agents: one project key for multi-provider models via an OpenAI-compatible gateway, plus auth, Postgres and storage. Agent skill + CLI; pay-as-you-go.
 ---
 ## 🆕 Additional AI and Productivity Tools
 
