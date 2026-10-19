@@ -1741,6 +1741,7 @@ Explore AI in the realm of sound with these innovative tools designed for sound 
 - [Audiolabs](https://audiolabs-erlangen.de) - AI and sound research lab.
 - [AI Music Generator](https://www.aimusicgenerator.com) - Generate music tracks with AI.
 - [SOUNDRAW](https://soundraw.io) - AI music composition for creators.
+- [Vocal Separator](https://vocalseparator.com) - Separate vocals or four stems and practise with loops, tempo and pitch controls.
 
 ---
 
