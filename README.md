@@ -1286,6 +1286,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 [🔝 Back to Top](#top)
 
+- [ResumePlot](https://resumeplot.com/) - AI-assisted resume bullet rewriting and job tailoring with local-first editing and searchable PDF export; suggestions require factual review.
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
@@ -1425,6 +1426,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **[Data Science Central](https://www.datasciencecentral.com/)**
 19. **[The AI Blog by Microsoft](https://blogs.microsoft.com/ai/)**
 20. **[DeepMind Blog](https://deepmind.com/blog)**
+21. [Ajun Industry — RAG versus fine-tuning (Chinese guide)](https://ajun-industry.packscena.com/guides/rag-vs-fine-tuning/) - Introductory reading on retrieval versus parameter updates, with hypothetical use cases and checks for permissions, sources and evaluation.
 
 ---
 
@@ -1563,6 +1565,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 
 This list highlights a selection of image generation tools, featuring advanced AI technologies such as Stable Diffusion, MidJourney, and DALL-E 3, among others. These tools offer a range of functionalities, from creating artistic visuals to generating realistic images.
 
+- [NailMoodLab](https://nailmoodlab.com/) - AI nail-art concept images and virtual hand-photo previews for manicure planning; sign-in and available AI allowance required.
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
@@ -2103,6 +2106,7 @@ This section covers some of the most advanced software platforms for working wit
 
 ## AI Tool Resources & Directories
 
+- [SubAtlas](https://subatlas.packscena.com/) - Chinese-language AI subscription quote comparison with source records and period, region and delivery-method distinctions; third-party quotes are not official prices.
 - **[StackBuilt](https://stackbuilt.co)** - Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work.
 - **[AI Models Catalog](https://github.com/i-need-token/ai-models)** - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, modalities, and capabilities. First-party data with TypeScript types, Zod validation, interactive comparison tool, and 17 SEO pages for model discovery.
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
