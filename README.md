@@ -1783,6 +1783,7 @@ Discover the power of AI in music with these tools designed for generating, comp
 - [Lumen5](https://lumen5.com) - AI-driven music video maker.
 - [AceTagGen](https://acetaggen.com) - Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno's 200-char Style limit. Includes example library and quality score.
 - [HookGenius](https://hookgenius.app) - AI lyrics and style prompt generator for Suno. Produces copy-paste-ready hooks, song structures, and genre-tuned style tags with artist-style references.
+- [MusiCraft AI](https://www.musicraft.ai/) - AI music agent that generates songs, splits stems, masters tracks, and transcribes audio into sheet music, MIDI and MusicXML. Free trial available.
 
 ---
 
