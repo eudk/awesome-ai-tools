@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [OnlineFitness.app](https://onlinefitness.app) - Software for online fitness coaches: lead funnels, a client app (iOS, Android, web) and an AI assistant that builds programs from the coach's exercise library and reads check-ins. Also works from Claude and ChatGPT via an MCP connector. Free for up to 3 clients.
 
 
 
