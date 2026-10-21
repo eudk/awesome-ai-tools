@@ -2193,6 +2193,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[Riverside.fm](https://riverside.fm/)** - AI-powered platform for recording studio-quality podcasts and videos remotely, with features like real-time transcriptions and easy editing.
 - **[Suno](https://suno.com/)** - A cutting-edge AI tool focused on transforming music creation with advanced deep learning models for audio generation and enhancement.
 - **[AI or Not](https://www.aiornot.com/)** - An AI-driven tool that helps users determine whether a given piece of content was created by a human or an AI, enhancing transparency in content creation.
+- **[isGenAI](https://isgenai.com/)** - Free checker that reads the recorded evidence of AI use in images, links and text, such as C2PA Content Credentials, AI labels and saved generation prompts, and quotes each source.
 - - **[Onranko](https://www.onranko.com/)** - 400+ free AL tools and AI SEO Agents for digital marketing.
 - **[Udio](https://www.udio.com/)** - An AI-powered platform designed to simplify and innovate audio editing and production, making high-quality audio accessible to everyone.
 - **[Taskade](https://github.com/taskade/taskade)** - Open-source AI-native workspace to build apps, deploy AI agents, and automate workflows.
