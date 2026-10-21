@@ -1334,6 +1334,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for colors, outfits, hairstyles, glasses, and daily style decisions.
 
 - [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
+- [SteamDownload AI Recommender](https://www.steamdownload.cn/ai?lang=en) - Describe the game you want in plain words; the AI searches the site's live library of 9,000+ PC, Switch and mobile games and returns real titles with a short reason each. Free, no sign-up.
 
 
 
