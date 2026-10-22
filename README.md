@@ -1702,6 +1702,8 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [Corpse Bride AI](https://corpsebride.cc) - One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88. Independent fan tool.
+- [White Chicks AI](https://whitechicks.cc) - 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88. Independent fan tool.
 
 ---
 
