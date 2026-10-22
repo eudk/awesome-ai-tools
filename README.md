@@ -1678,6 +1678,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Video Background Remover](https://videobackgroundremover.org) - Dedicated tool to remove video backgrounds without a green screen, with free no-watermark exports.
 - [Veed.io](https://www.veed.io) - AI video editing and subtitles.
 - [Fliki](https://fliki.ai) - Turn text to speech videos.
+- [Ideoy](https://ideoy.ai/) - AI meme video generator — turn viral videos into selfie meme remakes.
 - [Hour One](https://www.hourone.ai) - AI characters for video generation.
 - [InVideo](https://invideo.io) - Online video creator with AI.
 - [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
