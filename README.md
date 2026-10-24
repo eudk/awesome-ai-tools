@@ -1387,6 +1387,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 14. **Panda 5** - News reader with AI-curated content.
 15. **Clever Ads** - AI-driven advertising insights.
 16. **Gorgias Templates** - Automated email templates.
+17. [AI Model Fit Finder](https://github.com/essamamdani/ai-model-fit-finder) - Open-source Chromium and Firefox extension for natural-language AI model discovery and hardware-fit recommendations; manual installation is currently required.
 
 
 ---
