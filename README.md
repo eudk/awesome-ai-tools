@@ -1670,6 +1670,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Lumen5](https://lumen5.com) - AI-driven video maker for businesses.
 - [Descript](https://www.descript.com) - Video editing and transcription.
 - [Rephrase.ai](https://www.rephrase.ai) - Create AI-generated videos.
+- [AI Dance Generator](https://danceaigenerator.com) - Turn one photo into a 9:16 AI dance video; pay per video ($4.90), no subscription.
 - [Deep Art Effects](https://www.deeparteffects.com) - AI video art generator.
 - [Elai.io](https://elai.io) - AI video builder with custom avatars.
 - [AI Video Enhancer](https://topazlabs.com/video-enhance-ai) - Enhance video quality using AI.
