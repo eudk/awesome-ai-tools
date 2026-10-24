@@ -1074,6 +1074,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again, focused on making deep learning more accessible.
 - [Neuralink](https://neuralink.com/) - Developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
 - [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 4 / Image generation with Aurora and FLUX.1 model
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ---
 
