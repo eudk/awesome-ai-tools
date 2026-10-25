@@ -2119,6 +2119,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[PromptEden](https://www.prompteden.com)** - AEO (Answer Engine Optimization) monitoring. Tracks how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead, across 9+ AI platforms refreshed daily.
 
 - [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
+- [FlashCrafter Growth Brief](https://www.flashcrafter.ai/growth-brief) - AI-assisted local-market, competitor, and visibility assessments for local service businesses; one initial report free, account required, no card required.
 
 ---
 ## Unsorted category
