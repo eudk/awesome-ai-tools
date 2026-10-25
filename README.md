@@ -1287,6 +1287,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
+- [Mingzi](https://mingzi.io) - AI-powered Chinese name generator, English-to-Chinese name converter, and naming agent built on 3,755 standard characters with Pinyin and native audio.
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
 - [IBM Watson](https://www.ibm.com/watson) - AI for Business Solutions
