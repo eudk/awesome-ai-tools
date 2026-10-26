@@ -1113,6 +1113,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Songs Like X](https://songslikex.com/plans) - AI tool for creating Spotify playlists.
 - [Zapier OpenAI Integrations](https://zapier.com/apps/openai/integrations) - Automation tool integrating OpenAI's capabilities.
 - [Rezi AI](https://www.rezi.ai/) - AI-driven resume builder.
+- [JobEmerge](https://www.jobemerge.work) - AI career tool for job-fit analysis, resume translation in 19 languages, Markdown editing, and application tracking.
 - [Ramblefix](https://ramblefix.com) - Speak and interact with AI.
 - [Claid AI](https://claid.ai/) - AI-powered image processing tool.
 - [ClipDrop](https://clipdrop.co/) - AI tool for image capturing and editing.
