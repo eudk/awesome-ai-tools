@@ -1609,6 +1609,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 
 
 ---
+- [Photoshoot](https://photoshoot.app) - Turn product and fashion reference photos into studio-grade product shots and model imagery for e-commerce. Free trial with 30 credits.
 
 # Custom GPT Sites
 
