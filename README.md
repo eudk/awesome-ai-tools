@@ -1109,6 +1109,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [WFGY](https://github.com/onestardao/WFGY) - Open source framework for debugging LLM agents and RAG pipelines with a 16-mode ProblemMap and practical triage checklists.
 - [Fireflies AI](https://fireflies.ai/) - AI tool for improving meetings.
 - [Interviews by AI](https://interviewsby.ai/) - AI-powered interview simulation.
+- [Interview Copilot](https://theinterviewcopilot.com/) - Desktop assistant that shows short answers to technical interview questions in real time and solves coding tasks from a screenshot.
 - [Plusdocs](https://www.plusdocs.com) - Tool for enhancing PowerPoint and Google Slides presentations.
 - [Songs Like X](https://songslikex.com/plans) - AI tool for creating Spotify playlists.
 - [Zapier OpenAI Integrations](https://zapier.com/apps/openai/integrations) - Automation tool integrating OpenAI's capabilities.
