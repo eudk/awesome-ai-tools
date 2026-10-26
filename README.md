@@ -2111,6 +2111,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
+- **[Awesome AI Workflows](https://github.com/Daniyal-Khatri/awesome-ai-workflows)** - A curated list of free and freemium AI tools grouped by beginner workflows, with 17 workflow stacks and an open JSON/CSV dataset.
 
 ---
 ## SEO related tools
