@@ -1318,6 +1318,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
 - [Lynote AI Humanize Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanization toolkit for rewriting AI drafts into natural, human-like writing. Full free web version: https://lynote.ai/ai-humanizer
 - [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) – AI-powered generator for Claude agent system prompts using a 3-step OpenRouter pipeline
+- [Easy Memorize](https://easymemorize.com) - Free browser-based speech and script memorization tool using section-by-section active recall, progressive word blanking, first-letter hints, and typed recall diffing. No account required.
 - [SocialBu](https://socialbu.com/) – AI-powered social media management platform for scheduling, publishing, monitoring, and automating across X, Instagram, LinkedIn, Facebook, TikTok, and more
 - [AI for Database](https://aifordatabase.com) – Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 
@@ -1606,6 +1607,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
+- [Kid Story](https://aikidstory.app) - AI children's book generator for ages 2-6 that turns a favorite toy photo into a reusable Character Model Sheet for consistent illustrated storybooks and print-ready PDF export.
 
 
 ---
