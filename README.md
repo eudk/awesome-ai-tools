@@ -1298,6 +1298,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Algorithmia](https://algorithmia.com/) - AI Model Deployment
 - [MonkeyLearn](https://monkeylearn.com/) - Text Analysis with AI
 - [Rasa](https://rasa.com/) - Open Source Chatbot Framework
+- **[Secondee](https://secondee.ai/)** - B2B AI that handles agreed routine work inside your existing tools.
 - [Dialogflow](https://cloud.google.com/dialogflow) - Google's Chatbot Platform
 - [Otter.ai](https://otter.ai/) - AI-Powered Note Taking
 - [Monday.com](https://monday.com/) - Work Operating System
