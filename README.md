@@ -1338,6 +1338,9 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 
 ---
+- [AI Chat Folders](https://chromewebstore.google.com/detail/ai-chat-folders/heojnnoccgjlcllhgiijhncnmjccbihe) - Organize AI chats with local folders, pins, stars, search, and Markdown/TXT/PDF export.
+
+
 
 # 💾 GPU Rental Services for Large Language Models
 
