@@ -2111,6 +2111,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
+- **[AI Tools Graveyard](https://github.com/Daniyal-Khatri/ai-tools-graveyard)** - A hand-verified list of 55 dead AI tools with death dates, causes, sources and an open dataset ($4.24B in funding buried).
 
 ---
 ## SEO related tools
