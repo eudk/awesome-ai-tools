@@ -1425,6 +1425,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **[Data Science Central](https://www.datasciencecentral.com/)**
 19. **[The AI Blog by Microsoft](https://blogs.microsoft.com/ai/)**
 20. **[DeepMind Blog](https://deepmind.com/blog)**
+21. [NEON DUO photo-preparation guide](https://a2oliteneon.xyz/guides/photo-guide) - Free reading on consent, separate portraits, framing and role assignment for a duo-video workflow; live AI generation is not open.
 
 ---
 
