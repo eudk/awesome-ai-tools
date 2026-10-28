@@ -185,6 +185,7 @@ A leading AI company focused on advanced multimodal and agent-based systems. Ope
 
 ### OpenAI Codex
 
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for coding tools (Claude Code, Codex, Cursor, and more). Privacy-first: token counts only, never prompts.
 <p>
   <a href="https://openai.com/codex" target="_blank">
     <img src="https://images.ctfassets.net/kftzwdyauwt9/2Z64goaCYuEmGe825kLJFB/9bc3f606fcceff406082118e9d9a8fb4/codex_share-image_v1.png?w=1600&h=900&fit=fill" alt="OpenAI Codex Logo" width="150"/>
