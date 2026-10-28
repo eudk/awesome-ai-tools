@@ -1221,6 +1221,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[Sistava](https://sistava.com)** — AI agent orchestration platform for deploying and operating multiple AI agents that run your business across sales, marketing, finance, and customer support. Reachable through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks. Each agent ships with full computer use on your own OS (screen vision, file access, browser automation, terminal execution, app control). Built on knowledge-graph memory, durable execution, layered guardrails, and full observability. Closed-source / subscription.
 
+- **[SwiftCall](https://swiftcall.org/ai-agents)** — Done-for-you AI agents for small businesses: a phone agent that answers and qualifies every call, plus booking, CRM follow-up, social posting and back-office agents.
+
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** — Self-hosted multi-agent AI runtime. MCP client + server, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and inbound connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. Electron desktop app, CLI, and Docker. MIT. → [Website](https://swarmclaw.ai)
 
 ### General-Purpose Agent Frameworks
