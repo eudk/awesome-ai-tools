@@ -1054,6 +1054,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 ---
 
 ## 🤖 Well known AI tools
+- [Cadence](https://music.rynn.me) — Free browser AI song generator: describe a gift or paste lyrics → full song with vocals. 4 free/day, Keep $1.99.
 
 [🔝 Back to Top](#top)
 
