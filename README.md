@@ -1387,6 +1387,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 14. **Panda 5** - News reader with AI-curated content.
 15. **Clever Ads** - AI-driven advertising insights.
 16. **Gorgias Templates** - Automated email templates.
+17. **[Archer](https://chromewebstore.google.com/detail/hagjdfgpkcfefgkpkelhfbeklkijeoah)** - Open source new tab where one box opens URLs or sends questions to Google, ChatGPT, Claude or Perplexity.
 
 
 ---
