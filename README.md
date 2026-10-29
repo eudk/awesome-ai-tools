@@ -1153,6 +1153,8 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
 
 ---
+- [Photoshoot](https://photoshoot.app/) - AI commercial photography tool for e-commerce: generates studio-grade product listing photos, lifestyle scenes, and model try-on shots from a single uploaded image. Freemium.
+
 ## 🦞 OpenClaw Ecosystem
 [🔝 Back to Top](#top)
 
@@ -1609,6 +1611,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 
 
 ---
+- [Photoshoot](https://photoshoot.app) - Turn product and fashion reference photos into studio-grade product shots and model imagery for e-commerce. Free trial with 30 credits.
 
 # Custom GPT Sites
 
