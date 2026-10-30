@@ -1307,6 +1307,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
 - [Canva](https://www.canva.com/) - Easy Graphic Design
+- [EasySociable](https://easysociable.com/?utm_source=eudk-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent (Claude Code, Cursor, Codex). Free plan.
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered visual mind mapping
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
 - [Instafill.ai](https://instafill.ai) – AI PDF Form Filler
