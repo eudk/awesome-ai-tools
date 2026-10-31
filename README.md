@@ -2108,6 +2108,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[FastChat](https://github.com/lm-sys/FastChat)** - An open-source chat framework that supports running and fine-tuning large language models, including LLaMA, Vicuna, and other popular options. FastChat can be deployed locally for private, controlled conversational AI applications.
 - **[Slate](https://slateup.ai)** – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
 - **[BestAIFor.com](https://bestaifor.com)** - A curated directory of the best AI tools and apps.
+- **[ListAIHub](https://listaihub.com)** - Multilingual directory of AI tools with clear pricing labels, curated stacks, Arabic-first RTL support, and an open agent submission API.
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
@@ -2119,6 +2120,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[PromptEden](https://www.prompteden.com)** - AEO (Answer Engine Optimization) monitoring. Tracks how ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok describe your brand and which competitors they recommend instead, across 9+ AI platforms refreshed daily.
 
 - [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
+- **[SEOCheck-AI](https://seocheck-ai.com/free-seo-check)** - Free online SEO checker scanning websites for indexability, on-page SEO, speed, security headers, and AI-search visibility with prioritized fixes.
 
 ---
 ## Unsorted category
