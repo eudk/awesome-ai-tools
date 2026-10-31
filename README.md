@@ -1113,6 +1113,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Songs Like X](https://songslikex.com/plans) - AI tool for creating Spotify playlists.
 - [Zapier OpenAI Integrations](https://zapier.com/apps/openai/integrations) - Automation tool integrating OpenAI's capabilities.
 - [Rezi AI](https://www.rezi.ai/) - AI-driven resume builder.
+- [Rezloom](https://rezloom.com) - Tailor a resume to a job description from your career materials—Chinese and English on the same facts, with controllable share links.
 - [Ramblefix](https://ramblefix.com) - Speak and interact with AI.
 - [Claid AI](https://claid.ai/) - AI-powered image processing tool.
 - [ClipDrop](https://clipdrop.co/) - AI tool for image capturing and editing.
@@ -1313,8 +1314,15 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [SummaryTube.com](https://summarytube.com) – AI Youtube Video Summarizer
+- [YouTube Summarizer](https://youtubesummarizer.org) - Free YouTube video summarizer: paste a link, get a clear summary with key points. Free to try, no download.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time
 - [helloandy.net AI Tools](https://helloandy.net) – Free AI writing and agent tools: Text Auditor, Humanizer, CLAUDE.md Writer, SKILL.md Generator, AI Writing Coach, and more. No account required.
+- [7emoji](https://7emoji.fun) - AI emoji translator: paste text, get up to 10 ranked emoji suggestions to copy. Free, no sign-up.
+- [Odluck](https://odluck.com) - Free online random generators for numbers, passwords, colors, cards, animals, and countries.
+- [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists—save and share in seconds.
+- [PuzzlePave](https://puzzlepave.com) - Free packing / polyomino puzzle online: rotate blocks, pave an 8×8 board across 100 levels—no download or sign-up.
+- [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles. Coming soon with live preview.
+- [Html2MP4](https://html2mp4.com) - Create MP4 videos from HTML, prompts, templates, and websites online.
 - [AI Text Auditor](https://helloandy.net/ai-text-auditor/) – Free tool that scores text against 28 AI writing patterns and returns a risk score
 - [Lynote AI Humanize Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanization toolkit for rewriting AI drafts into natural, human-like writing. Full free web version: https://lynote.ai/ai-humanizer
 - [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) – AI-powered generator for Claude agent system prompts using a 3-step OpenRouter pipeline
@@ -1632,6 +1640,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 [🔝 Back to Top](#top)
 
 - [Comicory](https://www.comicory.com) - AI comic generator that produces multi-panel stories with character consistency across frames.
+- [AI Story Writer](https://aistorywriter.org) - Free AI story writer for kids—short family-safe stories with illustrations and narration.
 
 ---
 
