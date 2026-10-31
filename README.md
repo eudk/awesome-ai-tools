@@ -1702,6 +1702,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [Reeloria](https://reeloria.com) - Browser video toolkit for video to GIF, compression, format conversion, trimming and burned-in subtitles, with no install required.
 
 ---
 
@@ -1820,6 +1821,7 @@ A selection of AI tools specialized in voice recognition, synthesis, and process
 26. [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.
 27. [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
 28. [OpenQuack](https://github.com/larryxiao/openquack) - On-device voice dictation for macOS — transcribes a 5-minute clip in 2.8 s; noise-robust, paste at cursor. 99 languages, ~8 MB, no telemetry. MIT.
+29. [Resona](https://resonaio.com) - Voice cloning and text-to-speech in 83 languages, billed per use with no subscription.
 
 ---
 
@@ -1880,6 +1882,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
 21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
 22. [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
+23. [Quixary](https://quixary.com) - AI image studio for background removal, object erase, 8K upscaling, outpainting, relighting and camera-angle change, priced per image.
 
 ---
 
