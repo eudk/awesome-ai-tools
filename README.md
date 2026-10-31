@@ -2113,6 +2113,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
 
 ---
+- **[MeetNewAI](https://meetnewai.com/)** - Free bilingual directory of new AI tools, browser-playable AI games, and MCP servers by the job to be done.
 ## SEO related tools
 - If your tool is related to SEO feel free to insert it here
 - **[Parse](https://parse.gl/)** - AI visibility analytics for tracking brand mentions, competitors, and cited sources across ChatGPT and Google AI Overviews.
