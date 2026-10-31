@@ -1632,6 +1632,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 [🔝 Back to Top](#top)
 
 - [Comicory](https://www.comicory.com) - AI comic generator that produces multi-panel stories with character consistency across frames.
+- [Prelulu](https://prelulu.ai/ai-video-chat) - Real-time AI video stories: AI roleplay with characters, plus AI video call and AI video chat face to face on a live avatar you can interrupt mid-sentence.
 
 ---
 
