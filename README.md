@@ -1563,6 +1563,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 
 This list highlights a selection of image generation tools, featuring advanced AI technologies such as Stable Diffusion, MidJourney, and DALL-E 3, among others. These tools offer a range of functionalities, from creating artistic visuals to generating realistic images.
 
+- [Breatic](https://github.com/orime-org/breatic) - Collaborative AI media canvas with shared document briefs and human-reviewed agent edits. Source-available for internal/private deployment under its license.
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
