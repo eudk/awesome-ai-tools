@@ -1665,10 +1665,12 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
+- [Cyanvid](https://cyanvid.com/?utm_source=eudk-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator SaaS — create from text or images with clear credit quotes.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
 - [Pictory](https://pictory.ai) - AI-powered video editing and creation.
 - [Lumen5](https://lumen5.com) - AI-driven video maker for businesses.
 - [Descript](https://www.descript.com) - Video editing and transcription.
+- [Barz Studio](https://barzvideo.com/?utm_source=eudk-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker with lyric sync and beat-reactive visuals.
 - [Rephrase.ai](https://www.rephrase.ai) - Create AI-generated videos.
 - [Deep Art Effects](https://www.deeparteffects.com) - AI video art generator.
 - [Elai.io](https://elai.io) - AI video builder with custom avatars.
