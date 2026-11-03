@@ -1702,6 +1702,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [Stivio](https://stivio.ai) - Image to video AI: upload a photo, describe the motion and get a 3-30s HD MP4. Also works as a Chrome/Firefox extension and a remote MCP server.
 
 ---
 
