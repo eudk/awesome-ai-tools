@@ -1308,6 +1308,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
 - [Canva](https://www.canva.com/) - Easy Graphic Design
 - [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered visual mind mapping
+- [DocAsker](https://docasker.com) - AI-verified client document collection and onboarding portal with instant PDF/ID validation and automated WhatsApp/Email reminders.
 - [aimatchpro](https://aimatch.pro/) - Platform to search for Aitools
 - [Instafill.ai](https://instafill.ai) – AI PDF Form Filler
 - [UnSoloMind.com](https://unsolomind.com) – Knowledge base AI assistant
