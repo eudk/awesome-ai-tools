@@ -1063,6 +1063,9 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Jasper AI](https://www.jasper.ai/) - Multi-purpose AI tool for various applications.
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [MindPal](https://mindpal.ai) – A platform to build AI Agents and Multi-agent workflows.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [TensorFlow](https://www.tensorflow.org/) - Open-source machine learning framework by Google.
