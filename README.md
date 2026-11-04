@@ -1293,7 +1293,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/) - Microsoft's AI Platform
 - [Google AI](https://ai.google/) - Google's AI Research and Tools
 - [Kaggle](https://www.kaggle.com/) - Data Science and ML Platform
-- [T-Social](https://t.me/TSocialAppBot) - TikTok-style social Mini App for Telegram with AI chat characters. 18+.
+- [Flirt Social](https://t.me/TSocialAppBot) - TikTok-style social Mini App for Telegram with AI chat characters. 18+.
 - [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
 - [OpenAI](https://openai.com/) - AI Research and Applications
 - [Algorithmia](https://algorithmia.com/) - AI Model Deployment
