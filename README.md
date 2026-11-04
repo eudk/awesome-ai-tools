@@ -1098,6 +1098,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
 - [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - Free CLAUDE.md, Cursor rules, and PRP templates that make AI coding assistants actually useful. 5 ready-to-use template packs for common project types.
+- [UberLLM](https://uberllm.dev) - One OpenAI- and Anthropic-compatible API key for text, image, video and music models (GPT, Claude, Gemini, DeepSeek, Qwen and others). Paid per request from prepaid credit, from $5; no free tier.
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - Any URL to clean markdown for LLMs. Free API, no signup required. Strips JS/CSS and outputs LLM-ready content.
 - [TensorFlow Machine Learning Library](https://www.tensorflow.org/) - Comprehensive open-source machine learning framework.
 - [Hugging Face NLP & Model Hub](https://huggingface.co/) - Extensive repository of NLP models and datasets.
