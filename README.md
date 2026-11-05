@@ -1590,6 +1590,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [GANBreeder](https://ganbreeder.app) - Breed two images to create novel new ones using GANs.
 - [Prisma](https://prisma-ai.com) - Turns photos into artworks using AI filters.
 - [Patternica](https://patternica.ai) - AI-powered pattern design tool.
+- [Photta](https://www.photta.app) - AI product photography studio and embedded e-commerce virtual try-on widget that turns single garment, jewelry, or eyewear photos into on-model lookbooks, 3D ghost mannequins, and live customer try-on experiences.
 - [Punch Needle Generator](https://www.punchneedle.co.il/en) - AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
 - [Playform](https://playform.io) - AI tool for artists and creators.
 - [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) - Animates old photos using AI.
