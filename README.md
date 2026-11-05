@@ -2121,6 +2121,8 @@ This section covers some of the most advanced software platforms for working wit
 - [AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor) - Open-source Python toolkit that tracks whether ChatGPT, Claude, and Perplexity cite your site. MIT license, runs locally on your credentials.
 
 ---
+- **[Descriptra](https://descriptra.com)** - AI product description generator and GEO/SEO catalog optimizer for e-commerce in 22 languages.
+
 ## Unsorted category
 This section introduces the latest AI tools that are gaining popularity and have not yet been widely featured in existing lists. Some of them very new
 
