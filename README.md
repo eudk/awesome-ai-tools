@@ -1151,6 +1151,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Free AI Tools JP](https://free-ai-tools.jp) - Curated directory of 63 free AI tools for Japanese users (text generation, image generation, transcription, contract review), no signup required.
 - [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, new-year greetings, business correspondence).
 - [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
+- [Slashspace](https://www.slashspace.ai/) - Local-first desktop AI canvas for research with branching chats, side-by-side model comparison and your own API keys. Paid.
 
 ---
 ## 🦞 OpenClaw Ecosystem
