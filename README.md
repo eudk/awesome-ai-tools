@@ -1983,6 +1983,8 @@ A selection of platforms offering API integration for various AI applications an
 - [HeyTensor](https://heytensor.com) - Free browser-based PyTorch tensor shape calculator with 22 tools. Computes shapes through Conv, Linear, LSTM, and Transformer layers without running code. Includes architecture presets (LeNet, ResNet block, Transformer encoder) and a "paste error" mode for parsing PyTorch RuntimeErrors.
 - [OpenRabbit](https://github.com/aryanbrite/openrabbit) - Free, open-source, self-hosted AI GitHub PR reviewer that runs entirely in GitHub Actions.
 
+- [IdeaMade](https://ideamade.ai/) - Build and publish web apps from natural language, with editable product blueprints, reviewable change plans, and version history.
+
 ---
 
 ## LLM Ops
