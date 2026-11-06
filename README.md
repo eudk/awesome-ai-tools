@@ -1112,6 +1112,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Plusdocs](https://www.plusdocs.com) - Tool for enhancing PowerPoint and Google Slides presentations.
 - [Songs Like X](https://songslikex.com/plans) - AI tool for creating Spotify playlists.
 - [Zapier OpenAI Integrations](https://zapier.com/apps/openai/integrations) - Automation tool integrating OpenAI's capabilities.
+- [Denpex](https://denpex.com) - GPU log diagnostics for training and inference failures across CUDA, PyTorch, NCCL, and vLLM workflows.
 - [Rezi AI](https://www.rezi.ai/) - AI-driven resume builder.
 - [Ramblefix](https://ramblefix.com) - Speak and interact with AI.
 - [Claid AI](https://claid.ai/) - AI-powered image processing tool.
