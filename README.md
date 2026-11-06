@@ -1108,6 +1108,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Future Tools](https://www.futuretools.io/) - A comprehensive list of additional AI-related tools.
 - [WFGY](https://github.com/onestardao/WFGY) - Open source framework for debugging LLM agents and RAG pipelines with a 16-mode ProblemMap and practical triage checklists.
 - [Fireflies AI](https://fireflies.ai/) - AI tool for improving meetings.
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and [MCP server](https://github.com/onemira-space/onemira-mcp).
 - [Interviews by AI](https://interviewsby.ai/) - AI-powered interview simulation.
 - [Plusdocs](https://www.plusdocs.com) - Tool for enhancing PowerPoint and Google Slides presentations.
 - [Songs Like X](https://songslikex.com/plans) - AI tool for creating Spotify playlists.
