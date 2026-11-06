@@ -2219,3 +2219,4 @@ This section introduces the latest AI tools that are gaining popularity and have
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
+- [TranscribeLab](https://transcribelab.pro/) - Bot-free browser meeting recorder and AI transcription workspace for calls, 5-hour audio files, and YouTube channels.
