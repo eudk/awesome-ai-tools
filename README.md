@@ -1363,6 +1363,8 @@ The following are online platforms where you can rent GPU resources, ideal for r
 
 10. **[CoreWeave](https://www.coreweave.com/)** - Specialized cloud provider with a focus on GPU-accelerated workloads.
 
+11. **[QIT](https://qit.energy/)** - GPU containers. Built for AI; AI Model API plus serverless/reserved GPUs (L40s, H100, H200, B200).
+
 ---
 
 # 🌐 List of Google Chrome Extensions
