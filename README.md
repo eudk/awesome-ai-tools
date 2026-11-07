@@ -1387,6 +1387,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 14. **Panda 5** - News reader with AI-curated content.
 15. **Clever Ads** - AI-driven advertising insights.
 16. **Gorgias Templates** - Automated email templates.
+17. **GlowCam** - Natural AI skin, makeup and light touch-ups for browser video calls (Meet, Zoom, Teams); runs on your device.
 
 
 ---
@@ -1606,6 +1607,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 - [Eye Type Detector](https://eyeshapedetector.app/) - Eye Shape Detector with AI|Finder eye shape
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, etc). Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
+- [Imagera](https://imagera.ai) - AI studio that runs many image and video models side by side, with Character IDs that keep a face or product consistent across shots.
 
 
 ---
