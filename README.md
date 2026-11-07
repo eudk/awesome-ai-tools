@@ -1300,6 +1300,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - [Rasa](https://rasa.com/) - Open Source Chatbot Framework
 - [Dialogflow](https://cloud.google.com/dialogflow) - Google's Chatbot Platform
 - [Otter.ai](https://otter.ai/) - AI-Powered Note Taking
+- [Meetini](https://meetini.net/) - Paid meeting and interview assistant for Apple Silicon Macs with local live captions and transcripts, meeting notes, and cloud AI answer suggestions and follow-up.
 - [Monday.com](https://monday.com/) - Work Operating System
 - [RescueTime](https://www.rescuetime.com/) - Time Management
 - [Kitmul](https://kitmul.com) - 100+ Free AI-Powered Browser Tools (PDF, Image, Video, Text, Developer utilities). Privacy-first, no signup required.
