@@ -1641,6 +1641,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 
 This list includes a range of tools for AI-powered video generation, offering capabilities from video editing to creating entirely new video content with AI.
 
+- [ReelAI](https://tryreelai.com/) - Creates short AI videos from photos using templates.
 
 - **[Seedance 2.0 (ByteDance)](https://seed.bytedance.com/en/seedance)** — Multimodal AI video generation model (text, image, video, audio)
   - Supports **multi-shot cinematic video generation with native audio and scene control**
