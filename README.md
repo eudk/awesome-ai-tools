@@ -1281,7 +1281,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[Mira](https://github.com/vwww-droid/Mira)** — AI-assisted runtime protection analysis platform for third-party Android and iOS apps, enabling agents to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 - **[invisible-playwright](https://github.com/feder-cr/invisible_playwright)** — Python wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement for vanilla Playwright Firefox, returns a native Playwright Browser. Anti-fingerprinting at the C++ source level (Canvas, WebGL, AudioContext, Fonts, WebRTC, Timezone, DevTools detection). Useful when AI agents need anti-detect web access. MIT.
 - **[agent-qa](https://github.com/vostride/agent-qa)** — Self-improving agentic QA harness with memory for natural-language web and mobile test execution.
-- **[Arcmira: YouTube Transcript Search](https://arcmira.com)** - API and MCP tools for searching indexed YouTube transcripts, with timestamped sources, speaker appearances, and sponsor research. [API docs](https://arcmira.com/docs).
+- **[Arcmira: YouTube Transcript Search](https://arcmira.com)** - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
 ---
 ## 🆕 Additional AI and Productivity Tools
 
