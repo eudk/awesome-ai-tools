@@ -1632,6 +1632,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 [🔝 Back to Top](#top)
 
 - [Comicory](https://www.comicory.com) - AI comic generator that produces multi-panel stories with character consistency across frames.
+- [Mangit](https://mangit.app/?utm_source=awesome-ai-tools) - Mobile app that translates manga and comic pages from a photo or screenshot, erasing the original text and typesetting the translation inside the speech bubbles.
 
 ---
 
