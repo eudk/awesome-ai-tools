@@ -1363,6 +1363,8 @@ The following are online platforms where you can rent GPU resources, ideal for r
 
 10. **[CoreWeave](https://www.coreweave.com/)** - Specialized cloud provider with a focus on GPU-accelerated workloads.
 
+11. **[CloudGPU](https://cloudgpu.app/)** - RTX 4090/5090 GPU rental for model training, inference, and ComfyUI workflows.
+
 ---
 
 # 🌐 List of Google Chrome Extensions
