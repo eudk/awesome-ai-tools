@@ -1284,6 +1284,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ---
 ## 🆕 Additional AI and Productivity Tools
 
+- [Novastart](https://novastart.com/) - Infinite canvas workspace for apps, shared canvases, and AI agents.
+
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
