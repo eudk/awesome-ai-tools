@@ -2111,6 +2111,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
+- **[AI Tool Gems](https://aitoolgems.tech/)** - Curated directory of 65+ AI tools with a downloadable PKR & USD pricing index (/prices/), buyer guides, and llms.txt coverage for Pakistan.
 
 ---
 ## SEO related tools
