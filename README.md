@@ -1093,6 +1093,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [GetPaperFast AI paper summary](https://www.getpaperfast.com/) - Fast Paper Summaries with Multilingual Export.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar) and formats references in 40+ citation styles. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns (sycophantic openers, filler phrases, em-dash overuse) from text files and stdin. Pass through code blocks and URLs unchanged. `npm install -g unslop`.
+- [H3 MiniMax Image/Video Generator](https://www.h3minimax.com) - Web app for generating images and videos with the MiniMax H3 model, pay-as-you-go credits, no login required to try.
 - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [DeepL Language Translator](https://www.deepl.com/translator) - Offers superior language translation services powered by advanced AI technology.
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
