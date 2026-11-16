@@ -1675,6 +1675,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [AI Video Enhancer](https://topazlabs.com/video-enhance-ai) - Enhance video quality using AI.
 - [GlitchAI](https://glitchai.com) - AI for video glitch effects.
 - [Kapwing AI Video Editor](https://www.kapwing.com) - Online AI video editor.
+- [Cutora AI](https://usecutora.com) - AI video editor for talking-head videos: first cut without long pauses, false starts and repeated takes, plus captions.
 - [Video Background Remover](https://videobackgroundremover.org) - Dedicated tool to remove video backgrounds without a green screen, with free no-watermark exports.
 - [Veed.io](https://www.veed.io) - AI video editing and subtitles.
 - [Fliki](https://fliki.ai) - Turn text to speech videos.
