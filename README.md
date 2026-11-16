@@ -88,6 +88,8 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 | [🤖 AI-Driven Robots and Robotic Dogs](#-ai-driven-robots-and-robotic-dogs)       | Cutting-edge robotics powered by AI.                                          |
 | [🤖 AI-Related Tools](#-ai-related-tools)                                         | Miscellaneous tools leveraging AI technology.                                 |
 | [🆕 Additional AI and Productivity Tools](#-additional-ai-and-productivity-tools) | New AI tools and services for productivity and innovation.                    |
+
+- [HumanPen](https://humanpen.net/) - Document-level AI humanize (DOCX/PPTX/TXT), translate (12 languages), condense, citation correction (12 styles), and research projects via web app, REST API, and A2A 1.0 (100 signup credits, credit-based pricing).
 | [💾 GPU Rental Services](#-gpu-rental-services-for-large-language-models)         | Services for renting GPUs to train and deploy AI models.                      |
 | [🌐 Chrome Extensions](#-list-of-google-chrome-extensions)                        | Useful AI-powered Chrome extensions.                                          |
 | [🖋️ Learning AI/ML](#learning-ai-and-ml)                                          | Resources for learning AI and machine learning.                               |
