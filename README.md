@@ -1289,6 +1289,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
+- [HumanPen](https://humanpen.net/) - Document-level AI humanize, translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects.
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
 - [IBM Watson](https://www.ibm.com/watson) - AI for Business Solutions
