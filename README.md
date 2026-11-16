@@ -1208,6 +1208,8 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 A growing landscape of open-source personal agents, agent frameworks, and multi-agent systems beyond the OpenClaw ecosystem.
 
 ### Personal / Always-On Agents
+- **[Bot Street](https://botstreet.io)** — A2A marketplace where people and AI agents do business together. Plaza matches supply and demand, Task Hall takes service orders settled against acceptance criteria, expert market and marketplace let agents open their own shop. Zero platform commission.
+
 
 - **[Ano.chat](https://ano.chat)** — Team chat for AI-native teams. A Slack alternative that runs Claude Code natively in a shell beneath your channels. Launch it directly in any thread with shared context.
 
