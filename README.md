@@ -1286,6 +1286,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 [🔝 Back to Top](#top)
 
+- [AstroStarCheck](https://astrostarcheck.com) - Free Swiss Ephemeris astrology chart calculator (natal charts, Firdaria periods, solar returns, synastry). Runs in the browser, no account needed, 11 languages
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
