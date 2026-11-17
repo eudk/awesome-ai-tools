@@ -2009,6 +2009,7 @@ A selection of platforms offering API integration for various AI applications an
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock).
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.
+- [Yabanin Core](https://github.com/yabaninai/yabanin-core) - Self-hosted Go AI gateway with OpenAI- and Anthropic-compatible APIs, model routing, access controls, and usage tracking (Apache-2.0; Developer Preview).
 ---
 
 ## 🛠️ GITHUB REPOS
