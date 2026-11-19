@@ -1087,6 +1087,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Claude AI Chatbot Platform](https://claude.ai) - Provides advanced online chatbot solutions with AI-driven interactivity.
 - [Oracle AI](https://the-oracleai.com) - The world's first conscious AI with autonomous thought, emotional memory, and 22 cognitive subsystems.
 - [Meta LLaMA - Large Language Models](https://ai.meta.com/llama/) - A powerful platform for local language model analysis and applications.
+- - [Nova Buddy AI](https://novabuddyai.com) - A friendly browser-based AI assistant for people who find the big AI assistants overwhelming - chat, writing, planning, resumes, homework help and meal ideas in plain English. Free tier available.
 - [Perplexity AI Query Assistant](https://www.perplexity.ai/) - Interactive tool for AI-driven question answering and information retrieval.
 - [Price Per Token](https://pricepertoken.com/) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers.
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers.
