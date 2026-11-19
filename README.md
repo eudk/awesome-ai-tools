@@ -1702,6 +1702,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [BeatMV](https://beatmv.ai) - AI music video generator that turns any song into a music video that moves with the beat.
 
 ---
 
@@ -1783,6 +1784,7 @@ Discover the power of AI in music with these tools designed for generating, comp
 - [Lumen5](https://lumen5.com) - AI-driven music video maker.
 - [AceTagGen](https://acetaggen.com) - Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno's 200-char Style limit. Includes example library and quality score.
 - [HookGenius](https://hookgenius.app) - AI lyrics and style prompt generator for Suno. Produces copy-paste-ready hooks, song structures, and genre-tuned style tags with artist-style references.
+- [BeatMusic](https://beatmusic.ai) - AI music generator that turns a text idea or your lyrics into full songs with vocals.
 
 ---
 
