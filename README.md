@@ -1284,6 +1284,9 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 ---
 ## 🆕 Additional AI and Productivity Tools
 
+- [Alter Ego](https://cloudalterego.cafeboon.com) - Shared memory for Claude, ChatGPT, Gemini and any AI chat with MCP; logs every question automatically without account settings and stores rules, profiles and work history in your own cloud.
+
+
 [🔝 Back to Top](#top)
 
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
