@@ -1880,6 +1880,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
 21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
 22. [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
+23. [ExpandMyImage](https://expandmyimage.com) - AI image expander (outpainting) that adapts photos into 3:4, 4:5, 2:3, and 9:16 social media formats without cropping, plus a free in-browser no-crop resizer.
 
 ---
 
