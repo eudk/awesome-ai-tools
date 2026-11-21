@@ -103,6 +103,7 @@ Found a broken link or something missing? Feel free to [open an issue](https://g
 | [API Integration Sites](#sites-with-api-integration)                              | Websites offering API integrations for AI models.                             |
 | [🛠️ AI Compilers/Code Assistants](#ai-powered-compilers-and-code-assistants)      | Tools for coding and compiling with AI assistance.                            |
 | [🛠️ LLM Ops](#llm-ops)                                                            | Operations and infrastructure for large language models.                      |
+| [🛠️ AI for DevOps & SRE](#ai-for-devops--sre)                                    | AI agents that investigate production incidents and operate infrastructure.   |
 | [🛠️ Consumer AI Hardware](#consumer-ai-hardware)                                  | Hardware designed for running AI applications at home.                        |
 | [💻 Software for Large Language Models](#-software-for-large-language-models)     | Software for training and using large AI language models.                     |
 
@@ -2009,6 +2010,15 @@ A selection of platforms offering API integration for various AI applications an
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock).
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.
+---
+
+## AI for DevOps & SRE
+
+[🔝 Back to Top](#top)
+
+- [Sherlocks AI](https://www.sherlocks.ai/) - AI SRE agent that investigates production alerts to a root cause across AWS, GCP, Azure and Kubernetes, and posts the evidence in Slack. Read-only access; free plan with 30 investigations a month.
+- [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Open-source CLI that scans a Kubernetes cluster, diagnoses issues and explains them in plain English.
+- [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - Open-source AI agent from Robusta that investigates alerts and Kubernetes problems by running the checks an engineer would.
 ---
 
 ## 🛠️ GITHUB REPOS
