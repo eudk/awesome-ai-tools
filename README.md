@@ -647,6 +647,12 @@ Perplexity is an AI-based search and research platform that combines large langu
   - Max tier for heavier usage, advanced agent features, and early access  
   - Enterprise tiers for teams, admin controls, security, and higher limits  
 ---
+### RawMind AI
+
+RawMind is a free uncensored neural network that provides conversational reasoning, search, and multimodal text, image, and video generation.
+
+- **[RawMind AI](https://rawmind.app)** – Free web-based uncensored chat and intelligence platform with reasoning and multimedia creation capabilities.
+
 ## 🇨🇳 Leading Chinese AI Models
 [🔝 Back to Top](#top)
 
