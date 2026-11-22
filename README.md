@@ -1689,6 +1689,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Neural Love](https://neural.love) - AI for video restoration and enhancement.
 - [RendrFX](https://www.rendrfx.com) - AI-based online video maker.
 - [D-ID](https://www.d-id.com) - AI-driven video face animation.
+- [Live Face Swap](https://live-face-swap.net/) - Applies a reference look to a live webcam feed and lets creators record and download the result in the browser.
 - [Wave.video](https://wave.video) - Video marketing platform.
 - [Nsketch AI](https://nsketch.ai) - AI video and image generation platform with 20+ models and ready-made templates for creators.
 - [AI Video Creator](https://www.aivideocreator.com) - Create videos with AI.
