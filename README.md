@@ -1118,6 +1118,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [ClipDrop](https://clipdrop.co/) - AI tool for image capturing and editing.
 - [Palette FM](https://palette.fm/) - AI for color management on images.
 - [HeyGen](https://www.heygen.com/) - AI platform for video generation.
+- [Free Image to Video](https://freeimagetovideo.ai/) - Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
 - [Phrasly AI](https://phrasly.ai/) - AI tool to humanize text.
 - [Generated Photos](https://generated.photos/) - AI for generating human-like images.
 - [Scribble Diffusion](https://scribblediffusion.com/) - AI that generates images from drawings.
