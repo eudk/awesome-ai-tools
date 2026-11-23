@@ -1413,6 +1413,8 @@ The following are online platforms where you can rent GPU resources, ideal for r
 
 ## Free Educational Websites
 
+- [Whiteboard AI Tutor](https://github.com/molly554/whiteboard-ai-tutor) - Open-source animated whiteboard lessons and model-comparison benchmarks; generating new lessons requires model API keys.
+
 [🔝 Back to Top](#top)
 
 11. **[Machine Learning Mastery](https://machinelearningmastery.com/)**
