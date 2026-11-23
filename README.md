@@ -1662,6 +1662,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
     - Not fully open globally (limited rollout / controlled access)
     - Many public “Seedance” sites are wrappers, not official endpoints
 
+- [MiaReel](https://miareel.com) - Image-to-video AI studio: animates a photo in one click with no prompt, offers 9:16 social templates and Kling 4.0 motion control; 20 free welcome credits, then a $4.99 one-time credit pack (no subscription).
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
