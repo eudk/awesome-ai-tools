@@ -2109,6 +2109,7 @@ This section covers some of the most advanced software platforms for working wit
 - **[Slate](https://slateup.ai)** – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
 - **[BestAIFor.com](https://bestaifor.com)** - A curated directory of the best AI tools and apps.
 - **[Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups)** - A curated list of bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
+- [FreeModel Radar](https://freemodel-radar.brodydung.workers.dev) - Live tracker for OpenRouter's free (:free) models: daily diff of additions and removals, a public status page and change history, plus instant alerts for developers who build on free models.
 
 - **[Gemini Omni Prompts](https://geminiomniprompts.org/)** - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
 
