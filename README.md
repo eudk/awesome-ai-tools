@@ -1882,6 +1882,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 22. [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
 
 ---
+- [Kavel](https://www.kavel.ai/) - Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card.
 
 ## Tools for better image prompting
 
