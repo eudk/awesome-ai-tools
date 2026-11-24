@@ -1074,6 +1074,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again, focused on making deep learning more accessible.
 - [Neuralink](https://neuralink.com/) - Developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.
 - [GROK (XAI)](https://x.ai/) - AI model from X (former twitter) / GROK 4 / Image generation with Aurora and FLUX.1 model
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 ---
 
