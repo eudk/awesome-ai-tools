@@ -1283,6 +1283,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[agent-qa](https://github.com/vostride/agent-qa)** — Self-improving agentic QA harness with memory for natural-language web and mobile test execution.
 ---
 ## 🆕 Additional AI and Productivity Tools
+- [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) - Free browser extension that continues ChatGPT responses after a configurable delay and supports per-tab controls and context handoff.
 
 [🔝 Back to Top](#top)
 
