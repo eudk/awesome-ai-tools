@@ -1338,6 +1338,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 
 ---
+- [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) - Pay-as-you-go private AI image & video studio (45 models from $5, never-expiring credits, 3 free daily no-login generations, zero public gallery) + free browser PSD editor.
 
 # 💾 GPU Rental Services for Large Language Models
 
