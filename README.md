@@ -1699,6 +1699,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [MaxVideoAI](https://maxvideoai.com) - Multi-engine AI video generation hub (Sora, Veo, Wan, Kling, LTX…).
 - [TubePrompter](https://tubeprompter.com) - Free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Veo, Midjourney, Runway Gen-3, Stable Diffusion, and other AI generators.
 - [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds and extracts the best highlight moments from long-form videos for streamers and content creators.
+- [EasyClippers](https://easyclippers.com) - Turns Twitch, Kick and YouTube live streams into captioned vertical shorts while the stream is still live.
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
