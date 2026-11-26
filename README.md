@@ -1063,6 +1063,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Jasper AI](https://www.jasper.ai/) - Multi-purpose AI tool for various applications.
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
+- [Dooza Crew](https://www.dooza.ai/crew) - Hosted AI employee workspace where a lead agent coordinates specialist helper agents in shared chats with human approval.
 - [MindPal](https://mindpal.ai) – A platform to build AI Agents and Multi-agent workflows.
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [TensorFlow](https://www.tensorflow.org/) - Open-source machine learning framework by Google.
