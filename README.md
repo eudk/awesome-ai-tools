@@ -1286,6 +1286,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 [🔝 Back to Top](#top)
 
+- [AshuTeacher](https://ashuteacher.vercel.app) - Interactive AI Voice Blackboard, 195-country syllabus academy (KG to Doctoral), PDF/photo exam paper solver & 6-milestone Thesis Research Studio with live AI Viva Defense in 100+ languages
 - [DeepL](https://www.deepl.com/translator) - Advanced Language Translation
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning Library
 - [Hugging Face](https://huggingface.co/) - NLP and Transformer Models
