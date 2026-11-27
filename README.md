@@ -1882,6 +1882,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 22. [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
 
 ---
+23. [Liofx](https://liofx.com/photo-to-gif) - Browser-based photo and GIF studio with 15 free on-device tools (zero uploads, no watermark) and 93 cloud AI image and video models.
 
 ## Tools for better image prompting
 
